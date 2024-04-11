@@ -1,0 +1,18 @@
+<svg width="100%" height="100%" viewBox="0 0 100 100" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<radialGradient cx="105.593" cy="97.2009" gradientTransform="matrix(1 0 0 1 0 0)" gradientUnits="userSpaceOnUse" id="RadialGradient" r="155.286">
+<stop offset="0" stop-color="#f50057"/>
+<stop offset="1" stop-color="#930023"/>
+</radialGradient>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="98.5789" id="Filter" width="109" x="-4.5" y="1.99025">
+<feDropShadow dx="7.83603e-17" dy="1.27972" flood-color="#000000" flood-opacity="0.8" in="SourceGraphic" result="Shadow" stdDeviation="2"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="47.6461" id="Filter_2" width="72.5263" x="13.6066" y="26.8705">
+<feDropShadow dx="7.83603e-17" dy="1.27972" flood-color="#000000" flood-opacity="0.8" in="SourceGraphic" result="Shadow" stdDeviation="2"/>
+</filter>
+</defs>
+<g opacity="1">
+<path d="M50 94.2895L50 94.2895C22.6447 94.2895 0.5 72.1447 0.5 44.7895L0.5 13.2658C0.5 9.09737 3.88684 5.71053 8.05526 5.71053L91.9447 5.71053C96.1132 5.71053 99.5 9.09737 99.5 13.2658L99.5 44.7895C99.5 72.1447 77.3553 94.2895 50 94.2895Z" fill="url(#RadialGradient)" filter="url(#Filter)"/>
+<path d="M50 68.2368C48.4368 68.2368 46.6132 67.7158 45.3105 66.4132L20.5605 41.6632C17.9553 39.0579 17.9553 34.8895 20.5605 32.5447C23.1658 29.9395 27.3342 29.9395 29.6789 32.5447L50 52.6053L70.0605 32.5447C72.6658 29.9395 76.8342 29.9395 79.1789 32.5447C81.7842 35.15 81.7842 39.3184 79.1789 41.6632L54.4289 66.4132C53.3868 67.7158 51.5632 68.2368 50 68.2368Z" fill="#ffffff" filter="url(#Filter_2)"/>
+</g>
+</svg>

@@ -1,0 +1,42 @@
+<svg width="100%" height="100%" viewBox="0 0 1000 1000" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(11.4185 2.42497e-31 0 11.7056 -59.9809 -99.0229)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="27.91" x2="47.7017" y1="50" y2="50">
+<stop offset="0" stop-color="#00ff73"/>
+<stop offset="0.289474" stop-color="#00d863"/>
+<stop offset="1" stop-color="#047d3b"/>
+</linearGradient>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="368" id="Filter" width="298.491" x="225.759" y="310.001">
+<feDropShadow dx="3.67394e-16" dy="-6" flood-color="#000000" flood-opacity="0.49" in="SourceGraphic" result="Shadow" stdDeviation="12.5"/>
+</filter>
+<linearGradient gradientTransform="matrix(11.4185 2.42498e-31 0 11.7056 -61.3975 -99.0283)" gradientUnits="userSpaceOnUse" id="LinearGradient_2" x1="49.7783" x2="75.5074" y1="50" y2="50">
+<stop offset="0" stop-color="#00ff73"/>
+<stop offset="0.289474" stop-color="#00d863"/>
+<stop offset="1" stop-color="#047d3b"/>
+</linearGradient>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="367.997" id="Filter_2" width="356.29" x="475.75" y="309.999">
+<feDropShadow dx="3.67394e-16" dy="-6" flood-color="#000000" flood-opacity="0.49" in="SourceGraphic" result="Shadow" stdDeviation="12.5"/>
+</filter>
+<linearGradient gradientTransform="matrix(11.4185 2.42496e-31 0 11.7055 -71.5835 -99.0247)" gradientUnits="userSpaceOnUse" id="LinearGradient_3" x1="78.0129" x2="93.8462" y1="50" y2="50">
+<stop offset="0" stop-color="#00ff73"/>
+<stop offset="0.289474" stop-color="#00d863"/>
+<stop offset="1" stop-color="#047d3b"/>
+</linearGradient>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="367.996" id="Filter_3" width="243.293" x="787.957" y="309.999">
+<feDropShadow dx="3.67394e-16" dy="-6" flood-color="#000000" flood-opacity="0.49" in="SourceGraphic" result="Shadow" stdDeviation="12.5"/>
+</filter>
+<linearGradient gradientTransform="matrix(11.4185 2.42496e-31 0 11.7055 -70.267 -98.0253)" gradientUnits="userSpaceOnUse" id="LinearGradient_4" x1="6.15378" x2="25.9454" y1="50" y2="50">
+<stop offset="0" stop-color="#00ff73"/>
+<stop offset="0.289474" stop-color="#00d863"/>
+<stop offset="1" stop-color="#047d3b"/>
+</linearGradient>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="368" id="Filter_4" width="306.438" x="-31.25" y="309.999">
+<feDropShadow dx="3.67394e-16" dy="-6" flood-color="#000000" flood-opacity="0.49" in="SourceGraphic" result="Shadow" stdDeviation="12.5"/>
+</filter>
+</defs>
+<g opacity="1" id="HTML">
+<path d="M493 347.251L257.009 347.251L257.009 416.753L341.105 416.757L341.105 652.751L408.902 652.751L408.902 416.757L493 416.753L493 347.251Z" fill="url(#LinearGradient)" filter="url(#Filter)" layerName="path 12" shadowAngle="-1.5708" shadowColor="#000000" shadowOffset="6" shadowOpacity="0.49" shadowRadius="25"/>
+<path d="M800.79 347.249L507 347.249L507 652.746L574.798 652.746L574.798 416.751L619.996 416.751L620.005 578.924L687.794 578.922L687.794 416.287L732.992 416.287L732.992 652.746L800.79 652.746L800.79 347.249Z" fill="url(#LinearGradient_2)" filter="url(#Filter_2)" layerName="path 13" shadowAngle="-1.5708" shadowColor="#000000" shadowOffset="6" shadowOpacity="0.49" shadowRadius="25"/>
+<path d="M1000 652.744L1000 583.247L895 583.247L895 347.249L819.207 347.249L819.207 652.744L1000 652.744Z" fill="url(#LinearGradient_3)" filter="url(#Filter_3)" layerName="path 14" shadowAngle="-1.5708" shadowColor="#000000" shadowOffset="6" shadowOpacity="0.49" shadowRadius="25"/>
+<path d="M0 347.249L0 652.749L68.5625 652.749L68.25 528.093L175.094 528.093L174.969 652.749L243.562 652.749L243.562 528.093L243.938 460.436L243.562 460.436L243.562 347.249L175.188 347.249L175.469 460.436L68.0625 460.436L68.5938 347.249L0 347.249Z" fill="url(#LinearGradient_4)" filter="url(#Filter_4)" layerName="Curve 8" shadowAngle="-1.5708" shadowColor="#000000" shadowOffset="6" shadowOpacity="0.49" shadowRadius="25"/>
+</g>
+</svg>
