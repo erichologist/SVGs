@@ -1,0 +1,44 @@
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 100 100" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="16.3502" id="Filter" width="65.5112" x="18.1791" y="52.0947">
+<feDropShadow dx="-0.0107351" dy="0.985576" flood-color="#79655c" flood-opacity="1" in="SourceGraphic" result="Shadow" stdDeviation="0.492817"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="8.77938" id="Filter_2" width="57.8493" x="21.9652" y="55.9746">
+<feDropShadow dx="-0.0107351" dy="0.985576" flood-color="#624040" flood-opacity="0.649094" in="SourceGraphic" result="Shadow" stdDeviation="0.492817"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="60.2401" id="Filter_3" width="50.695" x="46.3079" y="22.7889">
+<feComponentTransfer in="SourceGraphic" result="Alpha">
+<feFuncA slope="0.237421" type="linear"/>
+</feComponentTransfer>
+<feDropShadow dx="-0.0107351" dy="0.985576" flood-color="#c6b1a9" flood-opacity="1" in="Alpha" result="Shadow" stdDeviation="0.492817"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="61.1375" id="Filter_4" width="52.4637" x="2.27963" y="21.9616">
+<feComponentTransfer in="SourceGraphic" result="Alpha">
+<feFuncA slope="0.237421" type="linear"/>
+</feComponentTransfer>
+<feDropShadow dx="-0.0107351" dy="0.985576" flood-color="#c6b1a9" flood-opacity="1" in="Alpha" result="Shadow" stdDeviation="0.492817"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="63.6237" id="Filter_5" width="54.1696" x="0.214748" y="19.1737">
+<feDropShadow dx="-0.0107351" dy="0.985576" flood-color="#79655c" flood-opacity="1" in="SourceGraphic" result="Shadow" stdDeviation="0.492817"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="64.0881" id="Filter_6" width="52.7433" x="47.2527" y="18.9415">
+<feComponentTransfer in="SourceGraphic" result="Alpha">
+<feFuncA slope="0.988182" type="linear"/>
+</feComponentTransfer>
+<feDropShadow dx="-0.0107351" dy="0.985576" flood-color="#79655c" flood-opacity="1" in="Alpha" result="Shadow" stdDeviation="0.492817"/>
+</filter>
+</defs>
+<clipPath id="ArtboardFrame">
+<rect height="64.1577" width="99.7813" x="0.214748" y="18.9415"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="Layer" layerName="Layer">
+<g opacity="1" layerName="Boobies">
+<path d="M75.5259 52.3411C71.6914 52.3411 68.5829 55.4496 68.5829 59.2842C68.5829 63.1187 71.6914 66.2272 75.5259 66.2272C79.3604 66.2272 82.469 63.1187 82.469 59.2842C82.469 55.4496 79.3604 52.3411 75.5259 52.3411ZM26.3649 52.3411C22.5304 52.3411 19.4219 55.4496 19.4219 59.2842C19.4219 63.1187 22.5304 66.2272 26.3649 66.2272C30.1994 66.2272 33.3079 63.1187 33.3079 59.2842C33.3079 55.4496 30.1994 52.3411 26.3649 52.3411Z" fill="#af8d8d" fill-rule="nonzero" filter="url(#Filter)" stroke="none" layerName="Curve 1" shadowAngle="1.58169" shadowColor="#79655c" shadowOffset="0.985634" shadowOpacity="1" shadowRadius="0.985634"/>
+<path d="M75.5259 56.2211C73.8319 56.2211 72.4586 57.5904 72.4586 59.2849C72.4586 60.9794 73.8319 62.353 75.5259 62.353C77.22 62.353 78.5933 60.9794 78.5933 59.2849C78.5933 57.5904 77.22 56.2211 75.5259 56.2211ZM26.3649 56.2211C24.6214 56.2211 23.208 57.6348 23.208 59.3787C23.208 61.1226 24.6214 62.5364 26.3649 62.5364C28.1084 62.5364 29.5218 61.1226 29.5218 59.3787C29.5218 57.6348 28.1084 56.2211 26.3649 56.2211Z" fill="#c6a9a9" fill-rule="nonzero" filter="url(#Filter_2)" stroke="none" layerName="Curve 1" shadowAngle="1.58169" shadowColor="#624040" shadowOffset="0.985634" shadowOpacity="0.649094" shadowRadius="0.985634"/>
+<path d="M86.282 25.4847C86.282 36.0038 93.3323 44.0552 93.3323 57.2111C93.3323 68.8935 83.8637 78.3621 72.1813 78.3621C60.4989 78.3621 50 68.8935 50 57.2111C50 52.2971 50.114 45.0766 51.9988 40.3941" fill="none" filter="url(#Filter_3)" stroke="#c6b1a9" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.8986" layerName="path 11" shadowAngle="1.58169" shadowColor="#c6b1a9" shadowOffset="0.985634" shadowOpacity="1" shadowRadius="0.985634"/>
+<path d="M13.2941 24.7275C13.2941 35.5479 6.04185 43.8299 6.04185 57.3626C6.04185 69.3795 16.2388 78.3621 28.2557 78.3621C40.2726 78.3621 50.6151 69.3795 50.6151 57.3626C50.6151 52.3078 51.4429 44.1841 50.6788 40.064" fill="none" filter="url(#Filter_4)" stroke="#c6b1a9" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.03888" layerName="path 12" shadowAngle="1.58169" shadowColor="#c6b1a9" shadowOffset="0.985634" shadowOpacity="1" shadowRadius="0.985634"/>
+<path d="M11.2384 21.6379C11.2384 32.9222 3.6752 41.5594 3.6752 55.6724C3.6752 68.2047 15.7234 78.3621 28.2557 78.3621C40.788 78.3621 50.9454 68.2047 50.9454 55.6724C50.9454 50.4009 50.9454 45.5836 50.9454 40.2306" fill="none" filter="url(#Filter_5)" stroke="#c6b1a9" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.43535" layerName="Curve 1" shadowAngle="1.58169" shadowColor="#79655c" shadowOffset="0.985634" shadowOpacity="1" shadowRadius="0.985634"/>
+<path d="M88.7616 21.6379C88.7616 32.9222 96.3248 41.5594 96.3248 55.6724C96.3248 68.2047 86.1674 78.3621 73.6351 78.3621C61.1028 78.3621 50.9454 68.2047 50.9454 55.6724C50.9454 50.4009 51.2061 45.449 52.9509 40.4084" fill="none" filter="url(#Filter_6)" stroke="#c6b1a9" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.89982" layerName="Curve 1" shadowAngle="1.58169" shadowColor="#79655c" shadowOffset="0.985634" shadowOpacity="1" shadowRadius="0.985634"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,38 @@
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="-1.68424 1.71837 101.896 98.1752" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(1.17938 0 0 1.17938 -1.5839 2.35719)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="15.4223" x2="18.2597" y1="54.2016" y2="-18.6787">
+<stop offset="0.167105" stop-color="#ffffff"/>
+<stop offset="0.500452" stop-color="#ffffff"/>
+<stop offset="0.860017" stop-color="#bebebe"/>
+<stop offset="1" stop-color="#a9a9a9"/>
+</linearGradient>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="83.1279" id="Filter" width="84.8666" x="15.3453" y="1.71837">
+<feDropShadow dx="-0.631328" dy="0.70116" flood-color="#000000" flood-opacity="0.55" in="SourceGraphic" result="Shadow" stdDeviation="1.47423"/>
+</filter>
+<linearGradient gradientTransform="matrix(1.17938 0 0 1.17938 -1.5839 2.35719)" gradientUnits="userSpaceOnUse" id="LinearGradient_2" x1="2.74189" x2="1.48438" y1="80.3731" y2="-2.44887">
+<stop offset="0" stop-color="#07eff8"/>
+<stop offset="1" stop-color="#aefeff"/>
+</linearGradient>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="58.1395" id="Filter_2" width="52.3909" x="5.07782" y="21.8132">
+<feDropShadow dx="-1.14425" dy="1.10499" flood-color="#000000" flood-opacity="0.63" in="SourceGraphic" result="Shadow" stdDeviation="1.76907"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="86.232" id="Filter_3" width="89.5888" x="-1.68424" y="13.6616">
+<feDropShadow dx="-0.631328" dy="0.70116" flood-color="#000000" flood-opacity="0.55" in="SourceGraphic" result="Shadow" stdDeviation="1.7141"/>
+</filter>
+</defs>
+<clipPath id="ArtboardFrame">
+<rect height="98.1752" width="101.896" x="-1.68424" y="1.71837"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="Layer" layerName="Layer">
+<g opacity="1" layerName="g">
+<path d="M22.0342 20.2276L22.0342 13.7322C22.0342 10.0554 25.0878 7.07471 28.8546 7.07471L87.9653 7.07471C91.7322 7.07471 94.7858 10.0554 94.7858 13.7322L94.7858 71.4302C94.7858 75.107 91.7322 78.0876 87.9653 78.0876L81.1835 78.0876" fill="url(#LinearGradient)" fill-rule="nonzero" opacity="1" stroke="#040087" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="7" layerName="path"/>
+<path d="M22.0342 20.2276L22.0342 13.7322C22.0342 10.0554 25.0878 7.07471 28.8546 7.07471L87.9653 7.07471C91.7322 7.07471 94.7858 10.0554 94.7858 13.7322L94.7858 71.4302C94.7858 75.107 91.7322 78.0876 87.9653 78.0876L81.1835 78.0876" fill="none" filter="url(#Filter)" stroke="#040087" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="7" layerName="path" shadowAngle="2.30383" shadowColor="#000000" shadowOffset="0.943504" shadowOpacity="0.55" shadowRadius="2.94845"/>
+<path d="M5.44538 19.2275L82.0376 19.2275C82.1652 19.2275 82.2687 19.3265 82.2687 19.4486L82.2687 92.7042C82.2687 92.8263 82.1652 92.9253 82.0376 92.9253L5.44538 92.9253C5.31771 92.9253 5.21422 92.8263 5.21422 92.7042L5.21422 19.4486C5.21422 19.3265 5.31771 19.2275 5.44538 19.2275Z" fill="url(#LinearGradient_2)" fill-rule="nonzero" opacity="1" stroke="#040087" stroke-linecap="butt" stroke-linejoin="round" stroke-width="7" layerName="rect"/>
+<g filter="url(#Filter_2)" layerName="Group 1" shadowAngle="2.37365" shadowColor="#000000" shadowOffset="1.59069" shadowOpacity="0.63" shadowRadius="3.53814">
+<path d="M27.5015 42.7456L37.5032 30.5447C40.2563 27.3213 45.2146 26.9513 48.5758 29.7241C51.9368 32.4948 52.429 37.3562 49.676 40.5796L46.0723 45.0532M18.1826 55.1477C17.215 56.2807 15.2071 58.553 15.2071 58.553C12.452 61.7765 12.8306 67.061 16.1939 69.8336C19.5527 72.6025 24.5113 72.2366 27.2663 69.011L37.1489 58.5102" fill="none" opacity="1" stroke="#efefef" stroke-linecap="round" stroke-linejoin="round" stroke-width="7" layerName="path"/>
+<path d="M28.8956 53.3493C27.3989 52.1236 26.4078 50.4038 26.1066 48.51C25.7565 46.361 26.3735 44.1657 27.7974 42.4936M36.0506 47.6524C39.4096 50.4233 39.9018 55.2847 37.1469 58.5103" fill="none" opacity="1" stroke="#efefef" stroke-linecap="round" stroke-linejoin="round" stroke-width="7" layerName="path"/>
+</g>
+<path d="M5.44538 19.2275L82.0376 19.2275C82.1652 19.2275 82.2687 19.3265 82.2687 19.4486L82.2687 92.7042C82.2687 92.8263 82.1652 92.9253 82.0376 92.9253L5.44538 92.9253C5.31771 92.9253 5.21422 92.8263 5.21422 92.7042L5.21422 19.4486C5.21422 19.3265 5.31771 19.2275 5.44538 19.2275Z" fill="none" filter="url(#Filter_3)" stroke="#040087" stroke-linecap="butt" stroke-linejoin="round" stroke-width="7" layerName="rect" shadowAngle="2.30383" shadowColor="#000000" shadowOffset="0.943504" shadowOpacity="0.55" shadowRadius="3.4282"/>
+</g>
+</g>
+</svg>

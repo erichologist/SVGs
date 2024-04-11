@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="4 4 16 16">
+<clipPath id="ArtboardFrame">
+<rect height="24" width="24" x="0" y="0" fill="rgba(255,255,255,0)" opacity="0" stroke="rgba(255,255,255,0)" />
+</clipPath>
+<g clip-path="url(#ArtboardFrame)">
+<g transform="rotate(-90 12 12)">
+<g fill="none" stroke="fuchsia" stroke-dasharray="8" stroke-dashoffset="8" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+
+<path id="ArrowOne" d="M14 12L19 7M14 12L19 17">
+<animate id="ArrowOneA" fill="freeze" attributeName="stroke-dashoffset" begin="0;ArrowThreeTerminal.end+2s" dur="0.6s" values="8;0" />
+
+<animate id="ArrowOneB" fill="freeze" attributeName="stroke-dashoffset" begin="ArrowThreeA.end" dur="0.6s" values="8;0" />
+
+<animate id="ArrowOneC" fill="freeze" attributeName="stroke-dashoffset" begin="ArrowThreeB.end" dur="0.6s" values="8;0" />
+</path>
+
+<path id="ArrowTwo" d="M9 12L14 7M9 12L14 17"> 
+<animate id="ArrowTwoA" fill="freeze" attributeName="stroke-dashoffset" begin="ArrowOneA.end" dur="0.6s" values="8;0" />
+
+<animate id="ArrowTwoB" fill="freeze" attributeName="stroke-dashoffset" begin="ArrowOneB.end" dur="0.6s" values="8;0" />
+
+<animate id="ArrowTwoC" fill="freeze" attributeName="stroke-dashoffset" begin="ArrowOneC.end" dur="0.6s" values="8;0" />
+</path>
+
+<path id="ArrowThree" d="M4 12L9 7M4 12L9 17">
+<animate id="ArrowThreeA" fill="freeze" attributeName="stroke-dashoffset" begin="ArrowTwoA.end" dur="0.6s" values="8;0" />
+
+<animate id="ArrowThreeB" fill="freeze" attributeName="stroke-dashoffset" begin="ArrowTwoB.end" dur="0.6s" values="8;0" />
+
+<animate id="ArrowThreeTerminal" fill="freeze" attributeName="stroke-dashoffset" begin="ArrowTwoD.end" dur="0.6s" values="8;0" />
+</path>
+
+</g>
+</g></g>
+</svg>

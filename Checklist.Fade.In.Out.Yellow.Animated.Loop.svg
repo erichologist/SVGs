@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="1 2 20 20">
+<rect x="0" y="0" width="24" height="24" fill="rgba(255, 255, 255, 0)" />
+<g stroke="#f5ec00" stroke-linecap="round" stroke-linejoin="round">
+<g fill="none" stroke-dasharray="10" stroke-dashoffset="10" stroke-width="2">
+<path id="CHECK1" d="M3 5L5 7L9 3">
+<animate id="CheckmarkOneA" fill="freeze" attributeName="stroke-dashoffset" begin="0;LineFillThreeB.end+0.9s" dur="0.2s" values="10;0"/>
+<animate id="CheckmarkOneB" fill="freeze" attributeName="stroke-dashoffset" begin="LineFillThreeA.end+0.9s" dur="0.2s" values="10;0"/></path>
+<path id="CHECK2" d="M3 12L5 14L9 10">
+<animate id="CheckmarkTwoA" fill="freeze" attributeName="stroke-dashoffset" begin="LineStrokeOneA.end"  dur="0.2s" values="10;0"/>
+<animate id="CheckmarkTwoB" fill="freeze" attributeName="stroke-dashoffset" begin="LineStrokeOneB.end"  dur="0.2s" values="10;0"/>
+</path>
+<path id="CHECK3" d="M3 19L5 21L9 17">
+<animate id="CheckmarkThreeA" fill="freeze" attributeName="stroke-dashoffset" begin="LineStrokeTwoA.end" dur="0.2s" values="10;0"/>
+<animate id="CheckmarkThreeB" fill="freeze" attributeName="stroke-dashoffset" begin="LineStrokeTwoB.end" dur="0.2s" values="10;0"/>
+</path>
+</g>
+<g fill="#f5ec00" fill-opacity="0" stroke-dasharray="22" stroke-dashoffset="22">
+<rect id="LINE1" width="9" height="3" x="11.5" y="3.5" rx="1.5">
+<animate id="LineStrokeOneA" fill="freeze" attributeName="stroke-dashoffset" begin="CheckmarkOneA.end" dur="0.5s" values="22;0"/>
+<animate id="LineFillOneA" fill="freeze" attributeName="fill-opacity" begin="LineStrokeThreeA.end" dur="0.8s" values="0;0.8"/>
+<animate id="LineStrokeOneB" fill="freeze" attributeName="stroke-dashoffset" begin="CheckmarkOneB.end" dur="0.5s" values="22;0"/>
+<animate id="LineFillOneB" fill="freeze" attributeName="fill-opacity" begin="LineStrokeThreeB.end" dur="0.8s" values="0.8;0"/>
+</rect>
+<rect id="LINE2" width="9" height="3" x="11.5" y="10.5" rx="1.5">
+<animate id="LineStrokeTwoA" fill="freeze" attributeName="stroke-dashoffset" begin="CheckmarkTwoA.end" dur="0.5s" values="22;0"/>
+<animate id="LineFillTwoA" fill="freeze" attributeName="fill-opacity" begin="LineFillOneA.end" dur="0.8s" values="0;0.8"/>
+<animate id="LineStrokeTwoB" fill="freeze" attributeName="stroke-dashoffset" begin="CheckmarkTwoB.end" dur="0.5s" values="22;0"/>
+<animate id="LineFillTwoB" fill="freeze" attributeName="fill-opacity" begin="LineFillOneB.end" dur="0.8s" values="0.8;0"/>
+</rect>
+<rect id="LINE3" width="9" height="3" x="11.5" y="17.5" rx="1.5">
+<animate id="LineStrokeThreeA" fill="freeze" attributeName="stroke-dashoffset" begin="CheckmarkThreeA.end" dur="0.5s" values="22;0"/>
+<animate id="LineFillThreeA" fill="freeze" attributeName="fill-opacity" begin="LineFillTwoA.end" dur="0.8s" values="0;0.8"/>
+<animate id="LineStrokeThreeB" fill="freeze" attributeName="stroke-dashoffset" begin="CheckmarkThreeB.end" dur="0.5s" values="22;0"/>
+<animate id="LineFillThreeB" fill="freeze" attributeName="fill-opacity" begin="LineFillTwoB.end" dur="0.8s" values="0.8;0"/>
+</rect>
+</g>
+</g>
+</svg>
