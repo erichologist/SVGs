@@ -1,0 +1,14 @@
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 100 100" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(59.7202 -0.0483539 -0.0483539 -59.7202 -3.83262 -7.73434)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="0" x2="1" y1="0" y2="0">
+<stop offset="0.0298245" stop-color="#0084ff"/>
+<stop offset="0.565789" stop-color="#00b5ff"/>
+</linearGradient>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="106.246" id="Filter" width="105.007" x="-2.50367" y="-2.48193">
+<feDropShadow dx="-2.35462e-06" dy="0.641027" flood-color="#000000" flood-opacity="0.44" in="SourceGraphic" result="Shadow" stdDeviation="1.64918"/>
+</filter>
+</defs>
+<g id="Readwise-1" >
+<path d="M98.3807 93.1001C92.4808 92.3994 89.596 90.4435 86.0593 84.5599L65.9964 51.9478C80.9419 49.4377 88.3574 42.1524 88.3574 26.8976C88.3574 6.73675 74.113 1 46.8462 1L1.61929 1L1.61929 6.88361C10.2734 7.58429 11.9848 8.56242 11.9848 16.6787L11.9848 83.3213C11.9848 91.2911 10.0126 92.4157 1.61929 93.1164L1.61929 99L45.5588 99L45.5588 93.1164C37.1651 92.4157 35.1933 91.3074 35.1933 83.3213L35.1933 53.496L42.0058 53.496L69.2723 98.9837L98.3807 98.9837L98.3807 93.1001ZM65.4932 35.8621C65.4932 35.8621 61.9403 15.8155 64.238 11.5615L34.8366 44.1741C42.0402 38.1765 63.7819 38.0785 63.7819 38.0785C64.8247 37.8502 65.5421 36.9213 65.4932 35.8621Z" fill="url(#LinearGradient)" fill-rule="evenodd" filter="url(#Filter)" stroke="none" id="Readwise" shadowAngle="1.5708" shadowColor="#000000" shadowOffset="0.641027" shadowOpacity="0.44" shadowRadius="3.29836"/>
+</g>
+</svg>
