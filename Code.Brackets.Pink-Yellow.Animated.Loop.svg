@@ -1,0 +1,42 @@
+<svg width="100%" height="100%" viewBox="0 0 800 800" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style>
+  @keyframes left_bracket_f_o {
+	0% {
+	  fill-opacity: 1;
+	  animation-timing-function: step-end }
+	15%, 50% {
+	  fill-opacity: 0;
+	  animation-timing-function: step-end }
+	95% {
+	  fill-opacity: 1 } }
+  @keyframes slash_f_o {
+	0% {
+	  fill-opacity: 1;
+	  animation-timing-function: step-end }
+	25%, 50% {
+	  fill-opacity: 0;
+	  animation-timing-function: step-end }
+	85% {
+	  fill-opacity: 1 } }
+  @keyframes right_bracket_f_o {
+	0% {
+	  fill-opacity: 1;
+	  animation-timing-function: step-end }
+	35%, 50% {
+	  fill-opacity: 0;
+	  animation-timing-function: step-end }
+	75% {
+	  fill-opacity: 1 } }
+  #left_bracket {
+	animation: left_bracket_f_o 2000ms linear infinite normal forwards }
+  #slash {
+	animation: slash_f_o 2000ms linear infinite normal forwards }
+  #right_bracket {
+	animation: right_bracket_f_o 2000ms linear infinite normal forwards }
+</style>
+<g id="code_group" fill="#f0f">
+<path id="right_bracket" d="M233.062 199.344C225.536 199.767 218.045 202.373 211.594 207.281L33 343.156C12.4511 358.789 12.406 389.678 32.9062 405.375L211.5 542.125C228.663 555.267 253.233 552.007 266.375 534.844C279.517 517.681 276.257 493.142 259.094 480L121.219 374.406L259 269.562C276.204 256.474 279.557 231.923 266.469 214.719C258.289 203.966 245.607 198.638 233.062 199.344Z"/>
+	<path id="left_bracket" d="M562.438 199.344C549.893 198.638 537.211 203.966 529.031 214.719C515.943 231.923 519.296 256.474 536.5 269.562L674.281 374.406L536.406 480C519.243 493.142 515.983 517.681 529.125 534.844C542.267 552.007 566.837 555.267 584 542.125L762.594 405.375C783.094 389.678 783.049 358.789 762.5 343.156L583.875 207.281C577.424 202.373 569.964 199.767 562.438 199.344Z"/>
+	<path id="slash" fill="#ff0" d="M479.094 105.625C463.868 106.541 449.939 116.372 444.531 131.656L285.844 580.094C278.634 600.473 289.34 622.853 309.719 630.062C330.098 637.272 352.446 626.598 359.656 606.219L518.312 157.75C525.522 137.371 514.848 115.022 494.469 107.812C489.374 106.01 484.169 105.32 479.094 105.625Z"/>
+</g>
+</svg>
