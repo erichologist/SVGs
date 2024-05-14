@@ -1,0 +1,23 @@
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="5 5 90 90" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<clipPath id="ArtboardFrame">
+<rect height="90" width="90" x="5" y="5"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="Layer" layerName="Layer">
+<g opacity="1" layerName="Group 1">
+<clipPath clip-rule="nonzero" id="ClipPath">
+<path d="M9.53325 5L90.4668 5C92.9704 5 95 7.0296 95 9.53325L95 90.4668C95 92.9704 92.9704 95 90.4668 95L9.53325 95C7.0296 95 5 92.9704 5 90.4668L5 9.53325C5 7.0296 7.0296 5 9.53325 5Z"/>
+</clipPath>
+<g clip-path="url(#ClipPath)">
+<path d="M50 57.4949L50 95L89.7656 95C92.6445 95 95 93.1357 95 90.8572L95 57.4947L50 57.4949Z" fill="#ffc107" fill-opacity="0.5" fill-rule="nonzero" opacity="1" stroke="none" layerName="path"/>
+<path d="M85.0001 5L50 5L50 57.5001L95 57.5001L95 14.5454C95 5 95 5 85.0001 5Z" fill="#4caf50" fill-opacity="0.5" fill-rule="nonzero" opacity="1" stroke="none" layerName="path"/>
+<path d="M5 85C5 95 5 95 15 95L50 95L50 40.2499L5 40.2499L5 85Z" fill="#ff4081" fill-opacity="0.5" fill-rule="nonzero" opacity="1" stroke="none" layerName="path"/>
+<path d="M50 40.2499L50 5L15 5C5 5 5 5 5 15L5 40.2499L50 40.2499Z" fill="#aa00ff" fill-opacity="0.5" fill-rule="nonzero" opacity="1" stroke="none" layerName="path"/>
+<path d="M50 40.2499L50 5L15 5C5 5 5 5 5 15L5 40.2499L50 40.2499Z" fill="#aa00ff" fill-opacity="0.5" fill-rule="nonzero" opacity="0.304399" stroke="none" layerName="path"/>
+<path d="M5 85C5 95 5 95 15 95L50 95L50 40.2499L5 40.2499L5 85Z" fill="#ff4081" fill-opacity="0.5" fill-rule="nonzero" opacity="0.304399" stroke="none" layerName="path"/>
+<path d="M85.0001 5L50 5L50 57.5001L95 57.5001L95 14.5454C95 5 95 5 85.0001 5Z" fill="#4caf50" fill-opacity="0.5" fill-rule="nonzero" opacity="0.304399" stroke="none" layerName="path"/>
+<path d="M50 57.4949L50 95L89.7656 95C92.6445 95 95 93.1357 95 90.8572L95 57.4947L50 57.4949Z" fill="#ffc107" fill-opacity="0.5" fill-rule="nonzero" opacity="0.304399" stroke="none" layerName="path"/>
+</g>
+</g>
+</g>
+</svg>

@@ -1,0 +1,10 @@
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="-3.61272 -1.39005 104.746 104.746" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="104.746" id="Filter" width="104.746" x="-3.61272" y="-1.39005">
+<feDropShadow dx="-1.23986" dy="0.982812" flood-color="#000000" flood-opacity="0.55" in="SourceGraphic" result="Shadow" stdDeviation="2.14915"/>
+</filter>
+</defs>
+<g id="Layer" layerName="Layer">
+<path d="M86.5556 39.5556L86.5556 86.5556L13.4444 86.5556L13.4444 13.4444L60.4444 13.4444L60.4444 3L13.4444 3C7.80444 3 3 7.7 3 13.4444L3 86.5556C3 92.3 7.80444 97 13.4444 97L86.5556 97C92.4044 97 97 92.3 97 86.5556L97 39.5556L86.5556 39.5556M76.1111 39.5556L81.02 28.7978L91.7778 23.8889L81.02 18.98L76.1111 8.22222L71.2022 18.98L60.4444 23.8889L71.2022 28.7978L76.1111 39.5556M56.5278 43.4722L50 29.1111L43.4722 43.4722L29.1111 50L43.4722 56.5278L50 70.8889L56.5278 56.5278L70.8889 50L56.5278 43.4722Z" fill="#ffffff" fill-rule="nonzero" filter="url(#Filter)" stroke="none" layerName="Image-Auto-Adjust" shadowAngle="2.47133" shadowColor="#000000" shadowOffset="1.58214" shadowOpacity="0.55" shadowRadius="4.29829"/>
+</g>
+</svg>

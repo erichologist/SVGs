@@ -1,0 +1,31 @@
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="-0.630907 5.10902 100.279 90.7789" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(2.35125 0 0 2.35125 -7 -7)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="4.0404" x2="44.4444" y1="24.2424" y2="24.2424">
+<stop offset="0.167105" stop-color="#ffffff"/>
+<stop offset="0.500452" stop-color="#ffffff"/>
+<stop offset="0.860017" stop-color="#bebebe"/>
+<stop offset="1" stop-color="#a9a9a9"/>
+</linearGradient>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="90.7789" id="Filter" width="100.279" x="-0.630907" y="5.10902">
+<feDropShadow dx="-0.491479" dy="0.498446" flood-color="#000000" flood-opacity="0.44" in="SourceGraphic" result="Shadow" stdDeviation="1.05577"/>
+</filter>
+<linearGradient gradientTransform="matrix(2.35125 0 0 2.35125 -7 -7)" gradientUnits="userSpaceOnUse" id="LinearGradient_2" x1="4.0404" x2="44.4444" y1="24.2424" y2="24.2424">
+<stop offset="0.167105" stop-color="#ffffff"/>
+<stop offset="0.500452" stop-color="#ffffff"/>
+<stop offset="0.860017" stop-color="#bebebe"/>
+<stop offset="1" stop-color="#a9a9a9"/>
+</linearGradient>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="90.7789" id="Filter_2" width="100.279" x="-0.630907" y="5.10902">
+<feDropShadow dx="-0.491479" dy="0.498446" flood-color="#000000" flood-opacity="0.44" in="SourceGraphic" result="Shadow" stdDeviation="1.05577"/>
+</filter>
+</defs>
+<clipPath id="ArtboardFrame">
+<rect height="90.7789" width="100.279" x="-0.630907" y="5.10902"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="Layer" layerName="Layer">
+<g opacity="1" layerName="g 1">
+<path d="M71.375 7.25L97.5 7.25L28.625 92.75L2.5 92.75L71.375 7.25Z" fill="url(#LinearGradient)" fill-rule="nonzero" filter="url(#Filter)" stroke="none" layerName="path" shadowAngle="2.34916" shadowColor="#000000" shadowOffset="0.7" shadowOpacity="0.44" shadowRadius="2.11154"/>
+<path d="M28.625 7.25L2.5 7.25L71.375 92.75L97.5 92.75L28.625 7.25Z" fill="url(#LinearGradient_2)" fill-rule="nonzero" filter="url(#Filter_2)" stroke="none" layerName="path" shadowAngle="2.34916" shadowColor="#000000" shadowOffset="0.7" shadowOpacity="0.44" shadowRadius="2.11154"/>
+</g>
+</g>
+</svg>

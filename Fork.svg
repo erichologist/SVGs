@@ -1,0 +1,71 @@
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 100 100" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(1.16223 -1.87392e-32 0 0.926397 -8.10245 4.72204)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="32.7755" x2="30.0462" y1="20.9871" y2="101.529">
+<stop offset="0" stop-color="#0032ff"/>
+<stop offset="0.398876" stop-color="#0007ff"/>
+<stop offset="0.786975" stop-color="#030097"/>
+<stop offset="1" stop-color="#000377"/>
+</linearGradient>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="74.4236" id="Filter" width="85.9502" x="6.14816" y="13.9004">
+<feDropShadow dx="-0.876739" dy="1.79759" flood-color="#000000" flood-opacity="0.5" in="SourceGraphic" result="Shadow" stdDeviation="1.5"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="77.6036" id="Filter_2" width="89.1302" x="4.99653" y="11.4116">
+<feDropShadow dx="-0.438369" dy="0.898795" flood-color="#000000" flood-opacity="0.59" in="SourceGraphic" result="Shadow" stdDeviation="1.5"/>
+</filter>
+<radialGradient cx="20.7374" cy="18.2991" gradientTransform="matrix(1.22853 0 0 1.23881 24.2872 61.3659)" gradientUnits="userSpaceOnUse" id="RadialGradient" r="18.6983">
+<stop offset="0.227632" stop-color="#ffffff"/>
+<stop offset="0.8" stop-color="#8d8d8d"/>
+<stop offset="1" stop-color="#ffffff"/>
+</radialGradient>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="37.1036" id="Filter_3" width="36.8821" x="30.8998" y="66.0183">
+<feDropShadow dx="-0.438369" dy="0.898795" flood-color="#000000" flood-opacity="0.59" in="SourceGraphic" result="Shadow" stdDeviation="1.5"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="37.1036" id="Filter_4" width="36.8821" x="30.8998" y="66.0183">
+<feDropShadow dx="-0.438369" dy="0.898795" flood-color="#000000" flood-opacity="0.59" in="SourceGraphic" result="Shadow" stdDeviation="1.5"/>
+</filter>
+<radialGradient cx="20.7374" cy="18.2991" gradientTransform="matrix(1.22853 0 0 1.23881 58.3838 -5.9766)" gradientUnits="userSpaceOnUse" id="RadialGradient_2" r="18.6983">
+<stop offset="0.227632" stop-color="#ffffff"/>
+<stop offset="0.8" stop-color="#8d8d8d"/>
+<stop offset="1" stop-color="#ffffff"/>
+</radialGradient>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="37.1036" id="Filter_5" width="36.8821" x="64.9965" y="-1.32425">
+<feDropShadow dx="-0.438369" dy="0.898795" flood-color="#000000" flood-opacity="0.59" in="SourceGraphic" result="Shadow" stdDeviation="1.5"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="37.1036" id="Filter_6" width="36.8821" x="64.749" y="-1.32425">
+<feDropShadow dx="-0.438369" dy="0.898795" flood-color="#000000" flood-opacity="0.59" in="SourceGraphic" result="Shadow" stdDeviation="1.5"/>
+</filter>
+<radialGradient cx="20.7374" cy="18.2991" gradientTransform="matrix(1.22853 0 0 1.23881 -9.36794 -5.9766)" gradientUnits="userSpaceOnUse" id="RadialGradient_3" r="18.6983">
+<stop offset="0.227632" stop-color="#ffffff"/>
+<stop offset="0.8" stop-color="#8d8d8d"/>
+<stop offset="1" stop-color="#ffffff"/>
+</radialGradient>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="37.1036" id="Filter_7" width="36.8821" x="-2.75528" y="-1.32425">
+<feDropShadow dx="-0.438369" dy="0.898795" flood-color="#000000" flood-opacity="0.59" in="SourceGraphic" result="Shadow" stdDeviation="1.5"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="37.1036" id="Filter_8" width="36.8821" x="-2.75528" y="-1.32425">
+<feDropShadow dx="-0.438369" dy="0.898795" flood-color="#000000" flood-opacity="0.59" in="SourceGraphic" result="Shadow" stdDeviation="1.5"/>
+</filter>
+</defs>
+<g id="Layer" layerName="Layer">
+<g opacity="1" layerName="Group 4">
+<g opacity="1" layerName="Group 3">
+<path d="M15.9947 15.8528C13.1062 15.8528 10.7749 17.7251 10.7749 20.0275L10.7749 32.2894C10.7749 36.8197 12.0929 40.0978 16.3785 43.9518C19.3347 46.6103 22.6802 48.7791 29.8117 53.295C43.5286 61.981 44.7802 63.4919 44.7802 67.7074L44.7802 78.8663C44.7891 82.7289 50 82.7759 50 82.7759C50 82.7759 55.1839 82.9153 55.2582 78.8663L55.2582 67.7074C55.2582 63.4919 56.4714 61.981 70.1883 53.295C77.3198 48.7791 80.6653 46.6103 83.6215 43.9518C87.9071 40.0978 89.2251 36.8197 89.2251 32.2894L89.2251 20.0275C89.2251 17.7251 86.8938 15.8528 84.0053 15.8528C81.1168 15.8528 78.7856 17.7251 78.7855 20.0275L78.7855 33.226C79.1908 38.7049 62.7441 47.6383 62.7441 47.6383C62.7441 47.6383 54.4915 52.6907 51.5352 55.3492C51.0113 55.8204 50.4652 56.2639 50 56.7407C49.5348 56.2639 48.9887 55.8204 48.4648 55.3492C45.5085 52.6907 37.2943 47.6383 37.2943 47.6383C37.2943 47.6383 20.8476 38.7049 21.2528 33.226L21.2528 20.0275C21.2528 17.7251 18.8832 15.8528 15.9947 15.8528Z" fill="url(#LinearGradient)" fill-rule="nonzero" filter="url(#Filter)" stroke="none" layerName="Curve 1" shadowAngle="2.02458" shadowColor="#000000" shadowOffset="2" shadowOpacity="0.5" shadowRadius="3"/>
+<path d="M15.9947 15.8528C13.1062 15.8528 10.7749 17.7251 10.7749 20.0275L10.7749 32.2894C10.7749 36.8197 12.0929 40.0978 16.3785 43.9518C19.3347 46.6103 22.6802 48.7791 29.8117 53.295C43.5286 61.981 44.7802 63.4919 44.7802 67.7074L44.7802 78.8663C44.7891 82.7289 50 82.7759 50 82.7759C50 82.7759 55.1839 82.9153 55.2582 78.8663L55.2582 67.7074C55.2582 63.4919 56.4714 61.981 70.1883 53.295C77.3198 48.7791 80.6653 46.6103 83.6215 43.9518C87.9071 40.0978 89.2251 36.8197 89.2251 32.2894L89.2251 20.0275C89.2251 17.7251 86.8938 15.8528 84.0053 15.8528C81.1168 15.8528 78.7856 17.7251 78.7855 20.0275L78.7855 33.226C79.1908 38.7049 62.7441 47.6383 62.7441 47.6383C62.7441 47.6383 54.4915 52.6907 51.5352 55.3492C51.0113 55.8204 50.4652 56.2639 50 56.7407C49.5348 56.2639 48.9887 55.8204 48.4648 55.3492C45.5085 52.6907 37.2943 47.6383 37.2943 47.6383C37.2943 47.6383 20.8476 38.7049 21.2528 33.226L21.2528 20.0275C21.2528 17.7251 18.8832 15.8528 15.9947 15.8528Z" fill="none" filter="url(#Filter_2)" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="3.18" layerName="Curve 1" shadowAngle="2.02458" shadowColor="#000000" shadowOffset="1" shadowOpacity="0.59" shadowRadius="3"/>
+</g>
+<g opacity="1" layerName="Group 1">
+<g opacity="1" layerName="Group 8">
+<path d="M49.7792 70.3147C42.4637 70.3147 36.5334 76.2946 36.5334 83.6713C36.5334 91.0478 42.4637 97.0279 49.7792 97.0279C57.0946 97.0279 63.025 91.0478 63.025 83.6713C63.025 76.2946 57.0946 70.3147 49.7792 70.3147Z" fill="url(#RadialGradient)" fill-rule="nonzero" filter="url(#Filter_3)" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2.89038" layerName="Curve 7" shadowAngle="2.02458" shadowColor="#000000" shadowOffset="1" shadowOpacity="0.59" shadowRadius="3"/>
+<path d="M49.7792 70.3147C42.4637 70.3147 36.5334 76.2946 36.5334 83.6713C36.5334 91.0478 42.4637 97.0279 49.7792 97.0279C57.0946 97.0279 63.025 91.0478 63.025 83.6713C63.025 76.2946 57.0946 70.3147 49.7792 70.3147Z" fill="none" filter="url(#Filter_4)" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2.89038" layerName="Curve 7" shadowAngle="2.02458" shadowColor="#000000" shadowOffset="1" shadowOpacity="0.59" shadowRadius="3"/>
+</g>
+<g opacity="1" layerName="Group R">
+<path d="M83.8759 2.97215C76.5604 2.97215 70.63 8.95209 70.63 16.3288C70.63 23.7053 76.5604 29.6853 83.8759 29.6853C91.1913 29.6853 97.1217 23.7053 97.1217 16.3288C97.1217 8.95209 91.1913 2.97215 83.8759 2.97215Z" fill="url(#RadialGradient_2)" fill-rule="nonzero" filter="url(#Filter_5)" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2.89038" layerName="Curve 6" shadowAngle="2.02458" shadowColor="#000000" shadowOffset="1" shadowOpacity="0.59" shadowRadius="3"/>
+<path d="M83.6285 2.97215C76.3129 2.97215 70.3826 8.95209 70.3826 16.3288C70.3826 23.7053 76.3129 29.6853 83.6285 29.6853C90.9439 29.6853 96.8743 23.7053 96.8743 16.3288C96.8743 8.95209 90.9439 2.97215 83.6285 2.97215Z" fill="none" filter="url(#Filter_6)" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2.89038" layerName="Curve 8" shadowAngle="2.02458" shadowColor="#000000" shadowOffset="1" shadowOpacity="0.59" shadowRadius="3"/>
+</g>
+<g opacity="1" layerName="Group L">
+<path d="M16.1241 2.97215C8.80861 2.97215 2.87828 8.95209 2.87828 16.3288C2.87828 23.7053 8.80861 29.6853 16.1241 29.6853C23.4395 29.6853 29.37 23.7053 29.37 16.3288C29.37 8.95209 23.4395 2.97215 16.1241 2.97215Z" fill="url(#RadialGradient_3)" fill-rule="nonzero" filter="url(#Filter_7)" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2.89038" layerName="Curve 7" shadowAngle="2.02458" shadowColor="#000000" shadowOffset="1" shadowOpacity="0.59" shadowRadius="3"/>
+<path d="M16.1241 2.97215C8.80861 2.97215 2.87828 8.95209 2.87828 16.3288C2.87828 23.7053 8.80861 29.6853 16.1241 29.6853C23.4395 29.6853 29.37 23.7053 29.37 16.3288C29.37 8.95209 23.4395 2.97215 16.1241 2.97215Z" fill="none" filter="url(#Filter_8)" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2.89038" layerName="Curve 7" shadowAngle="2.02458" shadowColor="#000000" shadowOffset="1" shadowOpacity="0.59" shadowRadius="3"/>
+</g>
+</g>
+</g>
+</g>
+</svg>

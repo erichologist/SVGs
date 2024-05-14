@@ -1,0 +1,22 @@
+<svg width="100%" height="100%" viewBox="0 0 100 100" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(0.915111 -4.04648e-18 2.1637e-17 0.872298 -25.1629 24.8635)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="43.5152" x2="61.1738" y1="31.4473" y2="84.7392">
+<stop offset="0.426316" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#d9d9d9"/>
+</linearGradient>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="43.2748" id="Filter" width="43.3049" x="3.20896" y="62.3176">
+<feDropShadow dx="-0.798636" dy="0.601815" flood-color="#000000" flood-opacity="0.65" in="SourceGraphic" result="Shadow" stdDeviation="2"/>
+</filter>
+<linearGradient gradientTransform="matrix(1 0 0 1 0 0)" gradientUnits="userSpaceOnUse" id="LinearGradient_2" x1="31.6117" x2="90.9831" y1="30.9711" y2="30.9711">
+<stop offset="0" stop-color="#ec0014"/>
+<stop offset="1" stop-color="#a60101"/>
+</linearGradient>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="71.9423" id="Filter_2" width="69.3714" x="25.8131" y="-4.39818">
+<feDropShadow dx="-0.798636" dy="0.601815" flood-color="#000000" flood-opacity="0.65" in="SourceGraphic" result="Shadow" stdDeviation="2"/>
+</filter>
+</defs>
+<g opacity="1" layerName="Group 1">
+<path d="M25.9062 66.7188C23.0445 66.6647 20.0808 67.3416 17.3125 68.9375C6.2393 75.3213 6.2393 91.3663 17.3125 97.75C28.3855 104.134 42.3125 96.1115 42.3125 83.3438C42.3125 73.7681 34.4918 66.8805 25.9062 66.7188ZM25.7812 74.2812C30.4622 74.3694 34.75 78.1228 34.75 83.3438C34.75 90.3048 27.1621 94.6994 21.125 91.2188C15.0877 87.7384 15.0877 78.9804 21.125 75.5C22.6342 74.6297 24.2209 74.2518 25.7812 74.2812Z" fill="url(#LinearGradient)" filter="url(#Filter)" layerName="path 4" shadowAngle="2.49582" shadowColor="#000000" shadowOffset="1" shadowOpacity="0.65" shadowRadius="4"/>
+<path d="M55.0337 0L55.0337 21.1008L37.7477 10.5338L31.6117 20.9732L49.6807 31.0072L31.6117 40.8968L37.7199 51.5305L55.0337 40.919L55.0337 61.9423L67.3666 61.9423L67.3666 40.919L84.7861 51.5805L90.9831 40.8968L72.8363 31.0072L90.9831 20.9732L84.8081 10.5338L67.3666 21.1008L67.3666 0L55.0337 0Z" fill="url(#LinearGradient_2)" filter="url(#Filter_2)" layerName="path 5" shadowAngle="2.49582" shadowColor="#000000" shadowOffset="1" shadowOpacity="0.65" shadowRadius="4"/>
+</g>
+</svg>

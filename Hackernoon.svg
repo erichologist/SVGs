@@ -1,0 +1,23 @@
+<svg width="100%" height="100%" viewBox="0 0 100 100" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<radialGradient cx="47.0469" cy="48.9062" gradientTransform="matrix(1.11111 0 0 1.11111 -2.55557 -5.55556)" gradientUnits="userSpaceOnUse" id="RadialGradient" r="26.5781">
+<stop offset="0.167105" stop-color="#ffffff"/>
+<stop offset="0.755263" stop-color="#c3c3c3"/>
+<stop offset="1" stop-color="#a9a9a9"/>
+</radialGradient>
+<radialGradient cx="47.1998" cy="49.2486" gradientTransform="matrix(1.11111 0 0 1.11111 -2.55557 -5.55556)" gradientUnits="userSpaceOnUse" id="RadialGradient_2" r="41.8315">
+<stop offset="0" stop-color="#b58adf"/>
+<stop offset="0" stop-color="#710fd2"/>
+<stop offset="6.8272e-08" stop-color="#760edb"/>
+<stop offset="0.448982" stop-color="#771dd2"/>
+<stop offset="0.576917" stop-color="#7c11c7"/>
+<stop offset="1" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff"/>
+</radialGradient>
+</defs>
+<g opacity="1" layerName="g">
+<path d="M79.2499 38.9931L72.6875 38.9931L72.6875 25.9375L59.5625 25.9375L59.5625 19.375L52.9999 19.375L52.9999 52.0833L46.4375 52.0833L46.4375 19.375L39.875 19.375L39.875 25.9375L26.7499 25.9375L26.7499 38.9931L20.1875 38.9931L20.1875 58.6111L26.7499 58.6111L26.7499 71.6666L39.875 71.6666L39.875 78.1945L59.5625 78.1945L59.5625 71.6666L72.6875 71.6666L72.6875 58.6111L79.2499 58.6111L79.2499 38.9931Z" fill="url(#RadialGradient)" opacity="1" layerName="path"/>
+<path d="M26.7541-3.55271e-15L26.7541 25.9292L39.875 25.9292L39.875 19.3917L46.4416 19.3917L46.4416 52.0667L52.9999 52.0667L52.9999 19.3917L59.5584 19.3917L59.5584 25.9292L72.6833 25.9292L72.6833-3.55271e-15L26.7541-3.55271e-15ZM72.6875 25.9292L72.6875 38.9958L79.2458 38.9958L79.2458 25.9292L72.6875 25.9292ZM79.2458 38.9958L79.2458 58.6L85.8125 58.6L85.8125 52.0667L92.3708 52.0667L92.3708 45.5333L85.8125 45.5333L85.8125 38.9958L79.2458 38.9958ZM79.2458 58.6L72.6875 58.6L72.6875 71.6708L79.2458 71.6708L79.2458 58.6ZM72.6875 71.6708L59.5625 71.6708L59.5625 78.2083L39.875 78.2083L39.875 71.6666L26.7499 71.6666L26.7499 100L72.6833 100L72.6875 71.6708ZM26.7541 71.6708L26.7541 58.6L20.1875 58.6L20.1875 71.6708L26.7541 71.6708ZM20.1875 58.6L20.1875 39L13.6292 39L13.6292 58.6042L20.1875 58.6ZM20.1875 38.9958L26.7541 38.9958L26.7541 25.9292L20.1875 25.9292L20.1875 38.9958Z" fill="url(#RadialGradient_2)" opacity="1" layerName="path"/>
+</g>
+</svg>

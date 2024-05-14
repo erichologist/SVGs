@@ -1,0 +1,16 @@
+<svg width="100%" height="100%" viewBox="0 0 100 100" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="89.2421" id="Filter" width="78.6497" x="-2.56538" y="-1.25887">
+<feDropShadow dx="8.00004e-17" dy="1.30651" flood-color="#000000" flood-opacity="0.55" in="SourceGraphic" result="Shadow" stdDeviation="1.95976"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="36.2799" id="Filter_2" width="28.3356" x="74.2298" y="67.592">
+<feDropShadow dx="8.00004e-17" dy="1.30651" flood-color="#000000" flood-opacity="0.55" in="SourceGraphic" result="Shadow" stdDeviation="1.95976"/>
+</filter>
+</defs>
+<g id="Layer" layerName="Layer">
+<g opacity="1" layerName="Group 3">
+<path d="M36.7356 28.7436L50 2.33402L71.1849 2.33402L50 42.0557L71.1849 81.7773L50 81.7773L36.7594 55.2962L23.5189 81.7773L2.33402 81.7773L23.5189 42.0557L2.33402 2.33402L23.5189 2.33402L36.7356 28.7436Z" fill="#c832e1" filter="url(#Filter)" layerName="path" shadowAngle="1.5708" shadowColor="#000000" shadowOffset="1.30651" shadowOpacity="0.55" shadowRadius="3.91952"/>
+<path d="M97.666 97.666L79.6615 97.666L79.6615 93.7229L87.9527 84.9021C89.9971 82.5453 91.0192 80.6757 91.0192 79.2907C91.0192 78.1679 90.7782 77.31 90.2936 76.7247C89.809 76.1395 89.1073 75.8482 88.1857 75.8482C87.2748 75.8482 86.536 76.2375 85.9693 77.0187C85.4026 77.8052 85.1192 78.7797 85.1192 79.9501L79.1292 79.9501C79.1292 78.348 79.5238 76.8704 80.3156 75.5119C81.1074 74.1561 82.2063 73.0968 83.6125 72.3315C85.0186 71.5662 86.5889 71.1849 88.3261 71.1849C91.1172 71.1849 93.2622 71.8363 94.7716 73.1392C96.2757 74.4421 97.0304 76.3116 97.0304 78.7505C97.0304 79.7806 96.8424 80.779 96.4637 81.7535C96.0851 82.728 95.4972 83.7502 94.7001 84.82C93.903 85.8872 92.6187 87.3198 90.8471 89.1126L87.5158 93.0027L97.666 93.0027L97.666 97.666Z" fill="#ffffff" filter="url(#Filter_2)" layerName="path" shadowAngle="1.5708" shadowColor="#000000" shadowOffset="1.30651" shadowOpacity="0.55" shadowRadius="3.91952"/>
+</g>
+</g>
+</svg>

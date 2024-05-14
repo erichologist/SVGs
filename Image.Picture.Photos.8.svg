@@ -1,0 +1,33 @@
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="1.35722 2.23829 99.4902 97.2856" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="97.2856" id="Filter" width="97.2856" x="1.35722" y="2.23829">
+<feComponentTransfer in="SourceGraphic" result="Alpha">
+<feFuncA slope="0.601167" type="linear"/>
+</feComponentTransfer>
+<feDropShadow dx="5.395e-17" dy="0.88107" flood-color="#000000" flood-opacity="0.5" in="Alpha" result="Shadow" stdDeviation="1.10134"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="64.5557" id="Filter_2" width="93.4298" x="2.18515" y="34.3884">
+<feComponentTransfer in="SourceGraphic" result="Alpha">
+<feFuncA slope="0.950312" type="linear"/>
+</feComponentTransfer>
+<feDropShadow dx="0.827935" dy="0.301344" flood-color="#000000" flood-opacity="0.6" in="Alpha" result="Shadow" stdDeviation="1.10134"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="54.0209" id="Filter_3" width="49.6021" x="51.2453" y="42.0587">
+<feComponentTransfer in="SourceGraphic" result="Alpha">
+<feFuncA slope="0.901735" type="linear"/>
+</feComponentTransfer>
+<feDropShadow dx="0.827935" dy="0.301344" flood-color="#000000" flood-opacity="0.6" in="Alpha" result="Shadow" stdDeviation="1.65201"/>
+</filter>
+</defs>
+<clipPath id="ArtboardFrame">
+<rect height="97.2856" width="99.4902" x="1.35722" y="2.23829"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="Layer" layerName="Layer">
+<g opacity="1" layerName="Group 1">
+<path d="M82.1227 4.11056L17.8773 4.11056C10.2834 4.13294 4.13294 10.2834 4.11056 17.8773L4.11056 58.5354L21.9159 40.73C27.3649 35.5439 35.9242 35.5439 41.3732 40.73L54.5485 53.978L58.6235 49.9031C64.0076 44.5488 72.7055 44.5488 78.0896 49.9031L95.8894 67.7128L95.8894 17.8773C95.8671 10.2834 89.7166 4.13294 82.1227 4.11056ZM41.3732 40.73C35.9242 35.5439 27.3649 35.5439 21.9159 40.73L4.11056 58.5354L4.11056 82.1227C4.13294 89.7166 10.2834 95.8671 17.8773 95.8894L82.1216 95.8894C85.8619 95.8872 89.4403 94.3632 92.0336 91.668L41.3732 40.73ZM95.8894 67.704L78.0885 49.9031C72.7044 44.5488 64.0065 44.5488 58.6224 49.9031L54.5474 53.978L92.016 91.6482C94.5031 89.1013 95.8936 85.6815 95.8894 82.1216L95.8894 67.7029L95.8894 67.704Z" fill="#0000ff" fill-rule="nonzero" filter="url(#Filter)" stroke="none" layerName="Curve 1" shadowAngle="1.5708" shadowColor="#000000" shadowOffset="0.88107" shadowOpacity="0.5" shadowRadius="2.20268"/>
+<path d="M82.1227 4.11056L17.8773 4.11056C10.2834 4.13294 4.13294 10.2834 4.11056 17.8773L4.11056 58.5354L21.9159 40.73C27.3649 35.5439 35.9242 35.5439 41.3732 40.73L54.5485 53.978L58.6235 49.9031C64.0076 44.5488 72.7055 44.5488 78.0896 49.9031L95.8894 67.7128L95.8894 17.8773C95.8671 10.2834 89.7166 4.13294 82.1227 4.11056Z" fill="#0000ff" fill-rule="nonzero" opacity="0.348274" stroke="none" layerName="path"/>
+<path d="M41.3732 40.73C35.9242 35.5439 27.3649 35.5439 21.9159 40.73L4.11056 58.5354L4.11056 82.1227C4.13294 89.7166 10.2834 95.8671 17.8773 95.8894L82.1216 95.8894C85.8619 95.8872 89.4403 94.3632 92.0336 91.668L41.3732 40.73Z" fill="#ffffff" fill-rule="nonzero" filter="url(#Filter_2)" stroke="none" layerName="path 1" shadowAngle="0.349066" shadowColor="#000000" shadowOffset="0.88107" shadowOpacity="0.6" shadowRadius="2.20268"/>
+<path d="M95.8894 67.704L78.0885 49.9031C72.7044 44.5488 64.0065 44.5488 58.6224 49.9031L54.5474 53.978L92.016 91.6482C94.5031 89.1013 95.8936 85.6815 95.8894 82.1216L95.8894 67.7029L95.8894 67.704Z" fill="#844ed0" fill-rule="nonzero" filter="url(#Filter_3)" stroke="none" layerName="path 2" shadowAngle="0.349066" shadowColor="#000000" shadowOffset="0.88107" shadowOpacity="0.6" shadowRadius="3.30401"/>
+</g>
+</g>
+</svg>

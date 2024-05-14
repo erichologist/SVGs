@@ -1,0 +1,28 @@
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="-1.1208 -1.1208 102.242 102.242" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<radialGradient cx="25.1681" cy="79.3204" gradientTransform="matrix(1.05404 0 0 1.05404 -2.70186 -2.70186)" gradientUnits="userSpaceOnUse" id="RadialGradient" r="111.566">
+<stop offset="0" stop-color="#aa1044"/>
+<stop offset="0.651316" stop-color="#77167b"/>
+<stop offset="0.869737" stop-color="#5b1a99"/>
+<stop offset="0.988158" stop-color="#2e1fc9"/>
+<stop offset="1" stop-color="#0a24ef"/>
+</radialGradient>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="90.3207" id="Filter" width="90.2814" x="4.13281" y="5.59637">
+<feDropShadow dx="-0.732195" dy="0.758212" flood-color="#000000" flood-opacity="0.6" in="SourceGraphic" result="Shadow" stdDeviation="1.05404"/>
+</filter>
+<radialGradient cx="42.1594" cy="58.6236" gradientTransform="matrix(1.05404 0 0 1.05404 -2.70186 -2.70186)" gradientUnits="userSpaceOnUse" id="RadialGradient_2" r="55.5558">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="0.755263" stop-color="#dcdbdb"/>
+<stop offset="1" stop-color="#a2a2a2"/>
+</radialGradient>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="102.242" id="Filter_2" width="102.242" x="-1.1208" y="-1.1208">
+<feDropShadow dx="-0" dy="0" flood-color="#000000" flood-opacity="0.6" in="SourceGraphic" result="Shadow" stdDeviation="1.05404"/>
+</filter>
+</defs>
+<g id="Layer-40" layerName="Layer 40">
+<g opacity="1" layerName="Group 1">
+<path d="M37.2198 7.57501C36.7788 7.71723 36.4046 8.02382 36.1328 8.43141L11.89 44.7957C11.6951 45.088 11.5594 45.434 11.5276 45.7839L7.50913 90.2181C7.3969 91.4526 8.34465 92.5238 9.58426 92.5238L62.1214 92.5238C62.772 92.5238 63.4019 92.2138 63.8013 91.7003C64.6852 90.564 91.1788 56.4724 92.0627 55.3361C92.6058 54.6378 92.6632 53.6817 92.1944 52.9315L72.003 20.5858C71.7575 20.1929 71.3828 19.892 70.949 19.7294L38.6032 7.60794C38.1446 7.43594 37.6608 7.43278 37.2198 7.57501ZM38.702 12.1535L68.775 23.4185L87.8136 53.9197C85.4491 56.9598 62.9405 85.8994 61.0674 88.3077L11.89 88.3077L15.7109 46.6732L38.702 12.1535Z" fill="url(#RadialGradient)" fill-rule="nonzero" filter="url(#Filter)" stroke="none" layerName="Curve 1" shadowAngle="2.33874" shadowColor="#000000" shadowOffset="1.05404" shadowOpacity="0.6" shadowRadius="2.10807"/>
+<path d="M9.59524 82.3238C5.13226 82.3238 1.51429 85.9418 1.51429 90.4048C1.51429 94.8677 5.13226 98.4857 9.59524 98.4857C14.0582 98.4857 17.6762 94.8677 17.6762 90.4048C17.6762 85.9418 14.0582 82.3238 9.59524 82.3238ZM13.6357 37.8786C9.17273 37.8786 5.55477 41.4965 5.55477 45.9595C5.55477 50.4225 9.17273 54.0405 13.6357 54.0405C18.0987 54.0405 21.7167 50.4225 21.7167 45.9595C21.7167 41.4965 18.0987 37.8786 13.6357 37.8786ZM37.8786 1.51429C33.4156 1.51429 29.7976 5.13226 29.7976 9.59524C29.7976 14.0582 33.4156 17.6762 37.8786 17.6762C42.3416 17.6762 45.9595 14.0582 45.9595 9.59524C45.9595 5.13226 42.3416 1.51429 37.8786 1.51429ZM70.2024 13.6357C65.7394 13.6357 62.1214 17.2537 62.1214 21.7167C62.1214 26.1797 65.7394 29.7976 70.2024 29.7976C74.6654 29.7976 78.2833 26.1797 78.2833 21.7167C78.2833 17.2537 74.6654 13.6357 70.2024 13.6357ZM90.4048 45.9595C85.9418 45.9595 82.3238 49.5775 82.3238 54.0405C82.3238 58.5035 85.9418 62.1214 90.4048 62.1214C94.8677 62.1214 98.4857 58.5035 98.4857 54.0405C98.4857 49.5775 94.8677 45.9595 90.4048 45.9595ZM62.1214 82.3238C57.6584 82.3238 54.0405 85.9418 54.0405 90.4048C54.0405 94.8677 57.6584 98.4857 62.1214 98.4857C66.5844 98.4857 70.2024 94.8677 70.2024 90.4048C70.2024 85.9418 66.5844 82.3238 62.1214 82.3238Z" fill="url(#RadialGradient_2)" fill-rule="nonzero" filter="url(#Filter_2)" stroke="none" layerName="path 37" shadowAngle="2.33874" shadowColor="#000000" shadowOffset="0" shadowOpacity="0.6" shadowRadius="2.10807"/>
+</g>
+</g>
+</svg>

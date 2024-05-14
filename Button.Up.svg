@@ -1,0 +1,27 @@
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 100 100" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(-1.96768 2.40971e-16 -2.40971e-16 -1.96768 112.966 116.901)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="32" x2="32" y1="65.114" y2="21.113">
+<stop offset="0" stop-color="#155cde"/>
+<stop offset="0.278" stop-color="#1f7fe5"/>
+<stop offset="0.569" stop-color="#279ceb"/>
+<stop offset="0.82" stop-color="#2cafef"/>
+<stop offset="1" stop-color="#2eb5f0"/>
+</linearGradient>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="96.5778" id="Filter" width="96.5778" x="1.32104" y="2.17098">
+<feDropShadow dx="-0.390038" dy="0.459895" flood-color="#000000" flood-opacity="0.5" in="SourceGraphic" result="Shadow" stdDeviation="2"/>
+</filter>
+<radialGradient cx="50.7253" cy="37.3778" gradientTransform="matrix(-1 1.22465e-16 -1.22465e-16 -1 100 100)" gradientUnits="userSpaceOnUse" id="RadialGradient" r="53.1874">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#d1d1d1"/>
+</radialGradient>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="51.1358" id="Filter_2" width="76.8004" x="11.2098" y="22.9135">
+<feDropShadow dx="-0.390038" dy="0.459895" flood-color="#000000" flood-opacity="0.5" in="SourceGraphic" result="Shadow" stdDeviation="2"/>
+</filter>
+</defs>
+<path d="M0 0L100 0L100 100L0 100L0 0Z" fill="#689f38" fill-opacity="0" fill-rule="nonzero" opacity="1" stroke="none"/>
+<g id="Layer-1" vectornator:layerName="Layer 1">
+<path d="M14.5818 93.2889L85.4182 93.2889C89.7648 93.2889 93.2889 89.7648 93.2889 85.4182L93.2889 14.5818C93.2889 10.2352 89.7648 6.71108 85.4182 6.71108L14.5818 6.71108C10.2352 6.71108 6.71108 10.2352 6.71108 14.5818L6.71108 85.4182C6.71108 89.7648 10.2352 93.2889 14.5818 93.2889Z" fill="url(#LinearGradient)" fill-rule="nonzero" filter="url(#Filter)" stroke="none" vectornator:layerName="path 1" vectornator:shadowAngle="2.27419" vectornator:shadowColor="#000000" vectornator:shadowOffset="0.60302" vectornator:shadowOpacity="0.5" vectornator:shadowRadius="4"/>
+<path d="M26.1478 62.0461C27.2615 63.1598 28.7432 63.7737 30.3193 63.7737C31.9918 63.7541 33.381 63.1579 34.4967 62.0422L49.9823 46.5211L65.5092 62.0186C67.8075 64.3149 71.55 64.3109 73.8502 62.0127C74.9659 60.897 75.5798 59.4134 75.5798 57.8353C75.5798 56.2572 74.9639 54.7736 73.8463 53.6579L54.1479 33.991C52.9987 32.8438 51.4876 32.2693 49.9784 32.2693C48.4652 32.2693 46.9521 32.8458 45.8029 33.9969L26.1419 53.6933C23.8437 56.0014 23.8456 59.7459 26.1478 62.0461Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path 2"/>
+<path d="M18.8562 66.3336C20.3104 67.7878 22.245 68.5894 24.303 68.5894C26.4868 68.5637 28.3007 67.7852 29.7574 66.3285L49.9772 46.0625L70.2509 66.2977C73.2518 69.2959 78.1384 69.2908 81.1419 66.2899C82.5986 64.8332 83.4002 62.896 83.4002 60.8355C83.4002 58.775 82.596 56.8378 81.1367 55.381L55.4162 29.7017C53.9158 28.2038 51.9427 27.4536 49.9721 27.4536C47.9963 27.4536 46.0206 28.2064 44.5202 29.7094L18.8485 55.4273C15.8477 58.441 15.8502 63.3302 18.8562 66.3336Z" fill="url(#RadialGradient)" fill-rule="nonzero" filter="url(#Filter_2)" stroke="none" vectornator:layerName="path 3" vectornator:shadowAngle="2.27419" vectornator:shadowColor="#000000" vectornator:shadowOffset="0.60302" vectornator:shadowOpacity="0.5" vectornator:shadowRadius="4"/>
+</g>
+</svg>

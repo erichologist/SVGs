@@ -1,0 +1,21 @@
+<svg width="100%" height="100%" viewBox="0 0 100 100" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(1.10119 0 0 1.10119 -5.05945 -1.65141)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="11.3893" x2="115.812" y1="20.9015" y2="20.378">
+<stop offset="0" stop-color="#cc00b9"/>
+<stop offset="0.669737" stop-color="#a60095"/>
+<stop offset="1" stop-color="#800073"/>
+</linearGradient>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.5304" id="Filter" width="75.1315" x="12.4342" y="-4.24691">
+<feDropShadow dx="6.37521e-17" dy="-1.04115" flood-color="#000000" flood-opacity="0.65" in="SourceGraphic" result="Shadow" stdDeviation="2.0823"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="39.465" id="Filter_2" width="104.798" x="-2.39882" y="64.3169">
+<feDropShadow dx="5.78939e-17" dy="-0.945479" flood-color="#000000" flood-opacity="0.65" in="SourceGraphic" result="Shadow" stdDeviation="1.89096"/>
+</filter>
+</defs>
+<g id="Layer" layerName="Layer">
+<g opacity="1" layerName="g 4">
+<path d="M17.64 19.1044L41.4478 19.1044L41.4478 76.1189L58.5522 76.1189L58.5522 19.1044L82.36 19.1044L82.36 2L17.64 2L17.64 19.1044Z" fill="url(#LinearGradient)" filter="url(#Filter)" layerName="path" shadowAngle="-1.5708" shadowColor="#000000" shadowOffset="1.04115" shadowOpacity="0.65" shadowRadius="4.1646"/>
+<path d="M79.3486 79.9932L79.3486 89.9966L20.3708 89.9966L20.3708 79.9932L79.3486 79.9932ZM20.3708 79.9932L20.3708 89.9966L9.94642 89.9966L9.94642 79.9932L20.3708 79.9932ZM20.3708 69.9898L20.3708 79.9932L9.94642 79.9932L9.94642 89.9966L20.3708 89.9966L20.3708 100L2.32857 85.0143L20.3708 69.9898ZM79.3486 69.9898L97.6714 85.0143L79.3486 100L79.3486 89.9966L88.49 89.9966L88.49 79.9932L79.3486 79.9932L79.3486 69.9898ZM88.49 79.9932L88.49 89.9966L79.3486 89.9966L79.3486 79.9932L88.49 79.9932Z" fill="#2196f3" filter="url(#Filter_2)" layerName="path" shadowAngle="-1.5708" shadowColor="#000000" shadowOffset="0.945479" shadowOpacity="0.65" shadowRadius="3.78192"/>
+</g>
+</g>
+</svg>

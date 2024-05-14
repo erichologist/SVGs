@@ -1,0 +1,24 @@
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 100 100" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(-1.61761 -1.5384e-16 0 1.2562 186.812 -7.18452)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="57.7731" x2="135.104" y1="45.5217" y2="44.2337">
+<stop offset="0.167105" stop-color="#ffffff"/>
+<stop offset="0.500452" stop-color="#ffffff"/>
+<stop offset="0.860017" stop-color="#bebebe"/>
+<stop offset="1" stop-color="#a9a9a9"/>
+</linearGradient>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="98.19" id="Filter" width="98.19" x="0.337983" y="1.47464">
+<feDropShadow dx="-0.568329" dy="0.568325" flood-color="#000000" flood-opacity="0.73" in="SourceGraphic" result="Shadow" stdDeviation="1.35"/>
+</filter>
+</defs>
+<clipPath id="ArtboardFrame">
+<rect height="98.19" width="98.19" x="0.337983" y="1.47464"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="Layer" layerName="Layer">
+<g opacity="1" layerName="Group 8">
+<path d="M6.64218 18.8496C6.64218 17.7337 7.80703 16.8291 9.24394 16.8291L90.7561 16.8291C92.193 16.8291 93.3578 17.7337 93.3578 18.8496L93.3578 81.1504C93.3578 82.2663 92.193 83.1709 90.7561 83.1709L9.24394 83.1709C7.80703 83.1709 6.64218 82.2663 6.64218 81.1504L6.64218 18.8496Z" fill="url(#LinearGradient)" fill-rule="nonzero" opacity="1" stroke="none" layerName="Rectangle 1"/>
+<g filter="url(#Filter)" layerName="Group 7" shadowAngle="2.3562" shadowColor="#000000" shadowOffset="0.803736" shadowOpacity="0.73" shadowRadius="2.7">
+<path d="M85.5613 4.28131L14.4413 4.28131C8.85331 4.28131 4.28131 8.85331 4.28131 14.4413L4.28131 85.5613C4.28131 91.1493 8.85331 95.7213 14.4413 95.7213L85.5613 95.7213C91.1493 95.7213 95.7213 91.1493 95.7213 85.5613L95.7213 14.4413C95.7213 8.85331 91.1493 4.28131 85.5613 4.28131M34.7613 57.6213C34.7613 63.2093 30.1893 65.2413 24.6013 65.2413C19.0133 65.2413 14.4413 63.2093 14.4413 57.6213L14.4413 50.0013L22.0613 50.0013L22.0613 57.6213L27.1413 57.6213L27.1413 34.7613L34.7613 34.7613L34.7613 57.6213M60.1613 47.4613C60.1613 51.5253 56.6053 55.0813 52.5413 55.0813L47.4613 55.0813L47.4613 65.2413L39.8413 65.2413L39.8413 34.7613L52.5413 34.7613C56.6053 34.7613 60.1613 38.3173 60.1613 42.3813L60.1613 47.4613M85.5613 42.3813L72.8613 42.3813L72.8613 57.6213L77.9413 57.6213L77.9413 50.0013L85.5613 50.0013L85.5613 58.6373C85.5613 62.1933 83.0213 65.2413 78.9573 65.2413L72.3533 65.2413C68.2893 65.2413 65.7493 61.6853 65.7493 58.6373L65.7493 41.8733C65.2413 38.3173 67.7813 34.7613 71.8453 34.7613L78.4493 34.7613C82.5133 34.7613 85.0533 38.3173 85.0533 41.3653L85.0533 42.3813M47.4613 42.3813L52.5413 42.3813L52.5413 47.4613L47.4613 47.4613L47.4613 42.3813Z" fill="#d5004a" fill-rule="nonzero" opacity="1" stroke="none" layerName="path 2"/>
+</g>
+</g>
+</g>
+</svg>

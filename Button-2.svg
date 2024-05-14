@@ -1,0 +1,29 @@
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 100 100" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="53.9493" id="Filter" width="98.9416" x="-0.258878" y="35.3635">
+<feDropShadow dx="-0.788089" dy="0.816092" flood-color="#000000" flood-opacity="0.4" in="SourceGraphic" result="Shadow" stdDeviation="1.08786"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="39.6025" id="Filter_2" width="70.9059" x="13.6885" y="31.635">
+<feDropShadow dx="-0.833103" dy="0.862706" flood-color="#000000" flood-opacity="0.4" in="SourceGraphic" result="Shadow" stdDeviation="1.15"/>
+</filter>
+</defs>
+<g id="Button" layerName="Button">
+<g opacity="1" layerName="Group 1">
+<g opacity="1" layerName="Group 2">
+<path d="M96.6237 59.9034L96.6237 55.1365L95.0942 55.1365C89.69 44.838 71.5402 37.2671 50 37.2671C28.4598 37.2671 10.31 44.838 4.90581 55.1365L3.24887 55.1365L3.24887 62.1466L3.27436 62.1466C3.91164 75.2492 24.5851 85.7771 50 85.7771C75.8227 85.7771 96.7511 74.9178 96.7511 61.5093C96.7511 60.9995 96.7001 60.4642 96.6237 59.9034Z" fill="#afafaf" fill-rule="nonzero" filter="url(#Filter)" stroke="none" layerName="path 164" shadowAngle="2.33874" shadowColor="#000000" shadowOffset="1.1345" shadowOpacity="0.4" shadowRadius="2.17573"/>
+<path d="M50 37.2671C28.4598 37.2671 10.31 44.838 4.90581 55.1365L3.24887 55.1365L3.24887 62.1466L3.27436 62.1466C3.91164 75.2492 24.5851 85.7771 50 85.7771L50 37.2671Z" fill="#99999a" fill-rule="nonzero" opacity="1" stroke="none" layerName="path 165"/>
+<path d="M50 31.8884C24.1801 31.8884 3.24887 42.7534 3.24887 56.1562C3.24887 69.5589 24.1801 80.4239 50 80.4239C75.8199 80.4239 96.7511 69.5589 96.7511 56.1562C96.7511 42.7534 75.8199 31.8884 50 31.8884Z" fill="#c1c1c1" fill-rule="nonzero" opacity="1" stroke="none" layerName="path 166"/>
+<path d="M3.24887 56.1562C3.24887 42.7477 24.1773 31.8884 50 31.8884L50 80.4239C24.1773 80.3984 3.24887 69.5391 3.24887 56.1562Z" fill="#afafaf" fill-rule="nonzero" opacity="1" stroke="none" layerName="path 167"/>
+</g>
+<g opacity="1" layerName="Group 1">
+<path d="M17.3966 50.5736C17.3966 41.2437 31.9776 33.6473 49.9745 33.6473C67.9714 33.6473 82.5525 41.2182 82.5525 50.5736C82.5525 59.9289 67.9714 67.4998 49.9745 67.4998C31.9776 67.4998 17.3966 59.9289 17.3966 50.5736Z" fill="#eb5453" fill-rule="nonzero" filter="url(#Filter_2)" stroke="none" layerName="path 168" shadowAngle="2.33874" shadowColor="#000000" shadowOffset="1.1993" shadowOpacity="0.4" shadowRadius="2.3"/>
+<path d="M17.3966 50.5736C17.3966 47.0812 17.3966 31.1491 17.3966 31.1491C17.3966 31.1491 38.7328 33.6473 49.9745 33.6473C60.7828 33.6473 82.5525 31.1491 82.5525 31.1491C82.5525 31.1491 82.5525 46.8263 82.5525 50.5736C82.5525 59.9289 67.9714 67.4998 49.9745 67.4998C31.9776 67.4998 17.3966 59.9289 17.3966 50.5736Z" fill="#da494a" fill-rule="nonzero" opacity="1" stroke="none" layerName="path 169"/>
+<path d="M17.3966 50.5736C17.3966 47.0812 17.3966 31.1491 17.3966 31.1491C17.3966 31.1491 38.7328 33.6473 49.9745 33.6473L49.9745 67.4998C32.0031 67.4998 17.3966 59.9289 17.3966 50.5736Z" fill="#d04646" fill-rule="nonzero" opacity="1" stroke="none" layerName="path 170"/>
+<path d="M17.3966 31.1491C17.3966 21.8193 31.9776 14.2229 49.9745 14.2229C67.9714 14.2229 82.5525 21.7938 82.5525 31.1491C82.5525 40.5045 67.9714 48.0754 49.9745 48.0754C31.9776 48.0754 17.3966 40.5045 17.3966 31.1491Z" fill="#eb5453" fill-rule="nonzero" opacity="1" stroke="none" layerName="path 171"/>
+<path d="M17.3966 31.1491L82.5779 31.1491C82.5779 40.5045 67.9969 48.0754 50 48.0754C32.0031 48.0754 17.3966 40.5045 17.3966 31.1491Z" fill="#e95e5d" fill-rule="nonzero" opacity="1" stroke="none" layerName="path 172"/>
+<path d="M17.3966 31.1491C17.3966 21.8193 31.9776 14.2229 49.9745 14.2229L49.9745 48.0499C32.0031 48.0754 17.3966 40.5045 17.3966 31.1491Z" fill="#dc494a" fill-rule="nonzero" opacity="1" stroke="none" layerName="path 173"/>
+<path d="M17.3966 31.1491C17.3966 31.1491 31.9776 31.3786 49.9745 31.3786L49.9745 48.0499C32.0031 48.0754 17.3966 40.5045 17.3966 31.1491Z" fill="#d64747" fill-rule="nonzero" opacity="1" stroke="none" layerName="path 174"/>
+</g>
+</g>
+</g>
+</svg>

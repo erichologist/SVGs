@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 100 100" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="26.2188" id="Filter" width="30.1772" x="-2.89648" y="77.0044">
+<feDropShadow dx="0.353522" dy="1.18274" flood-color="#000000" flood-opacity="0.5" in="SourceGraphic" result="Shadow" stdDeviation="1.5"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="76.3598" id="Filter_2" width="74.9737" x="28.6298" y="-0.857688">
+<feDropShadow dx="0.353522" dy="1.18274" flood-color="#000000" flood-opacity="0.5" in="SourceGraphic" result="Shadow" stdDeviation="1.5"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="46.5057" id="Filter_3" width="46.0203" x="5.52684" y="52.3536">
+<feDropShadow dx="0.353522" dy="1.18274" flood-color="#000000" flood-opacity="0.5" in="SourceGraphic" result="Shadow" stdDeviation="1.5"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="41.1709" id="Filter_4" width="40.5914" x="19.8055" y="43.3182">
+<feDropShadow dx="0.353522" dy="1.18274" flood-color="#000000" flood-opacity="0.5" in="SourceGraphic" result="Shadow" stdDeviation="1.5"/>
+</filter>
+</defs>
+<path d="M0 0L100 0L100 100L0 100L0 0Z" fill="#689f38" fill-opacity="0" fill-rule="nonzero" opacity="1" stroke="none"/>
+<clipPath id="ArtboardFrame">
+<rect height="100" width="100" x="0" y="0"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="Highlighter" layerName="Highlighter">
+<g opacity="1" layerName="Highlighter">
+<path d="M15.6661 98.2904C15.5086 98.2904 15.3662 98.265 15.2137 98.2015L1.2884 92.732C0.904621 92.5795 0.614881 92.2389 0.523384 91.8246C0.444594 91.4078 0.566591 90.9808 0.863956 90.6809L11.4192 79.9376C11.6504 79.7038 11.9631 79.5717 12.2858 79.5717L12.2858 79.5717C12.6188 79.5717 12.9314 79.7038 13.1627 79.9376L22.8131 89.7583C23.2985 90.2438 23.2985 91.0418 22.8131 91.5247L16.5277 97.9295C16.2965 98.1659 15.9838 98.2904 15.6661 98.2904Z" fill="#e8ff00" fill-rule="nonzero" filter="url(#Filter)" stroke="none" layerName="path" shadowAngle="1.28035" shadowColor="#000000" shadowOffset="1.23444" shadowOpacity="0.5" shadowRadius="3"/>
+<path d="M98.7556 18.0297C99.7469 19.0209 99.7494 20.6298 98.7556 21.6235L56.2934 70.5694L32.0263 45.8855L79.587 2.45489C80.5808 1.46113 82.187 1.46113 83.1808 2.45489L98.7556 18.0297Z" fill="#cddc39" fill-rule="nonzero" filter="url(#Filter_2)" stroke="none" layerName="path" shadowAngle="1.28035" shadowColor="#000000" shadowOffset="1.23444" shadowOpacity="0.5" shadowRadius="3"/>
+<path d="M8.92332 79.0608L16.0931 71.7944L23.2019 54.9208L47.4436 79.5564L30.7022 86.6601L23.5501 93.9265L8.92332 79.0608Z" fill="#37474f" fill-rule="nonzero" filter="url(#Filter_3)" stroke="none" layerName="path 1" shadowAngle="1.28035" shadowColor="#000000" shadowOffset="1.23444" shadowOpacity="0.5" shadowRadius="3"/>
+<path d="M23.2019 54.9208L47.4461 79.5564L56.2934 70.5694L32.0263 45.8855L23.2019 54.9208Z" fill="#689f38" fill-rule="nonzero" filter="url(#Filter_4)" stroke="none" layerName="path 2" shadowAngle="1.28035" shadowColor="#000000" shadowOffset="1.23444" shadowOpacity="0.5" shadowRadius="3"/>
+</g>
+</g>
+</svg>

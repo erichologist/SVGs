@@ -1,0 +1,21 @@
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="-1.0257 -2.65527 91.1906 104.691" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="91.1906" id="Filter" width="77.6906" x="12.4743" y="-2.65527">
+<feDropShadow dx="-0.680391" dy="0.690036" flood-color="#000000" flood-opacity="0.65" in="SourceGraphic" result="Shadow" stdDeviation="1.93812"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="104.691" id="Filter_2" width="91.1906" x="-1.0257" y="-2.65527">
+<feDropShadow dx="-0.680391" dy="0.690036" flood-color="#000000" flood-opacity="0.65" in="SourceGraphic" result="Shadow" stdDeviation="1.93812"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="33.6906" id="Filter_3" width="42.6906" x="25.4743" y="32.8447">
+<feDropShadow dx="-0.680391" dy="0.690036" flood-color="#000000" flood-opacity="0.65" in="SourceGraphic" result="Shadow" stdDeviation="1.93812"/>
+</filter>
+</defs>
+<g id="Layer" layerName="Layer">
+<g opacity="1" layerName="g 4">
+<path d="M20.5 80.5L83.5 80.5L83.5 31L58.75 31L58.75 4L20.5 4L20.5 80.5Z" fill="#07b9f8" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="7" layerName="path"/>
+<path d="M20.5 80.5L83.5 80.5L83.5 31L58.75 31L58.75 4L20.5 4L20.5 80.5Z" fill="none" filter="url(#Filter)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="7" layerName="path" shadowAngle="2.34916" shadowColor="#000000" shadowOffset="0.969062" shadowOpacity="0.65" shadowRadius="3.87625"/>
+<path d="M58.75 4L83.5 31M7 40L7 94L54.25 94" fill="none" filter="url(#Filter_2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="7" layerName="path" shadowAngle="2.34916" shadowColor="#000000" shadowOffset="0.969062" shadowOpacity="0.65" shadowRadius="3.87625"/>
+<path d="M34 40L43 40M34 58L61 58" fill="none" filter="url(#Filter_3)" stroke="#efefef" stroke-linecap="round" stroke-linejoin="miter" stroke-width="7" layerName="path" shadowAngle="2.34916" shadowColor="#000000" shadowOffset="0.969062" shadowOpacity="0.65" shadowRadius="3.87625"/>
+</g>
+</g>
+</svg>

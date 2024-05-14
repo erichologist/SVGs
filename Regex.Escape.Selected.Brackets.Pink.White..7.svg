@@ -1,0 +1,135 @@
+<svg viewBox="0 0 100 100">
+<g fill="#00f" fill-opacity="0" fill-rule="nonzero" opacity="1" stroke-linejoin="miter" stroke-width="2" stroke="#00f" stroke-linecap="round">
+
+<g fill="#00f" fill-opacity="0" fill-rule="nonzero" opacity="1" stroke-linejoin="miter" stroke-width="2" stroke="#00f" stroke-linecap="round">
+<g stroke-dasharray="54" stroke-dashoffset="54">
+<rect id="CIRCLE-Stroke1" width="17.19" height="17.19" x="5.41" y="5" rx="8.54">
+<animate id="CircleStrokeOneA" fill="freeze" attributeName="stroke-dashoffset" begin="0;RectangleFillThreeA.end+1.2s" dur="0.4s" values="54;0"/>
+<animate id="CircleStrokeOneB" fill="freeze" attributeName="stroke-dashoffset" begin="0;RectangleFillThreeB.end+1.2s" dur="0.4s" values="54;0"/>
+</rect>
+<rect id="CIRCLE-Stroke2" width="17.19" height="17.19" x="5.41" y="41.19" rx="8.54">
+<animate id="CircleStrokeTwoA" fill="freeze" attributeName="stroke-dashoffset" begin="RectangleStrokeOneA.end+.2s;RectangleStrokeOneA.end" dur="0.4s" values="54;0"/>
+<animate id="CircleStrokeTwoB" fill="freeze" attributeName="stroke-dashoffset" begin="RectangleStrokeOneB.end+.2s;RectangleStrokeOneB.end" dur="0.4s" values="54;0"/>
+</rect>
+<rect id="CIRCLE-Stroke3" width="17.19" height="17.19" x="5.41" y="78.05" rx="8.54">
+<animate id="CircleStrokeThreeA" fill="freeze" attributeName="stroke-dashoffset" begin="RectangleStrokeTwoA.end+.2s;RectangleStrokeTwoA.end" dur="0.4s" values="54;0"/>
+<animate id="CircleStrokeThreeB" fill="freeze" attributeName="stroke-dashoffset" begin="RectangleStrokeTwoB.end+.2s;RectangleStrokeTwoB.end" dur="0.4s" values="54;0"/>
+</rect>
+</g>
+</g>
+
+<g fill="#00f" fill-opacity="0" fill-rule="nonzero" opacity="1" stroke-linejoin="miter" stroke-width="2" stroke="#00f" stroke-linecap="round">
+<g stroke-dasharray="54" stroke-dashoffset="54">
+<rect id="CIRCLE-Fill1" width="17.19" height="17.19" x="5.41" y="5" rx="8.54">
+<animate id="CircleFillOneA" fill="freeze" attributeName="fill-opacity" begin="RectangleStrokeThreeA.end+.2s;RectangleStrokeThreeA.end+.2s" dur="0.4s" values="0;0.8"/>
+<animate id="CircleFillOneB" fill="freeze" attributeName="fill-opacity" begin="RectangleStrokeThreeB.end+.2s;RectangleStrokeThreeB.end+.2s" dur="0.4s" values="0.8;0"/>
+</rect>
+<rect id="CIRCLE-Fill2" width="17.19" height="17.19" x="5.41" y="41.19" rx="8.54">
+<animate id="CircleFillTwoA" fill="freeze" attributeName="fill-opacity" begin="RectangleFillOneA.end+.2s;RectangleFillOneA.end+.2s" dur="0.4s" values="0;0.8"/>
+<animate id="CircleFillTwoB" fill="freeze" attributeName="fill-opacity" begin="RectangleFillOneB.end+.2s;RectangleFillOneB.end+.2s" dur="0.4s" values="0.8;0"/>
+</rect>
+<rect id="CIRCLE-Fill3" width="17.19" height="17.19" x="5.41" y="78.05" rx="8.54">
+<animate id="CircleFillThreeA" fill="freeze" attributeName="fill-opacity" begin="RectangleFillTwoA.end+.2s;RectangleFillTwoA.end+.2s" dur="0.4s" values="0;0.8"/>
+<animate id="CircleFillThreeB" fill="freeze" attributeName="fill-opacity" begin="RectangleFillTwoB.end+.2s;RectangleFillTwoB.end+.2s" dur="0.4s" values="0.8;0"/>
+</rect>
+</g>
+</g>
+
+
+
+
+
+<g fill="#00f" fill-opacity="0" fill-rule="nonzero" opacity="1" stroke-linejoin="miter" stroke-width="2" stroke="#00f" stroke-linecap="round">
+<g stroke-dasharray="186" stroke-dashoffset="186">
+<rect id="RECTANGLE-Fill1" width="61.64" height="17.19" x="32.71" y="5.52" rx="8.54">
+<animate id="RectangleFillOneA" fill="freeze" attributeName="fill-opacity" begin="RectangleStrokeThreeA.end+.2s;RectangleStrokeThreeA.end+.2s" dur="0.4s" values="0;0.8"/>
+<animate id="RectangleFillOneB" fill="freeze" attributeName="fill-opacity" begin="RectangleStrokeThreeB.end+.2s;RectangleStrokeThreeB.end+.2s" dur="0.4s" values="0.8;0"/>
+</rect>
+<rect id="RECTANGLE-Fill2" width="61.64" height="17.19" x="32.71" y="41.75" rx="8.54">
+<animate id="RectangleFillTwoA" fill="freeze" attributeName="fill-opacity" begin="RectangleFillOneA.end+.2s;RectangleFillOneA.end+.2s" dur="0.4s" values="0;0.8"/>
+<animate id="RectangleFillTwoB" fill="freeze" attributeName="fill-opacity" begin="RectangleFillOneB.end+.2s;RectangleFillOneB.end+.2s" dur="0.4s" values="0.8;0"/>
+</rect>
+<rect id="RECTANGLE-Fill3" width="61.64" height="17.19" x="32.71" y="78.61" rx="8.54">
+<animate id="RectangleFillThreeA" fill="freeze" attributeName="fill-opacity" begin="RectangleFillTwoA.end+.2s;RectangleFillTwoA.end+.2s" dur="0.4s" values="0;0.8"/>
+<animate id="RectangleFillThreeB" fill="freeze" attributeName="fill-opacity" begin="RectangleFillTwoB.end+.2s;RectangleFillTwoB.end+.2s" dur="0.4s" values="0.8;0"/>
+</rect>
+</g>
+
+<g fill="#00f" fill-opacity="0" fill-rule="nonzero" opacity="1" stroke-linejoin="miter" stroke-width="2" stroke="#00f" stroke-linecap="round">
+<g stroke-dasharray="186" stroke-dashoffset="186">
+<rect id="RECTANGLE-Stroke1" width="61.64" height="17.19" x="32.71" y="5.52" rx="8.54">
+<animate id="RectangleStrokeOneA" fill="freeze" attributeName="stroke-dashoffset" begin="0;RectangleFillThreeA.end+1.2s" dur="0.4s" values="186;0"/>
+<animate id="RectangleStrokeOneB" fill="freeze" attributeName="stroke-dashoffset" begin="0;RectangleFillThreeB.end+1.2s" dur="0.4s" values="186;0"/>
+</rect>
+<rect id="RECTANGLE-Stroke2" width="61.64" height="17.19" x="32.71" y="41.75" rx="8.54">
+<animate id="RectangleStrokeTwoA" fill="freeze" attributeName="stroke-dashoffset" begin="RectangleStrokeOneA.end+.2s;RectangleStrokeOneA.end" dur="0.4s" values="186;0"/>
+<animate id="RectangleStrokeTwoB" fill="freeze" attributeName="stroke-dashoffset" begin="RectangleStrokeOneB.end+.2s;RectangleStrokeOneB.end" dur="0.4s" values="186;0"/>
+</rect>
+<rect id="RECTANGLE-Stroke3" width="61.64" height="17.19" x="32.71" y="78.61" rx="8.54">
+<animate id="RectangleStrokeThreeA" fill="freeze" attributeName="stroke-dashoffset" begin="RectangleStrokeTwoA.end+.2s;RectangleStrokeTwoA.end" dur="0.4s" values="186;0"/>
+<animate id="RectangleStrokeThreeB" fill="freeze" attributeName="stroke-dashoffset" begin="RectangleStrokeTwoB.end+.2s;RectangleStrokeTwoB.end" dur="0.4s" values="186;0"/>
+</rect>
+</g>
+
+
+
+
+<g stroke-dasharray="54" stroke-dashoffset="54">
+<rect id="CIRCLE1" width="17.19" height="17.19" x="5.41" y="5" rx="8.54">
+<animate id="Circle-Stroke-Anim1" fill="freeze" attributeName="stroke-dashoffset" begin="0;Circle-Fill-Anim3.end+1.2s" dur="0.4s" values="54;0"/>
+<animate id="Circle-Fill-Anim1" fill="freeze" attributeName="fill-opacity" begin="Circle-Stroke-Anim3.end+.2s;Circle-Stroke-Anim3.end+.2s" dur="0.4s" values="0;0.8"/>
+</rect>
+<rect id="CIRCLE2" width="17.19" height="17.19" x="5.41" y="41.19" rx="8.54">
+<animate id="Circle-Stroke-Anim2" fill="freeze" attributeName="stroke-dashoffset" begin="Circle-Stroke-Anim1.end+.2s;Circle-Stroke-Anim1.end" dur="0.4s" values="54;0"/>
+<animate id="Circle-Fill-Anim2" fill="freeze" attributeName="fill-opacity" begin="Circle-Fill-Anim1.end+.2s;Circle-Fill-Anim1.end+.2s" dur="0.4s" values="0;0.8"/>
+</rect>
+<rect id="CIRCLE3" width="17.19" height="17.19" x="5.41" y="78.05" rx="8.54">
+<animate id="Circle-Stroke-Anim3" fill="freeze" attributeName="stroke-dashoffset" begin="Circle-Stroke-Anim2.end+.2s;Circle-Stroke-Anim2.end" dur="0.4s" values="54;0"/>
+<animate id="Circle-Fill-Anim3" fill="freeze" attributeName="fill-opacity" begin="Circle-Fill-Anim2.end+.2s;Circle-Fill-Anim2.end+.2s" dur="0.4s" values="0;0.8"/>
+</rect>
+</g>
+
+
+
+<path id="LINEFILL1" width="9" d="M65 17.5H95A7.5 7.5 0 0 1 102.5 25V25A7.5 7.5 0 0 1 95 32.5H65A7.5 7.5 0 0 1 57.5 25V25A7.5 7.5 0 0 1 65 17.5z" fill="#f0f">
+<animate id="LineFillOneA" fill="freeze" attributeName="fill-opacity" begin="LineStrokeThreeA.end" dur="0.8s" values="0;0.8"/>
+<animate id="LineFillOneB" fill="freeze" attributeName="fill-opacity" begin="LineStrokeThreeB.end" dur="0.8s" values="1;0"/>
+</path>
+<path id="LINEFILL2" width="9" d="M65 52.5H95A7.5 7.5 0 0 1 102.5 60V60A7.5 7.5 0 0 1 95 67.5H65A7.5 7.5 0 0 1 57.5 60V60A7.5 7.5 0 0 1 65 52.5z" fill="#f0f">
+<animate id="LineFillTwoA" fill="freeze" attributeName="fill-opacity" begin="LineFillOneA.end" dur="0.8s" values="0;0.8"/>
+<animate id="LineFillTwoB" fill="freeze" attributeName="fill-opacity" begin="LineFillOneB.end" dur="0.8s" values="1;0"/>
+</path>
+<path id="LINEFILL3" width="9" d="M65 87.5H95A7.5 7.5 0 0 1 102.5 95V95A7.5 7.5 0 0 1 95 102.5H65A7.5 7.5 0 0 1 57.5 95V95A7.5 7.5 0 0 1 65 87.5z" fill="#f0f">
+<animate id="LineFillThreeA" fill="freeze" attributeName="fill-opacity" begin="LineFillTwoA.end" dur="0.8s" values="0;1"/>
+<animate id="LineFillThreeB" fill="freeze" attributeName="fill-opacity" begin="LineFillTwoB.end" dur="0.8s" values="0.8;0"/>
+</path>
+</g>
+
+
+</g>
+<g fill="#00f" fill-opacity="0" fill-rule="nonzero" opacity="1" stroke-linejoin="miter" stroke-width="2" stroke="#00f" stroke-linecap="round">
+<g stroke-dasharray="186" stroke-dashoffset="186">
+<rect id="RECTANGLE1" width="61.64" height="17.19" x="32.71" y="5.52" rx="8.54">
+<animate id="RectangleFillOne" fill="freeze" attributeName="fill-opacity" begin="Rectangle-Stroke-Anim3.end+.2s;Rectangle-Stroke-Anim3.end+.2s" dur="0.4s" values="0;0.8"/>
+</rect>
+<rect id="RECTANGLE2" width="61.64" height="17.19" x="32.71" y="41.75" rx="8.54">
+<animate id="RectangleFillTwo" fill="freeze" attributeName="fill-opacity" begin="RectangleFillOne.end+.2s;RectangleFillOne.end+.2s" dur="0.4s" values="0;0.8"/>
+</rect>
+<rect id="RECTANGLE3" width="61.64" height="17.19" x="32.71" y="78.61" rx="8.54">
+<animate id="Rectangle-Fill-Anim3" fill="freeze" attributeName="fill-opacity" begin="RectangleFillTwo.end+.2s;RectangleFillTwo.end+.2s" dur="0.4s" values="0;0.8"/>
+</rect>
+</g>
+<g fill="#00f" fill-opacity="0" fill-rule="nonzero" opacity="1" stroke-linejoin="miter" stroke-width="2" stroke="#00f" stroke-linecap="round">
+<g stroke-dasharray="186" stroke-dashoffset="186">
+<rect id="RECTANGLE1" width="61.64" height="17.19" x="32.71" y="5.52" rx="8.54">
+<animate id="Rectangle-Stroke-Anim1" fill="freeze" attributeName="stroke-dashoffset" begin="0;Rectangle-Fill-Anim3.end+1.2s" dur="0.4s" values="186;0"/>
+</rect>
+<rect id="RECTANGLE2" width="61.64" height="17.19" x="32.71" y="41.75" rx="8.54">
+<animate id="Rectangle-Stroke-Anim2" fill="freeze" attributeName="stroke-dashoffset" begin="Rectangle-Stroke-Anim1.end+.2s;Rectangle-Stroke-Anim1.end" dur="0.4s" values="186;0"/>
+</rect>
+<rect id="RECTANGLE3" width="61.64" height="17.19" x="32.71" y="78.61" rx="8.54">
+<animate id="Rectangle-Stroke-Anim3" fill="freeze" attributeName="stroke-dashoffset" begin="Rectangle-Stroke-Anim2.end+.2s;Rectangle-Stroke-Anim2.end" dur="0.4s" values="186;0"/>
+</rect>
+</g>
+</g>
+</svg>
