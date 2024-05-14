@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 48 48" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(-18.1579 10.8511 -10.8511 -18.1579 36.2331 16.6033)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="0" x2="1" y1="0" y2="0">
+<stop offset="0" stop-color="#bdb015"/>
+<stop offset="0.994737" stop-color="#d6d433"/>
+</linearGradient>
+</defs>
+<g id="Untitled" vectornator:layerName="Untitled">
+<g opacity="1" vectornator:layerName="MercuryIconSet_cloud_disconnect_1">
+<path d="M48 30C48 35.5228 43.5228 40 38 40L9.20001 40C8.97906 40 8.76647 39.9642 8.56775 39.898C3.6904 39.1985 0 35.0034 0 30C0 26.7974 1.51959 23.8594 4 21.9989C4.00062 17.5811 7.5821 14 12 14C14.9594 9.11827 20.197 6 26 6C34.4373 6 41.3493 12.5308 41.9566 20.8131C45.5579 22.3633 48 25.9377 48 30ZM38 36C41.3137 36 44 33.3137 44 30C44 27.2459 42.1279 24.8641 39.4998 24.1885C38.6031 23.9579 37.9818 23.142 37.9981 22.2162C37.9997 22.1083 37.9997 22.1083 38 22C38 15.3726 32.6274 10 26 10C21.2724 10 17.0463 12.758 15.0986 16.9759C14.7055 17.8273 13.7735 18.2912 12.8572 18.0916C12.5786 18.031 12.292 18 12 18C9.79086 18 8 19.7909 8 22C8 22.2315 8.01945 22.4596 8.05776 22.683C8.20066 23.5167 7.80368 24.3501 7.0663 24.7645C5.18661 25.8208 4 27.8055 4 30C4 33.09 6.34768 35.6675 9.39761 35.9703C9.46488 35.977 9.53109 35.9869 9.5961 36L38 36Z" fill="#cccfd9" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+<path d="M29 10L20 25L30 25L23 37" fill="none" opacity="1" stroke="#e7d01c" stroke-dasharray="41.38999938964844" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" vectornator:layerName="Lightning hung"/>
+<path d="M28.5 8.0625C28.0034 8.18664 27.5654 8.49517 27.2812 8.96875L18.2812 23.9688C17.4814 25.3018 18.4454 27 20 27L26.5312 27L21.2812 36C20.7247 36.9541 21.0459 38.1622 22 38.7187C22.9541 39.2753 24.1622 38.9541 24.7188 38L31.7188 26C32.4965 24.6667 31.5436 23 30 23L23.5312 23L30.7188 11.0313C31.287 10.0841 30.9784 8.84955 30.0312 8.28125C29.5577 7.9971 28.9966 7.93836 28.5 8.0625Z" fill="url(#LinearGradient)" fill-rule="nonzero" opacity="0" stroke="none" vectornator:layerName="Light night"/>
+</g>
+</g>
+</svg>
