@@ -1,6 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24"><g transform="rotate(0 12 12)">
-<g fill="none" stroke="#efefef" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24"><g transform="rotate(-180 12 12)">
+<g id="verticalFlip.pt1" transform="translate(0 24) scale(1 -1)">
 
+<g fill="none" stroke="#efefef" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
   <path id="base" stroke-dasharray="20" stroke-dashoffset="20" d="M3 3V21">
     <animate id="bas1" fill="freeze" attributeName="stroke-dashoffset" dur="0.9s" values="20;0" begin="0.1;ar0.end+2s"/>
     <animate id="bas0" fill="freeze" attributeName="stroke-dashoffset" dur="0.9s" values="0;20" begin="ah1.end+1s"/>
@@ -14,4 +15,4 @@
     <animate id="ah1" fill="freeze" attributeName="stroke-dashoffset" begin="ar1.end"  dur="1s" values="8;0"/>
     <animate id="ah0" fill="freeze" attributeName="stroke-dashoffset" begin="bas0.end"  dur="0.7s" values="0;8"/>
 </path></g>
-</g></g></svg>
+</g></g></g></svg>
