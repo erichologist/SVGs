@@ -1,0 +1,20 @@
+<svg width="100%" height="100%" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<g opacity="1" fill="#00f" stroke="none" >
+ <rect height="2.476" width="3.85" x="12.99" y="7.76182" rx="5">
+  <animate attributeName="height" dur="5s" keyTimes="0;0.45;0.46;0.51;0.52;1" repeatCount="indefinite" values="2.47635;2.47635;.001;.001;2.47635;2.47635"/>
+  <animate attributeName="y" dur="5s" keyTimes="0;0.45;0.46;0.51;0.52;1" repeatCount="indefinite" values="7.76182;7.76182;9;9;7.76182;7.76182"/>
+ </rect>
+ <rect height="2.476" width="3.85" x="7.16" y="7.76182" rx="5">
+ </rect>
+</g>
+<g opacity="1" fill="none" stroke="#00f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+ <path stroke-dasharray="30" stroke-dashoffset="30" d="M12 4C13.6683 4 14.6122 4.39991 15 4.5C15.5255 4.07463 16.9375 3 18.5 3C18.8438 4 18.7863 5.21921 18.5 6C19.25 7 19.5 8 19.5 9.5C19.5 11.6875 19.017 13.0822 18 14C16.983 14.9178 15.8887 15.3749 14.5 15.5C15.1506 16.038 15 17.3743 15 18C15 18.7256 15 21 15 21M12 4C10.3317 4 9.38784 4.39991 9 4.5C8.47455 4.07463 7.0625 3 5.5 3C5.15625 4 5.21371 5.21921 5.5 6C4.75 7 4.5 8 4.5 9.5C4.5 11.6875 4.98301 13.0822 6 14C7.01699 14.9178 8.1113 15.3749 9.5 15.5C8.84944 16.038 9 17.3743 9 18C9 18.7256 9 21 9 21">
+  <animate fill="freeze" attributeName="stroke-dashoffset" dur="0.6s" values="30;0"/>
+ </path>
+</g>
+<g opacity="1" id="Tail" fill="none" stroke="#00f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+ <path id="Tail down" stroke-dasharray="10" stroke-dashoffset="10" d="M7.96432 18.17C6.95997 17.5081 5.37076 17.628 4.44997 17.6797C3.60228 17.7272 1.96432 18.1667 1.56439 17.0852">
+  <animate id="drawtail" fill="freeze" attributeName="stroke-dashoffset" begin="0.7s" dur="0.2s" values="10;0">
+  </animate>
+  <animate id="Tailup" attributeName="d" dur="3s" repeatCount="indefinite" values="M7.96432 18.17C6.95997 17.5081 5.37076 17.628 4.44997 17.6797C3.60228 17.7272 1.96432 18.1667 1.56439 17.0852;M7.96432 18.17C6.95997 17.5081 6.02716 17.6621 4.96432 17.6276C3.35932 17.5755 2.43781 16.6637 1.56439 16.816;M7.96432 18.17C6.01458 17.2456 5.45709 18.136 3.95709 17.1044C2.45709 16.0727 2.96432 14.5435 1.96432 14.0435;M7.96432 18.17C6.95997 17.5081 6.02716 17.6621 4.96432 17.6276C3.35932 17.5755 2.43781 16.6637 1.56439 16.816;M7.96432 18.17C6.95997 17.5081 5.37076 17.628 4.44997 17.6797C3.60228 17.7272 1.96432 18.1667 1.56439 17.0852"></animate></path></g>
+</svg>
