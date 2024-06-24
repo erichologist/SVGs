@@ -1,13 +1,1 @@
-<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="-0.591013 0.398912 99.399 99.399" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
-<defs>
-<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="99.399" id="Filter" width="99.399" x="-0.591013" y="0.398912">
-<feDropShadow dx="-0.491479" dy="0.498446" flood-color="#000000" flood-opacity="0.44" in="SourceGraphic" result="Shadow" stdDeviation="1.05577"/>
-</filter>
-</defs>
-<clipPath id="ArtboardFrame">
-<rect height="99.399" width="99.399" x="-0.591013" y="0.398912"/>
-</clipPath>
-<g clip-path="url(#ArtboardFrame)" id="Layer" layerName="Layer">
-<path d="M31.9524 2.53989L31.9524 14.3049L14.3049 14.3049L14.3049 84.895L31.9524 84.895L31.9524 96.6601L2.53989 96.6601L2.53989 2.53989M96.6601 2.53989L96.6601 96.6601L67.2475 96.6601L67.2475 84.895L84.895 84.895L84.895 14.3049L67.2475 14.3049L67.2475 2.53989L96.6601 2.53989Z" fill="#ffffff" fill-rule="nonzero" filter="url(#Filter)" stroke="none" layerName="path 1" shadowAngle="2.34916" shadowColor="#000000" shadowOffset="0.7" shadowOpacity="0.44" shadowRadius="2.11154"/>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink" height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round" width="100%" version="1.1" viewBox="-0.591 0.399 99.399 99.399" xml:space="preserve"><defs><filter id="Filter" width="99.399" height="99.399" x="-.591" y=".399" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feDropShadow dx="-.491" dy=".498" flood-color="#000" flood-opacity=".44" in="SourceGraphic" result="Shadow" stdDeviation="1.056"/></filter></defs><clipPath id="ArtboardFrame"><rect width="99.399" height="99.399" x="-.591" y=".399"/></clipPath><g id="Layer" clip-path="url(#ArtboardFrame)" layerName="Layer"><path fill="#fff" fill-rule="nonzero" stroke="none" d="M31.9524 2.53989L31.9524 14.3049L14.3049 14.3049L14.3049 84.895L31.9524 84.895L31.9524 96.6601L2.53989 96.6601L2.53989 2.53989M96.6601 2.53989L96.6601 96.6601L67.2475 96.6601L67.2475 84.895L84.895 84.895L84.895 14.3049L67.2475 14.3049L67.2475 2.53989L96.6601 2.53989Z" filter="url(#Filter)" layerName="path 1" shadowAngle="2.349" shadowColor="#000000" shadowOffset=".7" shadowOpacity=".44" shadowRadius="2.112"/></g></svg>
