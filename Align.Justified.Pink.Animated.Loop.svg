@@ -1,0 +1,20 @@
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" id="svg5" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg"><defs/>
+<g fill="none" stroke="#ff00ff" stroke-dasharray="8" stroke-dashoffset="8" stroke-linecap="round" stroke-width="2" id="g4" transform="matrix(6.9231614,0,0,5.6333973,-33.077937,-20.417466)">
+<path id="FirstLine" opacity="1" d="m 12,5 h 6 M 12,5 H 6" style="display:inline">
+		<animate id="openFirstLine" fill="freeze" attributeName="stroke-dashoffset" begin="0.2;closeFirstLine.end+2s" dur="0.3s" values="8;0" />
+		<animate id="closeFirstLine" fill="freeze" attributeName="stroke-dashoffset" begin="closeSecondLine.end" dur="0.3s" values="0;8" />
+</path>
+<path id="SecondLine" d="m 12,10 h 6 m -6,0 H 6" style="display:inline">
+		<animate id="openSecondLine" fill="freeze" attributeName="stroke-dashoffset" begin="openFirstLine.end" dur="0.3s" values="8;0" />
+		<animate id="closeSecondLine" fill="freeze" attributeName="stroke-dashoffset" begin="closeThirdline.end" dur="0.3s" values="0;8" />
+</path>
+<path id="Thirdline" d="m 12,15 h 6 m -6,0 H 6" style="display:inline">
+		<animate id="openThirdline" fill="freeze" attributeName="stroke-dashoffset" begin="openSecondLine.end" dur="0.3s" values="8;0" />
+		<animate id="closeThirdline" fill="freeze" attributeName="stroke-dashoffset" begin="closeFourthline.end" dur="0.3s" values="0;8" />
+</path>
+<path id="Fourthline" d="m 12,20 h 6 m -6,0 H 6" style="display:inline">
+		<animate id="openFourthline" fill="freeze" attributeName="stroke-dashoffset" begin="openThirdline.end" dur="0.3s" values="8;0" />
+		<animate id="closeFourthline" fill="freeze" attributeName="stroke-dashoffset" begin="openFourthline.end+2s" dur="0.3s" values="0;8" />
+</path>
+</g>
+</svg>
