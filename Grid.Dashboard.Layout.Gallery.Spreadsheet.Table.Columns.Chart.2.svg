@@ -1,16 +1,1 @@
-<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 100 100" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
-<defs>
-<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="75.1843" id="Filter" width="102.801" x="-2.64024" y="13.3907">
-<feDropShadow dx="-1.23986" dy="0.982812" flood-color="#000000" flood-opacity="0.55" in="SourceGraphic" result="Shadow" stdDeviation="2.14915"/>
-</filter>
-</defs>
-<clipPath id="ArtboardFrame">
-<rect height="75.1843" width="102.801" x="-2.64024" y="13.3907"/>
-</clipPath>
-<g clip-path="url(#ArtboardFrame)" id="Layer" layerName="Layer">
-<g opacity="1" layerName="Group 16">
-<path d="M8.03878 24.7471L91.9612 24.7471L91.9612 75.2529L8.03878 75.2529L8.03878 24.7471Z" fill="#ffffff" fill-rule="nonzero" opacity="0.320406" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="round" stroke-width="4.0917" layerName="Rectangle 1"/>
-<path d="M3.97248 17.7807L3.97248 82.2193L96.0275 82.2193L96.0275 17.7807L3.97248 17.7807ZM86.822 50L68.411 50L68.411 26.9862L86.822 26.9862L86.822 50ZM59.2055 40.7945L40.7945 40.7945L40.7945 26.9862L59.2055 26.9862L59.2055 40.7945ZM40.7945 50L59.2055 50L59.2055 73.0138L40.7945 73.0138L40.7945 50ZM13.178 26.9862L31.589 26.9862L31.589 73.0138L13.178 73.0138L13.178 26.9862ZM68.411 73.0138L68.411 59.2055L86.822 59.2055L86.822 73.0138L68.411 73.0138Z" fill="#ffffff" fill-rule="nonzero" filter="url(#Filter)" stroke="none" layerName="path 1" shadowAngle="2.47133" shadowColor="#000000" shadowOffset="1.58214" shadowOpacity="0.55" shadowRadius="4.29829"/>
-</g>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink" height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round" width="100%" version="1.1" viewBox="0 0 100 100" xml:space="preserve"><defs><filter id="Filter" width="102.801" height="75.184" x="-2.64" y="13.391" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feDropShadow dx="-1.24" dy=".983" flood-color="#000" flood-opacity=".55" in="SourceGraphic" result="Shadow" stdDeviation="2.149"/></filter></defs><clipPath id="ArtboardFrame"><rect width="102.801" height="75.184" x="-2.64" y="13.391"/></clipPath><g id="Layer" clip-path="url(#ArtboardFrame)" layerName="Layer"><g layerName="Group 16" opacity="1"><path fill="#fff" fill-rule="nonzero" stroke="#fff" stroke-linecap="butt" stroke-linejoin="round" stroke-width="4.092" d="M8.03878 24.7471L91.9612 24.7471L91.9612 75.2529L8.03878 75.2529L8.03878 24.7471Z" layerName="Rectangle 1" opacity=".32"/><path fill="#fff" fill-rule="nonzero" stroke="none" d="M3.97248 17.7807L3.97248 82.2193L96.0275 82.2193L96.0275 17.7807L3.97248 17.7807ZM86.822 50L68.411 50L68.411 26.9862L86.822 26.9862L86.822 50ZM59.2055 40.7945L40.7945 40.7945L40.7945 26.9862L59.2055 26.9862L59.2055 40.7945ZM40.7945 50L59.2055 50L59.2055 73.0138L40.7945 73.0138L40.7945 50ZM13.178 26.9862L31.589 26.9862L31.589 73.0138L13.178 73.0138L13.178 26.9862ZM68.411 73.0138L68.411 59.2055L86.822 59.2055L86.822 73.0138L68.411 73.0138Z" filter="url(#Filter)" layerName="path 1" shadowAngle="2.471" shadowColor="#000000" shadowOffset="1.582" shadowOpacity=".55" shadowRadius="4.298"/></g></g></svg>
