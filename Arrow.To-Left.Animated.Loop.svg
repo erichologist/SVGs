@@ -14,4 +14,4 @@
     <animate id="ah1" fill="freeze" attributeName="stroke-dashoffset" begin="ar1.end"  dur="1s" values="8;0"/>
     <animate id="ah0" fill="freeze" attributeName="stroke-dashoffset" begin="bas0.end"  dur="0.7s" values="0;8"/>
 </path></g>
-</g></g></svg>
+</g></svg>
