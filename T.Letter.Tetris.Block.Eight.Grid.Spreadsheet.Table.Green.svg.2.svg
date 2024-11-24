@@ -13,13 +13,8 @@
 <feDropShadow dx="-0.783659" dy="0.621192" flood-color="#000000" flood-opacity="0.55" in="SourceGraphic" result="Shadow" stdDeviation="1.52604"/>
 </filter>
 </defs>
-<clipPath id="ArtboardFrame">
-<rect height="94.9741" width="101.63" x="1.46535e-06" y="1.83919e-06"/>
-</clipPath>
-<g clip-path="url(#ArtboardFrame)" id="Layer" layerName="Layer">
-<g opacity="1" layerName="Group 10">
-<path d="M6.09876 4.69391L36.4321 4.69391L36.4321 32.8086L6.09876 32.8086L6.09876 4.69391ZM36.4321 4.69391L66.7655 4.69391L66.7655 32.8086L36.4321 32.8086L36.4321 4.69391ZM36.4321 32.8086L66.7655 32.8086L66.7655 60.9232L36.4321 60.9232L36.4321 32.8086ZM36.4321 60.9232L66.7655 60.9232L66.7655 89.0379L36.4321 89.0379L36.4321 60.9232ZM66.7655 4.69391L97.0988 4.69391L97.0988 32.8086L66.7655 32.8086L66.7655 4.69391Z" fill="url(#LinearGradient)" fill-rule="nonzero" filter="url(#Filter)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" layerName="path 38" shadowAngle="2.47133" shadowColor="#000000" shadowOffset="1" shadowOpacity="0.55" shadowRadius="3.05208"/>
-<path d="M6.09876 4.69391L36.4321 4.69391L36.4321 32.8086L6.09876 32.8086L6.09876 4.69391ZM36.4321 4.69391L66.7655 4.69391L66.7655 32.8086L36.4321 32.8086L36.4321 4.69391ZM36.4321 32.8086L66.7655 32.8086L66.7655 60.9232L36.4321 60.9232L36.4321 32.8086ZM36.4321 60.9232L66.7655 60.9232L66.7655 89.0379L36.4321 89.0379L36.4321 60.9232ZM66.7655 4.69391L97.0988 4.69391L97.0988 32.8086L66.7655 32.8086L66.7655 4.69391Z" fill="none" filter="url(#Filter_2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" layerName="path 1" shadowAngle="2.47133" shadowColor="#000000" shadowOffset="1" shadowOpacity="0.55" shadowRadius="3.05208"/>
-</g>
+<g opacity="1">
+<path d="M6.09876 4.69391L36.4321 4.69391L36.4321 32.8086L6.09876 32.8086L6.09876 4.69391ZM36.4321 4.69391L66.7655 4.69391L66.7655 32.8086L36.4321 32.8086L36.4321 4.69391ZM36.4321 32.8086L66.7655 32.8086L66.7655 60.9232L36.4321 60.9232L36.4321 32.8086ZM36.4321 60.9232L66.7655 60.9232L66.7655 89.0379L36.4321 89.0379L36.4321 60.9232ZM66.7655 4.69391L97.0988 4.69391L97.0988 32.8086L66.7655 32.8086L66.7655 4.69391Z" fill="url(#LinearGradient)" fill-rule="nonzero" filter="url(#Filter)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" shadowAngle="2.47133" shadowColor="#000000" shadowOffset="1" shadowOpacity="0.55" shadowRadius="3.05208"/>
+<path d="M6.09876 4.69391L36.4321 4.69391L36.4321 32.8086L6.09876 32.8086L6.09876 4.69391ZM36.4321 4.69391L66.7655 4.69391L66.7655 32.8086L36.4321 32.8086L36.4321 4.69391ZM36.4321 32.8086L66.7655 32.8086L66.7655 60.9232L36.4321 60.9232L36.4321 32.8086ZM36.4321 60.9232L66.7655 60.9232L66.7655 89.0379L36.4321 89.0379L36.4321 60.9232ZM66.7655 4.69391L97.0988 4.69391L97.0988 32.8086L66.7655 32.8086L66.7655 4.69391Z" fill="none" filter="url(#Filter_2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" shadowAngle="2.47133" shadowColor="#000000" shadowOffset="1" shadowOpacity="0.55" shadowRadius="3.05208"/>
 </g>
 </svg>

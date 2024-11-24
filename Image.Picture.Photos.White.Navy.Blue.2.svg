@@ -11,13 +11,8 @@
 <feDropShadow dx="-1.34304" dy="1.0646" flood-color="#000000" flood-opacity="0.55" in="SourceGraphic" result="Shadow" stdDeviation="1.80865"/>
 </filter>
 </defs>
-<clipPath id="ArtboardFrame">
-<rect height="76.6692" width="102.679" x="-2.68265" y="12.73"/>
-</clipPath>
-<g clip-path="url(#ArtboardFrame)" id="Layer" layerName="Layer">
-<g opacity="1" layerName="Group 11">
-<path d="M3.18201 16.187L96.818 16.187L96.818 83.813L3.18201 83.813L3.18201 16.187Z" fill="#ffffff" fill-rule="nonzero" filter="url(#Filter)" stroke="none" layerName="path 1" shadowAngle="2.47133" shadowColor="#000000" shadowOffset="1.71381" shadowOpacity="0.55" shadowRadius="3.6173"/>
-<path d="M3.18201 83.813L36.995 50L50 63.005L78.611 34.394L96.818 52.601L96.818 83.813L3.18201 83.813ZM51.3005 31.793C54.8917 31.793 57.803 34.7043 57.803 38.2955C57.803 41.8867 54.8917 44.798 51.3005 44.798C47.7093 44.798 44.798 41.8867 44.798 38.2955C44.798 34.7043 47.7093 31.793 51.3005 31.793Z" fill="url(#LinearGradient)" fill-rule="evenodd" filter="url(#Filter_2)" stroke="none" layerName="path 1" shadowAngle="2.47133" shadowColor="#000000" shadowOffset="1.71381" shadowOpacity="0.55" shadowRadius="3.6173"/>
-</g>
+<g opacity="1">
+<path d="M3.18201 16.187L96.818 16.187L96.818 83.813L3.18201 83.813L3.18201 16.187Z" fill="#ffffff" fill-rule="nonzero" filter="url(#Filter)" stroke="none" shadowAngle="2.47133" shadowColor="#000000" shadowOffset="1.71381" shadowOpacity="0.55" shadowRadius="3.6173"/>
+<path d="M3.18201 83.813L36.995 50L50 63.005L78.611 34.394L96.818 52.601L96.818 83.813L3.18201 83.813ZM51.3005 31.793C54.8917 31.793 57.803 34.7043 57.803 38.2955C57.803 41.8867 54.8917 44.798 51.3005 44.798C47.7093 44.798 44.798 41.8867 44.798 38.2955C44.798 34.7043 47.7093 31.793 51.3005 31.793Z" fill="url(#LinearGradient)" fill-rule="evenodd" filter="url(#Filter_2)" stroke="none" shadowAngle="2.47133" shadowColor="#000000" shadowOffset="1.71381" shadowOpacity="0.55" shadowRadius="3.6173"/>
 </g>
 </svg>

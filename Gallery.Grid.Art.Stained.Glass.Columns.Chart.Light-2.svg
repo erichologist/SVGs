@@ -1,16 +1,11 @@
 <svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="2.5 2.52212 95 94.9558" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs/>
-<clipPath id="ArtboardFrame">
-<rect height="94.9558" width="95" x="2.5" y="2.52212"/>
-</clipPath>
-<g clip-path="url(#ArtboardFrame)" id="Layer" layerName="Layer">
-<g opacity="1" layerName="Group 5">
-<path d="M10.413 2.52212L89.5427 2.52212C93.913 2.52212 97.4558 6.06489 97.4558 10.4351L97.4558 89.5649C97.4558 93.9351 93.913 97.4779 89.5427 97.4779L10.413 97.4779C6.04277 97.4779 2.5 93.9351 2.5 89.5649L2.5 10.4351C2.5 6.06489 6.04277 2.52212 10.413 2.52212Z" fill="#efefef" fill-rule="nonzero" opacity="1" stroke="none" layerName="rect"/>
-<g opacity="1" layerName="Group 1">
-<path d="M97.5 35.0494L97.5 43.7983C97.5 44.2816 93.9573 44.6733 89.587 44.6733L49.6151 44.6733L49.1911 34.1746L89.587 34.1746C93.9573 34.1746 97.5 34.5663 97.5 35.0494Z" fill="#ffd401" fill-rule="nonzero" opacity="1" stroke="none" layerName="rect 5"/>
-<path d="M50.4136 67.0578L10.413 67.0578C6.04277 67.0578 2.5 66.6661 2.5 66.1829L2.5 57.434C2.5 56.9508 6.04277 56.5592 10.413 56.5592L49.6464 56.5592L50.4136 67.0578Z" fill="#0000ff" fill-rule="nonzero" opacity="1" stroke="none" layerName="rect 6"/>
-<path d="M45.6481 2.52212L54.3968 2.52212C54.8801 2.52212 55.2718 6.06489 55.2718 10.4351L55.2718 89.5649C55.2718 93.9351 54.8801 97.4779 54.3968 97.4779L45.6481 97.4779C45.1648 97.4779 44.7731 93.9351 44.7731 89.5649L44.7731 10.4351C44.7731 6.06489 45.1648 2.52212 45.6481 2.52212Z" fill="#fc0d1b" fill-rule="nonzero" opacity="1" stroke="none" layerName="rect 5"/>
-</g>
+<g opacity="1">
+<path d="M10.413 2.52212L89.5427 2.52212C93.913 2.52212 97.4558 6.06489 97.4558 10.4351L97.4558 89.5649C97.4558 93.9351 93.913 97.4779 89.5427 97.4779L10.413 97.4779C6.04277 97.4779 2.5 93.9351 2.5 89.5649L2.5 10.4351C2.5 6.06489 6.04277 2.52212 10.413 2.52212Z" fill="#efefef" fill-rule="nonzero" opacity="1" stroke="none"/>
+<g opacity="1">
+<path d="M97.5 35.0494L97.5 43.7983C97.5 44.2816 93.9573 44.6733 89.587 44.6733L49.6151 44.6733L49.1911 34.1746L89.587 34.1746C93.9573 34.1746 97.5 34.5663 97.5 35.0494Z" fill="#ffd401" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M50.4136 67.0578L10.413 67.0578C6.04277 67.0578 2.5 66.6661 2.5 66.1829L2.5 57.434C2.5 56.9508 6.04277 56.5592 10.413 56.5592L49.6464 56.5592L50.4136 67.0578Z" fill="#0000ff" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M45.6481 2.52212L54.3968 2.52212C54.8801 2.52212 55.2718 6.06489 55.2718 10.4351L55.2718 89.5649C55.2718 93.9351 54.8801 97.4779 54.3968 97.4779L45.6481 97.4779C45.1648 97.4779 44.7731 93.9351 44.7731 89.5649L44.7731 10.4351C44.7731 6.06489 45.1648 2.52212 45.6481 2.52212Z" fill="#fc0d1b" fill-rule="nonzero" opacity="1" stroke="none"/>
 </g>
 </g>
 </svg>

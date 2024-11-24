@@ -7,13 +7,8 @@
 <feDropShadow dx="-1.34304" dy="1.0646" flood-color="#000000" flood-opacity="0.55" in="SourceGraphic" result="Shadow" stdDeviation="1.80865"/>
 </filter>
 </defs>
-<clipPath id="ArtboardFrame">
-<rect height="76.2431" width="101.742" x="-2.21393" y="12.9431"/>
-</clipPath>
-<g clip-path="url(#ArtboardFrame)" id="Layer" layerName="Layer">
-<g opacity="1" layerName="Group 10">
-<path d="M96.3493 16.4001L96.3493 83.5999L3.65073 83.5999L3.65073 16.4001L96.3493 16.4001" fill="#ffffff" fill-rule="nonzero" filter="url(#Filter)" stroke="none" layerName="path 1" shadowAngle="2.47133" shadowColor="#000000" shadowOffset="1.71381" shadowOpacity="0.55" shadowRadius="3.6173"/>
-<path d="M81.1332 21.6805C77.0954 20.8284 73.042 23.0595 71.6019 26.9268C70.1617 30.7941 71.7685 35.133 75.3802 37.1295C78.9918 39.126 83.5207 38.1789 86.0296 34.9024C88.5385 31.6259 88.2719 27.0067 85.4027 24.0407C84.2451 22.8479 82.7589 22.0264 81.1332 21.6805M57.9445 65.4704C51.0648 55.9035 44.1826 46.3378 37.2978 36.7734L6.68006 79.3587L47.9735 79.3587C51.2971 74.7318 54.6233 70.1062 57.9521 65.4818M72.8935 49.9381C65.8395 59.7424 58.788 69.548 51.7391 79.3549L94.0516 79.3549C87.0027 69.548 79.95 59.7424 72.8935 49.9381Z" fill="#00ffa7" fill-rule="nonzero" filter="url(#Filter_2)" stroke="none" layerName="path 2" shadowAngle="2.47133" shadowColor="#000000" shadowOffset="1.71381" shadowOpacity="0.55" shadowRadius="3.6173"/>
-</g>
+<g opacity="1">
+<path d="M96.3493 16.4001L96.3493 83.5999L3.65073 83.5999L3.65073 16.4001L96.3493 16.4001" fill="#ffffff" fill-rule="nonzero" filter="url(#Filter)" stroke="none" shadowAngle="2.47133" shadowColor="#000000" shadowOffset="1.71381" shadowOpacity="0.55" shadowRadius="3.6173"/>
+<path d="M81.1332 21.6805C77.0954 20.8284 73.042 23.0595 71.6019 26.9268C70.1617 30.7941 71.7685 35.133 75.3802 37.1295C78.9918 39.126 83.5207 38.1789 86.0296 34.9024C88.5385 31.6259 88.2719 27.0067 85.4027 24.0407C84.2451 22.8479 82.7589 22.0264 81.1332 21.6805M57.9445 65.4704C51.0648 55.9035 44.1826 46.3378 37.2978 36.7734L6.68006 79.3587L47.9735 79.3587C51.2971 74.7318 54.6233 70.1062 57.9521 65.4818M72.8935 49.9381C65.8395 59.7424 58.788 69.548 51.7391 79.3549L94.0516 79.3549C87.0027 69.548 79.95 59.7424 72.8935 49.9381Z" fill="#00ffa7" fill-rule="nonzero" filter="url(#Filter_2)" stroke="none" shadowAngle="2.47133" shadowColor="#000000" shadowOffset="1.71381" shadowOpacity="0.55" shadowRadius="3.6173"/>
 </g>
 </svg>

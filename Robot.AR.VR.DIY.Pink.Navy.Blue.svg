@@ -13,15 +13,10 @@
 <feDropShadow dx="-0.457353" dy="0.761156" flood-color="#000000" flood-opacity="0.55" in="SourceGraphic" result="Shadow" stdDeviation="1.25174"/>
 </filter>
 </defs>
-<clipPath id="ArtboardFrame">
-<rect height="63.1662" width="100.28" x="-0.597214" y="19.1781"/>
-</clipPath>
-<g clip-path="url(#ArtboardFrame)" id="Layer" layerName="Layer">
-<g opacity="1" layerName="Group 8">
-<path d="M37.7154 58.64L37.6288 71.0459L62.3712 71.0459L62.2747 58.64L37.7154 58.64Z" fill="#0c0058" fill-rule="evenodd" filter="url(#Filter)" stroke="none" layerName="path" shadowAngle="2.11185" shadowColor="#000000" shadowOffset="0.887992" shadowOpacity="0.55" shadowRadius="2.50347"/>
-<path d="M79.6785 28.9393L79.6909 21.5463L20.3091 21.5463L20.3215 28.9393L79.6785 28.9393ZM92.062 43.8144L97.0105 43.8144L97.0105 61.1341L92.062 61.1341L92.062 43.8144ZM2.98948 43.8144L7.93795 43.8144L7.93795 61.1341L2.98948 61.1341L2.98948 43.8144Z" fill="#0c0058" fill-rule="evenodd" filter="url(#Filter_2)" stroke="none" layerName="path" shadowAngle="2.11185" shadowColor="#000000" shadowOffset="0.887992" shadowOpacity="0.55" shadowRadius="2.50347"/>
-<path d="M64.8454 78.4537L57.5588 64.3877C53.553 56.6557 46.4247 56.6557 42.409 64.3877L34.5187 78.4537L7.93795 78.4537L7.93795 28.969L92.062 28.969L92.062 78.4537L64.8454 78.4537Z" fill="#ff6e6e" fill-rule="evenodd" filter="url(#Filter_3)" stroke="none" layerName="path" shadowAngle="2.11185" shadowColor="#000000" shadowOffset="0.887992" shadowOpacity="0.55" shadowRadius="2.50347"/>
-<path d="M28.969 46.2886C32.3852 46.2886 35.1546 49.058 35.1546 52.4742C35.1546 55.8904 32.3852 58.6598 28.969 58.6598C25.5528 58.6598 22.7834 55.8904 22.7834 52.4742C22.7834 49.058 25.5528 46.2886 28.969 46.2886ZM71.031 46.2886C74.4472 46.2886 77.2166 49.058 77.2166 52.4742C77.2166 55.8904 74.4472 58.6598 71.031 58.6598C67.6148 58.6598 64.8454 55.8904 64.8454 52.4742C64.8454 49.058 67.6148 46.2886 71.031 46.2886Z" fill="#0c0058" fill-rule="evenodd" filter="url(#Filter_4)" stroke="none" layerName="path 3" shadowAngle="2.11185" shadowColor="#000000" shadowOffset="0.887992" shadowOpacity="0.55" shadowRadius="2.50347"/>
-</g>
+<g opacity="1">
+<path d="M37.7154 58.64L37.6288 71.0459L62.3712 71.0459L62.2747 58.64L37.7154 58.64Z" fill="#0c0058" fill-rule="evenodd" filter="url(#Filter)" stroke="none" shadowAngle="2.11185" shadowColor="#000000" shadowOffset="0.887992" shadowOpacity="0.55" shadowRadius="2.50347"/>
+<path d="M79.6785 28.9393L79.6909 21.5463L20.3091 21.5463L20.3215 28.9393L79.6785 28.9393ZM92.062 43.8144L97.0105 43.8144L97.0105 61.1341L92.062 61.1341L92.062 43.8144ZM2.98948 43.8144L7.93795 43.8144L7.93795 61.1341L2.98948 61.1341L2.98948 43.8144Z" fill="#0c0058" fill-rule="evenodd" filter="url(#Filter_2)" stroke="none" shadowAngle="2.11185" shadowColor="#000000" shadowOffset="0.887992" shadowOpacity="0.55" shadowRadius="2.50347"/>
+<path d="M64.8454 78.4537L57.5588 64.3877C53.553 56.6557 46.4247 56.6557 42.409 64.3877L34.5187 78.4537L7.93795 78.4537L7.93795 28.969L92.062 28.969L92.062 78.4537L64.8454 78.4537Z" fill="#ff6e6e" fill-rule="evenodd" filter="url(#Filter_3)" stroke="none" shadowAngle="2.11185" shadowColor="#000000" shadowOffset="0.887992" shadowOpacity="0.55" shadowRadius="2.50347"/>
+<path d="M28.969 46.2886C32.3852 46.2886 35.1546 49.058 35.1546 52.4742C35.1546 55.8904 32.3852 58.6598 28.969 58.6598C25.5528 58.6598 22.7834 55.8904 22.7834 52.4742C22.7834 49.058 25.5528 46.2886 28.969 46.2886ZM71.031 46.2886C74.4472 46.2886 77.2166 49.058 77.2166 52.4742C77.2166 55.8904 74.4472 58.6598 71.031 58.6598C67.6148 58.6598 64.8454 55.8904 64.8454 52.4742C64.8454 49.058 67.6148 46.2886 71.031 46.2886Z" fill="#0c0058" fill-rule="evenodd" filter="url(#Filter_4)" stroke="none" shadowAngle="2.11185" shadowColor="#000000" shadowOffset="0.887992" shadowOpacity="0.55" shadowRadius="2.50347"/>
 </g>
 </svg>

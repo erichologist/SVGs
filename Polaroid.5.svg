@@ -152,10 +152,6 @@
 <stop offset="1" stop-color="#969696"/>
 </linearGradient>
 </defs>
-<clipPath id="ArtboardFrame">
-<rect height="100" width="100" x="0" y="0"/>
-</clipPath>
-<g clip-path="url(#ArtboardFrame)" id="Polaroid-4" vectornator:layerName="Polaroid-4">
 <path d="M55.4688 52.3125L48.6875 57.0938L78.9688 78.5L86.6562 78.5L86.6562 73.8125L55.4688 52.3125Z" fill="#0d47a1" fill-rule="nonzero" filter="url(#Filter)" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="0.6" stroke-width="0.110378" vectornator:layerName="Curve 1" vectornator:shadowAngle="5.96875" vectornator:shadowColor="#000000" vectornator:shadowOffset="0.296156" vectornator:shadowOpacity="0.45" vectornator:shadowRadius="1"/>
 <g opacity="1" vectornator:layerName="Group 1">
 <path d="M10.755 40.9957L10.755 78.5051L86.6473 78.5051L86.6473 50.3731C86.6473 50.3731 68.8306 40.2905 56.8325 40.9957C44.8344 41.701 44.9279 75.5762 22.9483 56.9139C14.1672 49.4581 10.755 40.9957 10.755 40.9957Z" fill="#f9e6ff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
@@ -221,6 +217,5 @@
 <path d="M38.8752 68.787L79.7376 36.6805C80.7468 35.8389 82.2666 35.9514 83.1337 36.936C83.9984 37.9183 83.8804 39.3976 82.8712 40.2415L44.9279 75.5762L38.8752 68.787Z" fill="url(#LinearGradient_3)" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0" vectornator:layerName="path"/>
 <path d="M43.9521 81.6605C40.5345 84.6455 24.8566 86.4255 24.8566 86.4255C24.8566 86.4255 29.7284 72.2675 33.146 69.2825C36.5637 66.2976 41.7531 66.6508 44.7381 70.0685C47.7203 73.4861 47.3698 78.6756 43.9521 81.6605Z" fill="url(#LinearGradient_4)" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0" vectornator:layerName="path"/>
 <path d="M43.9521 81.6605C40.5345 84.6455 24.8566 86.4255 24.8566 86.4255C24.8566 86.4255 29.7284 72.2675 33.146 69.2825C36.5637 66.2976 41.7531 66.6508 44.7381 70.0685C47.7203 73.4861 47.3698 78.6756 43.9521 81.6605Z" fill="url(#LinearGradient_5)" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0" vectornator:layerName="path 1"/>
-</g>
 </g>
 </svg>

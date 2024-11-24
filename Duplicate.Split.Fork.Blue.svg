@@ -15,15 +15,10 @@
 <feDropShadow dx="-3.67321e-06" dy="1" flood-color="#000000" flood-opacity="0.65" in="SourceGraphic" result="Shadow" stdDeviation="2"/>
 </filter>
 </defs>
-<g id="Layer" layerName="Layer">
-<g opacity="1" layerName="rect">
-<clipPath clip-rule="nonzero" id="ClipPath">
-<path d="M1 1L99 1L99 1L99 99L99 99L1 99L1 99L1 1L1 1Z"/>
-</clipPath>
-<g clip-path="url(#ClipPath)">
-<path d="M99 1L58.1772 7.53543L70.3325 19.6908L60.1031 29.8885C49.0529 40.9387 42.9278 55.7893 42.9278 71.2481L42.9278 99L57.0722 99L57.0722 71.2481C57.0722 59.5363 61.7169 48.2915 70.1115 39.8969L80.3409 29.6991L92.4646 41.8228L99 1Z" fill="url(#LinearGradient)" fill-rule="nonzero" filter="url(#Filter)" stroke="none" layerName="path" shadowAngle="1.5708" shadowColor="#000000" shadowOffset="1" shadowOpacity="0.65" shadowRadius="4"/>
-<path d="M1 1L7.53543 41.8228L18.9646 30.3937L32.1933 43.654C35.8683 47.329 39.1497 51.7933 41.1914 56.6933C42.8247 50.5683 45.6936 44.4454 49.3686 38.7287C47.7352 36.2787 45.6661 34.2349 44.0329 32.1933L30.6147 18.7751L41.8228 7.53543L1 1Z" fill="url(#LinearGradient_2)" fill-rule="nonzero" filter="url(#Filter_2)" stroke="none" layerName="path" shadowAngle="1.5708" shadowColor="#000000" shadowOffset="1" shadowOpacity="0.65" shadowRadius="4"/>
-</g>
+<g id="Layer">
+<g opacity="1">
+<path d="M99 1L58.1772 7.53543L70.3325 19.6908L60.1031 29.8885C49.0529 40.9387 42.9278 55.7893 42.9278 71.2481L42.9278 99L57.0722 99L57.0722 71.2481C57.0722 59.5363 61.7169 48.2915 70.1115 39.8969L80.3409 29.6991L92.4646 41.8228L99 1Z" fill="url(#LinearGradient)" fill-rule="nonzero" filter="url(#Filter)" stroke="none" shadowAngle="1.5708" shadowColor="#000000" shadowOffset="1" shadowOpacity="0.65" shadowRadius="4"/>
+<path d="M1 1L7.53543 41.8228L18.9646 30.3937L32.1933 43.654C35.8683 47.329 39.1497 51.7933 41.1914 56.6933C42.8247 50.5683 45.6936 44.4454 49.3686 38.7287C47.7352 36.2787 45.6661 34.2349 44.0329 32.1933L30.6147 18.7751L41.8228 7.53543L1 1Z" fill="url(#LinearGradient_2)" fill-rule="nonzero" filter="url(#Filter_2)" stroke="none" shadowAngle="1.5708" shadowColor="#000000" shadowOffset="1" shadowOpacity="0.65" shadowRadius="4"/>
 </g>
 </g>
 </svg>

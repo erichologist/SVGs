@@ -10,17 +10,12 @@
 <feDropShadow dx="-0.803543" dy="0.674253" flood-color="#000000" flood-opacity="0.5" in="SourceGraphic" result="Shadow" stdDeviation="0.5"/>
 </filter>
 </defs>
-<clipPath id="ArtboardFrame">
-<rect height="24" width="24" x="0" y="0"/>
-</clipPath>
-<g clip-path="url(#ArtboardFrame)" id="Layer-10" layerName="Layer 10">
-<g opacity="1" layerName="Group 2">
-<path d="M9.32057 10.2137L14.6794 10.2137L14.6794 22.7177L9.32057 22.7177L9.32057 10.2137ZM17.3589 20.0383L14.6794 22.7177L14.6794 10.2137L19.1451 8.42743L17.3589 20.0383ZM14.6794 10.2137L9.32057 10.2137L12 1.28228L14.6794 10.2137ZM14.6794 10.2137L19.1451 8.42743L12 1.28228L14.6794 10.2137ZM6.64114 20.0383L9.32057 22.7177L9.32057 10.2137L4.85485 8.42743L6.64114 20.0383ZM9.32057 10.2137L4.85485 8.42743L12 1.28228L9.32057 10.2137Z" fill="#00ff79" fill-opacity="0.863309" fill-rule="nonzero" filter="url(#Filter)" stroke="#1a4b35" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.67608" layerName="Curve 1" shadowAngle="2.44346" shadowColor="#000000" shadowOffset="1" shadowOpacity="0.5" shadowRadius="1"/>
+<g opacity="1">
+<path d="M9.32057 10.2137L14.6794 10.2137L14.6794 22.7177L9.32057 22.7177L9.32057 10.2137ZM17.3589 20.0383L14.6794 22.7177L14.6794 10.2137L19.1451 8.42743L17.3589 20.0383ZM14.6794 10.2137L9.32057 10.2137L12 1.28228L14.6794 10.2137ZM14.6794 10.2137L19.1451 8.42743L12 1.28228L14.6794 10.2137ZM6.64114 20.0383L9.32057 22.7177L9.32057 10.2137L4.85485 8.42743L6.64114 20.0383ZM9.32057 10.2137L4.85485 8.42743L12 1.28228L9.32057 10.2137Z" fill="#00ff79" fill-opacity="0.863309" fill-rule="nonzero" filter="url(#Filter)" stroke="#1a4b35" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.67608" shadowAngle="2.44346" shadowColor="#000000" shadowOffset="1" shadowOpacity="0.5" shadowRadius="1"/>
 </g>
-<g filter="url(#Filter_2)" layerName="Group 1" shadowAngle="2.44346" shadowColor="#000000" shadowOffset="1.04895" shadowOpacity="0.5" shadowRadius="1">
-<path d="M9.32057 10.2137L14.6794 10.2137L14.6794 22.7177L9.32057 22.7177L9.32057 10.2137ZM17.3589 20.0383L14.6794 22.7177L14.6794 10.2137L19.1451 8.42743L17.3589 20.0383ZM14.6794 10.2137L9.32057 10.2137L12 1.28228L14.6794 10.2137Z" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.67608" layerName="path"/>
-<path d="M14.6794 10.2137L19.1451 8.42743L12 1.28228L14.6794 10.2137ZM6.64114 20.0383L9.32057 22.7177L9.32057 10.2137L4.85485 8.42743L6.64114 20.0383Z" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.67608" layerName="path"/>
-<path d="M9.32057 10.2137L4.85485 8.42743L12 1.28228L9.32057 10.2137Z" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.67608" layerName="path"/>
-</g>
+<g filter="url(#Filter_2)" shadowAngle="2.44346" shadowColor="#000000" shadowOffset="1.04895" shadowOpacity="0.5" shadowRadius="1">
+<path d="M9.32057 10.2137L14.6794 10.2137L14.6794 22.7177L9.32057 22.7177L9.32057 10.2137ZM17.3589 20.0383L14.6794 22.7177L14.6794 10.2137L19.1451 8.42743L17.3589 20.0383ZM14.6794 10.2137L9.32057 10.2137L12 1.28228L14.6794 10.2137Z" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.67608"/>
+<path d="M14.6794 10.2137L19.1451 8.42743L12 1.28228L14.6794 10.2137ZM6.64114 20.0383L9.32057 22.7177L9.32057 10.2137L4.85485 8.42743L6.64114 20.0383Z" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.67608"/>
+<path d="M9.32057 10.2137L4.85485 8.42743L12 1.28228L9.32057 10.2137Z" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.67608"/>
 </g>
 </svg>

@@ -27,17 +27,12 @@
 <feDropShadow dx="-0.803185" dy="0.814571" flood-color="#000000" flood-opacity="0.65" in="SourceGraphic" result="Shadow" stdDeviation="2.24327"/>
 </filter>
 </defs>
-<clipPath id="ArtboardFrame">
-<rect height="100.279" width="100.279" x="-0.87548" y="0.607057"/>
-</clipPath>
-<g clip-path="url(#ArtboardFrame)" id="Layer" layerName="Layer">
-<g opacity="1" layerName="Group 2">
-<g opacity="1" layerName="g 7">
-<path d="M5 33.465L95 33.465L95 89.1219C95 92.3681 92.3681 95 89.1219 95L10.8474 95C7.61799 95 5 92.3821 5 89.1528L5 33.465Z" fill="#ffffff" fill-rule="nonzero" filter="url(#Filter)" stroke="none" layerName="path" shadowAngle="2.34916" shadowColor="#000000" shadowOffset="1.04834" shadowOpacity="0.65" shadowRadius="4.11154"/>
-<path d="M36.6406 5L21.875 21.875L21.875 27.5L78.125 27.5L78.125 21.875L63.3594 5L36.6406 5ZM50 10.625C53.0938 10.625 55.625 13.1563 55.625 16.25C55.625 19.4 53.0938 21.875 50 21.875C46.9062 21.875 44.375 19.4 44.375 16.25C44.375 13.1563 46.9062 10.625 50 10.625Z" fill="url(#LinearGradient)" fill-rule="nonzero" filter="url(#Filter_2)" stroke="none" layerName="path" shadowAngle="2.34916" shadowColor="#000000" shadowOffset="1.04834" shadowOpacity="0.65" shadowRadius="4.11154"/>
-<path d="M10.625 16.25C7.53125 16.25 5 18.7813 5 21.875L5 89.375C5 92.525 7.53125 95 10.625 95L89.375 95C92.4688 95 95 92.525 95 89.375L95 21.875C95 18.7813 92.4688 16.25 89.375 16.25L80.5859 16.25L83.75 19.7656L83.75 33.125L16.25 33.125L16.25 19.7656L19.4141 16.25L10.625 16.25ZM27.5 44.375L72.5 44.375L72.5 55.625L55.625 55.625L55.625 83.75L44.375 83.75L44.375 55.625L27.5 55.625L27.5 44.375Z" fill="url(#LinearGradient_2)" fill-rule="nonzero" filter="url(#Filter_3)" stroke="none" layerName="path" shadowAngle="2.34916" shadowColor="#000000" shadowOffset="1.04834" shadowOpacity="0.65" shadowRadius="4.11154"/>
+<g opacity="1">
+<g opacity="1">
+<path d="M5 33.465L95 33.465L95 89.1219C95 92.3681 92.3681 95 89.1219 95L10.8474 95C7.61799 95 5 92.3821 5 89.1528L5 33.465Z" fill="#ffffff" fill-rule="nonzero" filter="url(#Filter)" stroke="none" shadowAngle="2.34916" shadowColor="#000000" shadowOffset="1.04834" shadowOpacity="0.65" shadowRadius="4.11154"/>
+<path d="M36.6406 5L21.875 21.875L21.875 27.5L78.125 27.5L78.125 21.875L63.3594 5L36.6406 5ZM50 10.625C53.0938 10.625 55.625 13.1563 55.625 16.25C55.625 19.4 53.0938 21.875 50 21.875C46.9062 21.875 44.375 19.4 44.375 16.25C44.375 13.1563 46.9062 10.625 50 10.625Z" fill="url(#LinearGradient)" fill-rule="nonzero" filter="url(#Filter_2)" stroke="none" shadowAngle="2.34916" shadowColor="#000000" shadowOffset="1.04834" shadowOpacity="0.65" shadowRadius="4.11154"/>
+<path d="M10.625 16.25C7.53125 16.25 5 18.7813 5 21.875L5 89.375C5 92.525 7.53125 95 10.625 95L89.375 95C92.4688 95 95 92.525 95 89.375L95 21.875C95 18.7813 92.4688 16.25 89.375 16.25L80.5859 16.25L83.75 19.7656L83.75 33.125L16.25 33.125L16.25 19.7656L19.4141 16.25L10.625 16.25ZM27.5 44.375L72.5 44.375L72.5 55.625L55.625 55.625L55.625 83.75L44.375 83.75L44.375 55.625L27.5 55.625L27.5 44.375Z" fill="url(#LinearGradient_2)" fill-rule="nonzero" filter="url(#Filter_3)" stroke="none" shadowAngle="2.34916" shadowColor="#000000" shadowOffset="1.04834" shadowOpacity="0.65" shadowRadius="4.11154"/>
 </g>
-<path d="M25.4478 44.2897L25.4478 56.5658L43.862 56.5658L43.862 87.256L56.138 87.256L56.138 56.5658L74.5522 56.5658L74.5522 44.2897L25.4478 44.2897Z" fill="url(#LinearGradient_3)" fill-rule="nonzero" filter="url(#Filter_4)" stroke="none" layerName="Curve 1" shadowAngle="2.34916" shadowColor="#000000" shadowOffset="1.14395" shadowOpacity="0.65" shadowRadius="4.48655"/>
-</g>
+<path d="M25.4478 44.2897L25.4478 56.5658L43.862 56.5658L43.862 87.256L56.138 87.256L56.138 56.5658L74.5522 56.5658L74.5522 44.2897L25.4478 44.2897Z" fill="url(#LinearGradient_3)" fill-rule="nonzero" filter="url(#Filter_4)" stroke="none" shadowAngle="2.34916" shadowColor="#000000" shadowOffset="1.14395" shadowOpacity="0.65" shadowRadius="4.48655"/>
 </g>
 </svg>

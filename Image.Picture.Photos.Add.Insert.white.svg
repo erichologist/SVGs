@@ -19,13 +19,8 @@
 <feDropShadow dx="-0.443212" dy="1.21769" flood-color="#000000" flood-opacity="0.55" in="SourceGraphic" result="Shadow" stdDeviation="1.86194"/>
 </filter>
 </defs>
-<clipPath id="ArtboardFrame">
-<rect height="98.1388" width="100.8" x="-0.770643" y="1.66773"/>
-</clipPath>
-<g clip-path="url(#ArtboardFrame)" id="Layer" layerName="Layer">
-<g opacity="1" layerName="Group 1">
-<path d="M85.9765 79.4295L13.8035 79.4295L31.8468 56.231L44.7348 71.6966L63.0931 47.9641L66.9201 53.5007L72.0172 59.7697L78.7824 56.802L68.058 32.8937L50.9554 22.7221L13.8035 22.7221C8.10921 22.7221 3.49308 27.3382 3.49308 33.0325L3.49308 84.5847C3.49308 90.279 8.10921 94.8951 13.8035 94.8951L85.9765 94.8951C91.6708 94.8951 96.287 90.279 96.287 84.5847L96.5069 47.3653L62.4908 47.3274L85.9765 79.4295Z" fill="url(#LinearGradient)" fill-rule="nonzero" filter="url(#Filter)" stroke="none" layerName="path" shadowAngle="1.91987" shadowColor="#000000" shadowOffset="1.08377" shadowOpacity="0.55" shadowRadius="3.11443"/>
-<path d="M77.2335 22.0406L77.2335 5.10488L67.5215 5.10488L67.5215 22.0406L50.5858 22.0406L50.5858 31.7526L67.5215 31.7526L67.5215 47.4442L77.2335 47.4442L77.2335 31.7526L92.9251 31.7526L92.9251 22.0406L77.2335 22.0406Z" fill="url(#LinearGradient_2)" fill-rule="nonzero" filter="url(#Filter_2)" stroke="none" layerName="path 1" shadowAngle="1.91987" shadowColor="#000000" shadowOffset="1.29584" shadowOpacity="0.55" shadowRadius="3.72387"/>
-</g>
+<g opacity="1">
+<path d="M85.9765 79.4295L13.8035 79.4295L31.8468 56.231L44.7348 71.6966L63.0931 47.9641L66.9201 53.5007L72.0172 59.7697L78.7824 56.802L68.058 32.8937L50.9554 22.7221L13.8035 22.7221C8.10921 22.7221 3.49308 27.3382 3.49308 33.0325L3.49308 84.5847C3.49308 90.279 8.10921 94.8951 13.8035 94.8951L85.9765 94.8951C91.6708 94.8951 96.287 90.279 96.287 84.5847L96.5069 47.3653L62.4908 47.3274L85.9765 79.4295Z" fill="url(#LinearGradient)" fill-rule="nonzero" filter="url(#Filter)" stroke="none" shadowAngle="1.91987" shadowColor="#000000" shadowOffset="1.08377" shadowOpacity="0.55" shadowRadius="3.11443"/>
+<path d="M77.2335 22.0406L77.2335 5.10488L67.5215 5.10488L67.5215 22.0406L50.5858 22.0406L50.5858 31.7526L67.5215 31.7526L67.5215 47.4442L77.2335 47.4442L77.2335 31.7526L92.9251 31.7526L92.9251 22.0406L77.2335 22.0406Z" fill="url(#LinearGradient_2)" fill-rule="nonzero" filter="url(#Filter_2)" stroke="none" shadowAngle="1.91987" shadowColor="#000000" shadowOffset="1.29584" shadowOpacity="0.55" shadowRadius="3.72387"/>
 </g>
 </svg>

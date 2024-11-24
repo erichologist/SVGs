@@ -1,9 +1,5 @@
 <svg width="100%" height="100%" viewBox="0 0 100 100" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs/>
-<clipPath id="ArtboardFrame">
-<rect height="75" width="100" x="0" y="12.5"/>
-</clipPath>
-<g clip-path="url(#ArtboardFrame)" id="Layer" >
 <g opacity="1" >
 <path opacity="1" d="M0 12.5L100 12.5L100 87.5L0 87.5L0 12.5Z" fill="#222222" fill-rule="nonzero" stroke="none" />
 <g opacity="1" >
@@ -15,7 +11,6 @@
 <path opacity="1" d="M65.7933 36.8389L84.2189 36.8389L84.2189 47.3678L65.7933 47.3678L65.7933 36.8389Z" fill="#3f51b5" fill-rule="nonzero" stroke="none" />
 <path opacity="1" d="M86.8511 15.7811L97.38 15.7811L97.38 26.31L86.8511 26.31L86.8511 15.7811Z" fill="#f44336" fill-rule="nonzero" stroke="none" />
 <path opacity="1" d="M39.4711 15.7811L42.1033 15.7811L42.1033 84.2189L39.4711 84.2189L39.4711 15.7811ZM63.1611 15.7811L65.7933 15.7811L65.7933 84.2189L63.1611 84.2189L63.1611 15.7811ZM2.62003 52.6322L65.7933 52.6322L65.7933 55.2644L2.62003 55.2644L2.62003 52.6322ZM65.7933 47.3678L97.38 47.3678L97.38 50L65.7933 50L65.7933 47.3678ZM42.1033 34.2067L86.8511 34.2067L86.8511 36.8389L42.1033 36.8389L42.1033 34.2067ZM84.2189 15.7811L86.8511 15.7811L86.8511 50L84.2189 50L84.2189 15.7811ZM84.2189 26.31L97.38 26.31L97.38 28.9422L84.2189 28.9422L84.2189 26.31Z" fill="#222222" fill-rule="nonzero" stroke="none" />
-</g>
 </g>
 </g>
 </svg>

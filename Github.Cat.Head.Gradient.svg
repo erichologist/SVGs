@@ -25,10 +25,6 @@
 <stop offset="0.716324" stop-color="#000000"/>
 </radialGradient>
 </defs>
-<clipPath id="ArtboardFrame">
-<rect height="91.4295" width="106.456" x="-3.22778" y="4.79928"/>
-</clipPath>
-<g clip-path="url(#ArtboardFrame)" id="Layer" vectornator:layerName="Layer">
 <g filter="url(#Filter)" vectornator:layerName="g" vectornator:shadowAngle="1.5708" vectornator:shadowColor="#000000" vectornator:shadowOffset="0.514048" vectornator:shadowOpacity="0.7" vectornator:shadowRadius="3.51455">
 <path d="M50 16.1915C24.6999 16.1915 1.16541 27.7841 1.16541 54.9924C1.16541 82.2008 18.4078 91.3216 50 91.3216C81.5922 91.3216 98.8346 82.2008 98.8346 54.9924C98.8346 26.0672 75.3001 16.1915 50 16.1915ZM50 87.5651C29.9215 87.5651 13.6483 83.9927 13.6483 65.2214C13.6483 58.0615 17.5588 54.0194 20.3574 51.4951C26.5144 45.9429 36.1986 48.7115 50 48.7115C60.0374 48.7115 69.3648 46.7056 76.243 48.8956C83.1212 51.0857 87.55 57.4717 87.55 64.5677C87.5463 84.2292 77.0168 87.5651 50 87.5651Z" fill="url(#RadialGradient)" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
 <path d="M66.9944 18.0547C66.9944 18.0547 76.968 8.67842 88.8348 8.67842C94.5935 22.0966 88.5418 32.9792 88.5418 32.9792L66.9944 18.0547ZM11.5108 31.2137C11.5108 31.2137 8.67842 28.5015 8.67842 20.8307C8.67842 13.1599 11.293 8.67842 11.293 8.67842C15.5078 8.67842 25.748 10.6618 33.7381 19.3957C42.025 28.4526 11.5108 31.2137 11.5108 31.2137Z" fill="url(#RadialGradient_2)" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
@@ -38,7 +34,6 @@
 <g opacity="1" vectornator:layerName="g">
 <path d="M28.7071 60.6781C27.8106 60.6781 27.0827 61.4233 27.0827 62.335C27.0827 63.2466 27.8106 63.9919 28.7071 63.9919C29.6035 63.9919 30.3315 63.2466 30.3315 62.335C30.3315 61.4233 29.6035 60.6781 28.7071 60.6781Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
 <path d="M70.0662 60.6809C69.1705 60.6809 68.4431 61.4254 68.4431 62.3363C68.4431 63.2472 69.1705 63.9919 70.0662 63.9919C70.9619 63.9919 71.6892 63.2472 71.6892 62.3363C71.6892 61.4254 70.9619 60.6809 70.0662 60.6809Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
-</g>
 </g>
 </g>
 </svg>

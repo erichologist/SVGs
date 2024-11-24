@@ -6,5 +6,5 @@
     <title>
 stat48_element_bluetooth</title>
     <path d="M0.5,0.358828L19.5,19.3588L10.5,28.3588L10.5,-7.64117L19.5,1.35883L0.5,20.3588" stroke="#efefef" fill="none" stroke-linecap="round" stroke-width="4" stroke-linejoin="round" stroke-dasharray="98 14" stroke-miterlimit="1" stroke-dashoffset="0" transform="translate(13.5,13.6412)" style="animation: a0_do 2s linear infinite both;"/>
-    <path d="M0.5,0.358828L19.5,19.3588L10.5,28.3588L10.5,-7.64117L19.5,1.35883L0.5,20.3588" stroke="#efefef" fill="none" stroke-linecap="round" stroke-width="4" stroke-linejoin="round" stroke-dasharray="1 111" stroke-miterlimit="1" stroke-dashoffset="7" transform="translate(13.5,13.6412)" style="animation: a1_do 2s linear infinite both;"/>
+    <path d="M0.5,0.358828L19.5,19.3588L10.5,28.3588L10.5,-7.64117L19.5,1.35883L0.5,20.3588" stroke="#0034ff" fill="none" stroke-linecap="round" stroke-width="4" stroke-linejoin="round" stroke-dasharray="1 111" stroke-miterlimit="1" stroke-dashoffset="7" transform="translate(13.5,13.6412)" style="animation: a1_do 2s linear infinite both;"/>
 </svg>
