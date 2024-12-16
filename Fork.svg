@@ -1,70 +1,68 @@
 <svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 100 100" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
-<linearGradient gradientTransform="matrix(1.16223 -1.87392e-32 0 0.926397 -8.10245 4.72204)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="32.7755" x2="30.0462" y1="20.9871" y2="101.529">
+<linearGradient gradientTransform="matrix(1.01961 -4.36251e-32 0 0.851461 -0.461143 8.44719)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="32.7755" x2="93.6009" y1="20.9871" y2="133.333">
 <stop offset="0" stop-color="#0032ff"/>
 <stop offset="0.398876" stop-color="#0007ff"/>
 <stop offset="0.786975" stop-color="#030097"/>
 <stop offset="1" stop-color="#000377"/>
 </linearGradient>
-<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="74.4236" id="Filter" width="85.9502" x="6.14816" y="13.9004">
-<feDropShadow dx="-0.876739" dy="1.79759" flood-color="#000000" flood-opacity="0.5" in="SourceGraphic" result="Shadow" stdDeviation="1.5"/>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="77.4281" id="Filter" width="76.4999" x="11.3645" y="13.0331">
+<feDropShadow dx="-0.897324" dy="1.8398" flood-color="#000000" flood-opacity="0.5" in="SourceGraphic" result="Shadow" stdDeviation="1.53522"/>
 </filter>
-<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="77.6036" id="Filter_2" width="89.1302" x="4.99653" y="11.4116">
-<feDropShadow dx="-0.438369" dy="0.898795" flood-color="#000000" flood-opacity="0.59" in="SourceGraphic" result="Shadow" stdDeviation="1.5"/>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="80.6827" id="Filter_2" width="79.7546" x="10.1858" y="10.4859">
+<feDropShadow dx="-0.448662" dy="0.919898" flood-color="#000000" flood-opacity="0.59" in="SourceGraphic" result="Shadow" stdDeviation="1.53522"/>
 </filter>
-<radialGradient cx="20.7374" cy="18.2991" gradientTransform="matrix(1.22853 0 0 1.23881 24.2872 61.3659)" gradientUnits="userSpaceOnUse" id="RadialGradient" r="18.6983">
+<radialGradient cx="20.7374" cy="18.2991" gradientTransform="matrix(1.09938 -2.01845e-33 0 1.10858 27.4947 65.076)" gradientUnits="userSpaceOnUse" id="RadialGradient" r="18.6983">
 <stop offset="0.227632" stop-color="#ffffff"/>
 <stop offset="0.8" stop-color="#8d8d8d"/>
 <stop offset="1" stop-color="#ffffff"/>
 </radialGradient>
-<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="37.1036" id="Filter_3" width="36.8821" x="30.8998" y="66.0183">
-<feDropShadow dx="-0.438369" dy="0.898795" flood-color="#000000" flood-opacity="0.59" in="SourceGraphic" result="Shadow" stdDeviation="1.5"/>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="33.2031" id="Filter_3" width="33.0048" x="33.4122" y="69.2393">
+<feDropShadow dx="-0.392286" dy="0.804309" flood-color="#000000" flood-opacity="0.59" in="SourceGraphic" result="Shadow" stdDeviation="1.34231"/>
 </filter>
-<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="37.1036" id="Filter_4" width="36.8821" x="30.8998" y="66.0183">
-<feDropShadow dx="-0.438369" dy="0.898795" flood-color="#000000" flood-opacity="0.59" in="SourceGraphic" result="Shadow" stdDeviation="1.5"/>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="33.2031" id="Filter_4" width="33.0048" x="33.4122" y="69.2393">
+<feDropShadow dx="-0.392286" dy="0.804309" flood-color="#000000" flood-opacity="0.59" in="SourceGraphic" result="Shadow" stdDeviation="1.34231"/>
 </filter>
-<radialGradient cx="20.7374" cy="18.2991" gradientTransform="matrix(1.22853 0 0 1.23881 58.3838 -5.9766)" gradientUnits="userSpaceOnUse" id="RadialGradient_2" r="18.6983">
+<radialGradient cx="20.7374" cy="18.2991" gradientTransform="matrix(1.13966 -2.92622e-32 0 1.14919 57.2656 -5.29039)" gradientUnits="userSpaceOnUse" id="RadialGradient_2" r="18.6983">
 <stop offset="0.227632" stop-color="#ffffff"/>
 <stop offset="0.8" stop-color="#8d8d8d"/>
 <stop offset="1" stop-color="#ffffff"/>
 </radialGradient>
-<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="37.1036" id="Filter_5" width="36.8821" x="64.9965" y="-1.32425">
-<feDropShadow dx="-0.438369" dy="0.898795" flood-color="#000000" flood-opacity="0.59" in="SourceGraphic" result="Shadow" stdDeviation="1.5"/>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="34.4194" id="Filter_5" width="34.2139" x="63.3999" y="-0.974593">
+<feDropShadow dx="-0.406657" dy="0.833774" flood-color="#000000" flood-opacity="0.59" in="SourceGraphic" result="Shadow" stdDeviation="1.39149"/>
 </filter>
-<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="37.1036" id="Filter_6" width="36.8821" x="64.749" y="-1.32425">
-<feDropShadow dx="-0.438369" dy="0.898795" flood-color="#000000" flood-opacity="0.59" in="SourceGraphic" result="Shadow" stdDeviation="1.5"/>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="34.4194" id="Filter_6" width="34.2139" x="63.1703" y="-0.974593">
+<feDropShadow dx="-0.406657" dy="0.833774" flood-color="#000000" flood-opacity="0.59" in="SourceGraphic" result="Shadow" stdDeviation="1.39149"/>
 </filter>
-<radialGradient cx="20.7374" cy="18.2991" gradientTransform="matrix(1.22853 0 0 1.23881 -9.36794 -5.9766)" gradientUnits="userSpaceOnUse" id="RadialGradient_3" r="18.6983">
+<radialGradient cx="20.7374" cy="18.2991" gradientTransform="matrix(1.13966 -2.92622e-32 0 1.14919 -4.56141 -5.29039)" gradientUnits="userSpaceOnUse" id="RadialGradient_3" r="18.6983">
 <stop offset="0.227632" stop-color="#ffffff"/>
 <stop offset="0.8" stop-color="#8d8d8d"/>
 <stop offset="1" stop-color="#ffffff"/>
 </radialGradient>
-<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="37.1036" id="Filter_7" width="36.8821" x="-2.75528" y="-1.32425">
-<feDropShadow dx="-0.438369" dy="0.898795" flood-color="#000000" flood-opacity="0.59" in="SourceGraphic" result="Shadow" stdDeviation="1.5"/>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="34.4194" id="Filter_7" width="34.2139" x="1.57288" y="-0.974593">
+<feDropShadow dx="-0.406657" dy="0.833774" flood-color="#000000" flood-opacity="0.59" in="SourceGraphic" result="Shadow" stdDeviation="1.39149"/>
 </filter>
-<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="37.1036" id="Filter_8" width="36.8821" x="-2.75528" y="-1.32425">
-<feDropShadow dx="-0.438369" dy="0.898795" flood-color="#000000" flood-opacity="0.59" in="SourceGraphic" result="Shadow" stdDeviation="1.5"/>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="34.4194" id="Filter_8" width="34.2139" x="1.57288" y="-0.974593">
+<feDropShadow dx="-0.406657" dy="0.833774" flood-color="#000000" flood-opacity="0.59" in="SourceGraphic" result="Shadow" stdDeviation="1.39149"/>
 </filter>
 </defs>
-<g id="Layer" layerName="Layer">
-<g opacity="1" layerName="Group 4">
-<g opacity="1" layerName="Group 3">
-<path d="M15.9947 15.8528C13.1062 15.8528 10.7749 17.7251 10.7749 20.0275L10.7749 32.2894C10.7749 36.8197 12.0929 40.0978 16.3785 43.9518C19.3347 46.6103 22.6802 48.7791 29.8117 53.295C43.5286 61.981 44.7802 63.4919 44.7802 67.7074L44.7802 78.8663C44.7891 82.7289 50 82.7759 50 82.7759C50 82.7759 55.1839 82.9153 55.2582 78.8663L55.2582 67.7074C55.2582 63.4919 56.4714 61.981 70.1883 53.295C77.3198 48.7791 80.6653 46.6103 83.6215 43.9518C87.9071 40.0978 89.2251 36.8197 89.2251 32.2894L89.2251 20.0275C89.2251 17.7251 86.8938 15.8528 84.0053 15.8528C81.1168 15.8528 78.7856 17.7251 78.7855 20.0275L78.7855 33.226C79.1908 38.7049 62.7441 47.6383 62.7441 47.6383C62.7441 47.6383 54.4915 52.6907 51.5352 55.3492C51.0113 55.8204 50.4652 56.2639 50 56.7407C49.5348 56.2639 48.9887 55.8204 48.4648 55.3492C45.5085 52.6907 37.2943 47.6383 37.2943 47.6383C37.2943 47.6383 20.8476 38.7049 21.2528 33.226L21.2528 20.0275C21.2528 17.7251 18.8832 15.8528 15.9947 15.8528Z" fill="url(#LinearGradient)" fill-rule="nonzero" filter="url(#Filter)" stroke="none" layerName="Curve 1" shadowAngle="2.02458" shadowColor="#000000" shadowOffset="2" shadowOpacity="0.5" shadowRadius="3"/>
-<path d="M15.9947 15.8528C13.1062 15.8528 10.7749 17.7251 10.7749 20.0275L10.7749 32.2894C10.7749 36.8197 12.0929 40.0978 16.3785 43.9518C19.3347 46.6103 22.6802 48.7791 29.8117 53.295C43.5286 61.981 44.7802 63.4919 44.7802 67.7074L44.7802 78.8663C44.7891 82.7289 50 82.7759 50 82.7759C50 82.7759 55.1839 82.9153 55.2582 78.8663L55.2582 67.7074C55.2582 63.4919 56.4714 61.981 70.1883 53.295C77.3198 48.7791 80.6653 46.6103 83.6215 43.9518C87.9071 40.0978 89.2251 36.8197 89.2251 32.2894L89.2251 20.0275C89.2251 17.7251 86.8938 15.8528 84.0053 15.8528C81.1168 15.8528 78.7856 17.7251 78.7855 20.0275L78.7855 33.226C79.1908 38.7049 62.7441 47.6383 62.7441 47.6383C62.7441 47.6383 54.4915 52.6907 51.5352 55.3492C51.0113 55.8204 50.4652 56.2639 50 56.7407C49.5348 56.2639 48.9887 55.8204 48.4648 55.3492C45.5085 52.6907 37.2943 47.6383 37.2943 47.6383C37.2943 47.6383 20.8476 38.7049 21.2528 33.226L21.2528 20.0275C21.2528 17.7251 18.8832 15.8528 15.9947 15.8528Z" fill="none" filter="url(#Filter_2)" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="3.18" layerName="Curve 1" shadowAngle="2.02458" shadowColor="#000000" shadowOffset="1" shadowOpacity="0.59" shadowRadius="3"/>
+<g opacity="1">
+<g opacity="1">
+<path d="M20.6791 15.0314C18.1451 15.0314 16.0998 16.7522 16.0998 18.8683L16.0998 33.7846C16.0998 37.9485 17.2561 40.9615 21.0158 44.5037C23.6093 46.9471 26.5443 48.9405 32.8007 53.0911C44.8344 61.0745 45.9325 62.4632 45.9325 66.3377L45.9325 81.1895C45.9403 84.7396 50.5117 84.7828 50.5117 84.7828C50.5117 84.7828 55.0595 84.911 55.1247 81.1895L55.1247 66.3377C55.1247 62.4632 56.1891 61.0745 68.2228 53.0911C74.4792 48.9405 77.4142 46.9471 80.0077 44.5037C83.7674 40.9615 84.9237 37.9485 84.9236 33.7846L84.9236 18.8683C84.9236 16.7522 82.8784 15.0314 80.3444 15.0314C77.8103 15.0314 75.7651 16.7522 75.7651 18.8683L75.7651 34.6454C76.1206 39.6812 61.6921 47.892 61.6921 47.892C61.6921 47.892 54.4521 52.5356 51.8586 54.9791C51.3989 55.4122 50.9199 55.8198 50.5117 56.2581C50.1036 55.8198 49.6246 55.4122 49.1649 54.9791C46.5714 52.5356 39.3651 47.892 39.3651 47.892C39.3651 47.892 24.9365 39.6812 25.2921 34.6454L25.2921 18.8683C25.292 16.7522 23.2132 15.0314 20.6791 15.0314Z" fill="url(#LinearGradient)" fill-rule="nonzero" filter="url(#Filter)" stroke="none" shadowAngle="2.02458" shadowColor="#000000" shadowOffset="2.04696" shadowOpacity="0.5" shadowRadius="3.07044"/>
+<path d="M20.6791 15.0314C18.1451 15.0314 16.0998 16.7522 16.0998 18.8683L16.0998 33.7846C16.0998 37.9485 17.2561 40.9615 21.0158 44.5037C23.6093 46.9471 26.5443 48.9405 32.8007 53.0911C44.8344 61.0745 45.9325 62.4632 45.9325 66.3377L45.9325 81.1895C45.9403 84.7396 50.5117 84.7828 50.5117 84.7828C50.5117 84.7828 55.0595 84.911 55.1247 81.1895L55.1247 66.3377C55.1247 62.4632 56.1891 61.0745 68.2228 53.0911C74.4792 48.9405 77.4142 46.9471 80.0077 44.5037C83.7674 40.9615 84.9237 37.9485 84.9236 33.7846L84.9236 18.8683C84.9236 16.7522 82.8784 15.0314 80.3444 15.0314C77.8103 15.0314 75.7651 16.7522 75.7651 18.8683L75.7651 34.6454C76.1206 39.6812 61.6921 47.892 61.6921 47.892C61.6921 47.892 54.4521 52.5356 51.8586 54.9791C51.3989 55.4122 50.9199 55.8198 50.5117 56.2581C50.1036 55.8198 49.6246 55.4122 49.1649 54.9791C46.5714 52.5356 39.3651 47.892 39.3651 47.892C39.3651 47.892 24.9365 39.6812 25.2921 34.6454L25.2921 18.8683C25.292 16.7522 23.2132 15.0314 20.6791 15.0314Z" fill="none" filter="url(#Filter_2)" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="3.25467" shadowAngle="2.02458" shadowColor="#000000" shadowOffset="1.02348" shadowOpacity="0.59" shadowRadius="3.07044"/>
 </g>
-<g opacity="1" layerName="Group 1">
-<g opacity="1" layerName="Group 8">
-<path d="M49.7792 70.3147C42.4637 70.3147 36.5334 76.2946 36.5334 83.6713C36.5334 91.0478 42.4637 97.0279 49.7792 97.0279C57.0946 97.0279 63.025 91.0478 63.025 83.6713C63.025 76.2946 57.0946 70.3147 49.7792 70.3147Z" fill="url(#RadialGradient)" fill-rule="nonzero" filter="url(#Filter_3)" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2.89038" layerName="Curve 7" shadowAngle="2.02458" shadowColor="#000000" shadowOffset="1" shadowOpacity="0.59" shadowRadius="3"/>
-<path d="M49.7792 70.3147C42.4637 70.3147 36.5334 76.2946 36.5334 83.6713C36.5334 91.0478 42.4637 97.0279 49.7792 97.0279C57.0946 97.0279 63.025 91.0478 63.025 83.6713C63.025 76.2946 57.0946 70.3147 49.7792 70.3147Z" fill="none" filter="url(#Filter_4)" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2.89038" layerName="Curve 7" shadowAngle="2.02458" shadowColor="#000000" shadowOffset="1" shadowOpacity="0.59" shadowRadius="3"/>
+<g opacity="1">
+<g opacity="1">
+<path d="M50.3069 73.084C43.7605 73.084 38.4536 78.4353 38.4536 85.0365C38.4536 91.6377 43.7605 96.989 50.3069 96.989C56.8533 96.989 62.1603 91.6377 62.1603 85.0365C62.1603 78.4353 56.8533 73.084 50.3069 73.084Z" fill="url(#RadialGradient)" fill-rule="nonzero" filter="url(#Filter_3)" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2.58653" shadowAngle="2.02458" shadowColor="#000000" shadowOffset="0.894875" shadowOpacity="0.59" shadowRadius="2.68462"/>
+<path d="M50.3069 73.084C43.7605 73.084 38.4536 78.4353 38.4536 85.0365C38.4536 91.6377 43.7605 96.989 50.3069 96.989C56.8533 96.989 62.1603 91.6377 62.1603 85.0365C62.1603 78.4353 56.8533 73.084 50.3069 73.084Z" fill="none" filter="url(#Filter_4)" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2.58653" shadowAngle="2.02458" shadowColor="#000000" shadowOffset="0.894875" shadowOpacity="0.59" shadowRadius="2.68462"/>
 </g>
-<g opacity="1" layerName="Group R">
-<path d="M83.8759 2.97215C76.5604 2.97215 70.63 8.95209 70.63 16.3288C70.63 23.7053 76.5604 29.6853 83.8759 29.6853C91.1913 29.6853 97.1217 23.7053 97.1217 16.3288C97.1217 8.95209 91.1913 2.97215 83.8759 2.97215Z" fill="url(#RadialGradient_2)" fill-rule="nonzero" filter="url(#Filter_5)" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2.89038" layerName="Curve 6" shadowAngle="2.02458" shadowColor="#000000" shadowOffset="1" shadowOpacity="0.59" shadowRadius="3"/>
-<path d="M83.6285 2.97215C76.3129 2.97215 70.3826 8.95209 70.3826 16.3288C70.3826 23.7053 76.3129 29.6853 83.6285 29.6853C90.9439 29.6853 96.8743 23.7053 96.8743 16.3288C96.8743 8.95209 90.9439 2.97215 83.6285 2.97215Z" fill="none" filter="url(#Filter_6)" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2.89038" layerName="Curve 8" shadowAngle="2.02458" shadowColor="#000000" shadowOffset="1" shadowOpacity="0.59" shadowRadius="3"/>
+<g opacity="1">
+<path d="M80.9135 3.01099C74.1272 3.01099 68.6259 8.55833 68.6259 15.4014C68.6259 22.2443 74.1272 27.7917 80.9135 27.7917C87.6997 27.7917 93.2011 22.2443 93.2011 15.4014C93.2011 8.55833 87.6997 3.01099 80.9135 3.01099Z" fill="url(#RadialGradient_2)" fill-rule="nonzero" filter="url(#Filter_5)" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2.68129" shadowAngle="2.02458" shadowColor="#000000" shadowOffset="0.927658" shadowOpacity="0.59" shadowRadius="2.78297"/>
+<path d="M80.684 3.01099C73.8977 3.01099 68.3963 8.55833 68.3963 15.4014C68.3963 22.2443 73.8977 27.7917 80.684 27.7917C87.4702 27.7917 92.9716 22.2443 92.9716 15.4014C92.9716 8.55833 87.4702 3.01099 80.684 3.01099Z" fill="none" filter="url(#Filter_6)" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2.68129" shadowAngle="2.02458" shadowColor="#000000" shadowOffset="0.927658" shadowOpacity="0.59" shadowRadius="2.78297"/>
 </g>
-<g opacity="1" layerName="Group L">
-<path d="M16.1241 2.97215C8.80861 2.97215 2.87828 8.95209 2.87828 16.3288C2.87828 23.7053 8.80861 29.6853 16.1241 29.6853C23.4395 29.6853 29.37 23.7053 29.37 16.3288C29.37 8.95209 23.4395 2.97215 16.1241 2.97215Z" fill="url(#RadialGradient_3)" fill-rule="nonzero" filter="url(#Filter_7)" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2.89038" layerName="Curve 7" shadowAngle="2.02458" shadowColor="#000000" shadowOffset="1" shadowOpacity="0.59" shadowRadius="3"/>
-<path d="M16.1241 2.97215C8.80861 2.97215 2.87828 8.95209 2.87828 16.3288C2.87828 23.7053 8.80861 29.6853 16.1241 29.6853C23.4395 29.6853 29.37 23.7053 29.37 16.3288C29.37 8.95209 23.4395 2.97215 16.1241 2.97215Z" fill="none" filter="url(#Filter_8)" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2.89038" layerName="Curve 7" shadowAngle="2.02458" shadowColor="#000000" shadowOffset="1" shadowOpacity="0.59" shadowRadius="3"/>
-</g>
+<g opacity="1">
+<path d="M19.0865 3.01099C12.3002 3.01099 6.7989 8.55833 6.7989 15.4014C6.7989 22.2443 12.3002 27.7917 19.0865 27.7917C25.8727 27.7917 31.3741 22.2443 31.3741 15.4014C31.3741 8.55833 25.8727 3.01099 19.0865 3.01099Z" fill="url(#RadialGradient_3)" fill-rule="nonzero" filter="url(#Filter_7)" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2.68129" shadowAngle="2.02458" shadowColor="#000000" shadowOffset="0.927658" shadowOpacity="0.59" shadowRadius="2.78297"/>
+<path d="M19.0865 3.01099C12.3002 3.01099 6.7989 8.55833 6.7989 15.4014C6.7989 22.2443 12.3002 27.7917 19.0865 27.7917C25.8727 27.7917 31.3741 22.2443 31.3741 15.4014C31.3741 8.55833 25.8727 3.01099 19.0865 3.01099Z" fill="none" filter="url(#Filter_8)" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2.68129" shadowAngle="2.02458" shadowColor="#000000" shadowOffset="0.927658" shadowOpacity="0.59" shadowRadius="2.78297"/>
 </g>
 </g>
 </g>
