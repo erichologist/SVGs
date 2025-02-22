@@ -1,0 +1,25 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0.75 0.75 22.5 22.5" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="5.34091" id="Filter" width="5.34091" x="9.32955" y="9.32955">
+<feDropShadow dx="-0" dy="0" flood-color="#000000" flood-opacity="0.9" in="SourceGraphic" result="Shadow" stdDeviation="0.568182"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="22.5" id="Filter_2" width="22.5" x="0.75" y="0.75">
+<feDropShadow dx="-0" dy="0" flood-color="#000000" flood-opacity="0.9" in="SourceGraphic" result="Shadow" stdDeviation="0.5"/>
+</filter>
+</defs>
+
+<clipPath id="ArtboardFrame">
+<rect height="22.5" width="22.5" x="0.75" y="0.75"/></clipPath>
+<g clip-path="url(#ArtboardFrame)" id="Layer" layerName="Layer">
+<g opacity="1" layerName="Group 1">
+
+<path d="M10.75 12C10.75 11.3096 11.3096 10.75 12 10.75C12.6904 10.75 13.25 11.3096 13.25 12C13.25 12.6904 12.6904 13.25 12 13.25C11.3096 13.25 10.75 12.6904 10.75 12Z" fill="#eb4e3d" fill-rule="nonzero" filter="url(#Filter)" stroke="none" layerName="circle" shadowAngle="2.33874" shadowColor="#000000" shadowOffset="0" shadowOpacity="0.9" shadowRadius="1.13636"/>
+<path d="M12 2C6.4775 2 2 6.4775 2 12C2 17.5225 6.4775 22 12 22C17.5225 22 22 17.5225 22 12C22 6.4775 17.5225 2 12 2ZM14.5 14.5L7.625 16.375L9.5 9.5L16.375 7.625L14.5 14.5Z" fill="#285ff4" fill-rule="nonzero" filter="url(#Filter_2)" stroke="none" layerName="path" shadowAngle="2.33874" shadowColor="#000000" shadowOffset="0" shadowOpacity="0.9" shadowRadius="1">
+<animateTransform id="eosIconsCompass0" attributeName="transform" attributeType="XML" begin="0;eosIconsCompass2.end" dur="1s" from="-90 12 12" to="0 12 12" type="rotate"/>
+<animateTransform id="eosIconsCompass1" attributeName="transform" attributeType="XML" begin="eosIconsCompass0.end" dur="1s" from="0 12 12" to="-90 12 12" type="rotate"/>
+<animateTransform id="eosIconsCompass2" attributeName="transform" attributeType="XML" begin="eosIconsCompass1.end" dur="1s" from="-90 12 12" to="270 12 12" type="rotate"/>
+</path>
+</g>
+</g>
+</svg>
