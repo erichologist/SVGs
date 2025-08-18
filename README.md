@@ -1,6 +1,6 @@
 # erichologist.github.io/SVGs/
 
-| ![AdBlock.Middle.Finger] | ![Adguard.Rasterized]  | ![Adguard] | ![Align-Right.Blue.Animated] | ![Align.Justified.Blue.Animated] | ![Align.Justified.Pink.Animated.Loop] |
+| ![AdBlock.Middle.Finger] | ![Adguard.Rasterized]  | ![Adguard] | ![Align-Right.Blue.Animated] | ![Align.Lines.Animated.Loop] | ![Align.Justified.Pink.Animated.Loop] |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | ![] | ![] | ![] | ![] | ![] | ![] |
 | ![] | ![] | ![] | ![] | ![] | ![] |
@@ -175,7 +175,7 @@
 [Align-Right.Blue.Animated]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Align-Right.Blue.Animated.svg
 [Align.Justified.Blue.Animated]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Align.Justified.Blue.Animated.svg
 [Align.Justified.Pink.Animated.Loop]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Align.Justified.Pink.Animated.Loop.svg
-[]:name.svg
+[Align.Lines.Animated.Loop]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Align.Lines.Animated.Loop.svg
 []:name.svg
 []:name.svg
 []:name.svg
