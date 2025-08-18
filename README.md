@@ -1,6 +1,5 @@
 # erichologist.github.io/SVGs/
 
-
 | ![AdBlock Middle Finger] | ![Adguard Rasterized]  | ![Adguard.svg] | ![Align-Right.Blue.Animated] | ![Align.Justified.Blue.Animated] | ![Align.Justified.Pink.Animated.Loop] |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | ![] | ![] | ![] | ![] | ![] | ![] |
