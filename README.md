@@ -1,8 +1,8 @@
 # erichologist.github.io/SVGs/
 
-| ![AdBlock.Middle.Finger] | ![Adguard.Rasterized]  | ![Adguard] | ![Align-Right.Blue.Animated] | ![Align.Lines.Animated.Loop] | ![Align.Justified.Pink.Animated.Loop] |
+| ![AdBlock.Middle.Finger] | ![Adguard.Rasterized]  | ![Adguard] | ![Align-Right.Blue.Animated] | ![Align.Justified.Pink.Animated.Loop] | ![Align.Justified.Blue.Animated] |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| ![] | ![] | ![] | ![] | ![] | ![] |
+| ![Align.Lines.Animated.Loop] | ![Align.Lines.Animated.Loop] | ![Align.Lines.Animated.Loop] | ![Align.Lines.Animated.Loop] | ![Align.Lines.Animated.Loop] | ![Align.Lines.Animated.Loop] |
 | ![] | ![] | ![] | ![] | ![] | ![] |
 | ![] | ![] | ![] | ![] | ![] | ![] |
 | ![] | ![] | ![] | ![] | ![] | ![] |
