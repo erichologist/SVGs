@@ -1,7 +1,8 @@
 # erichologist.github.io/SVGs/
 
 
-|      |      |      |      |     |      |
+
+|     |     |     |     |     |     |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | ![AdBlock.Middle.Finger] | ![Adguard.Rasterized]  | ![Adguard] | ![Align.Right.Blue.Animated] | ![Align.Justified.Pink.Animated.Loop] | ![Align.Justified.Blue.Animated] |
 | ![Align.Lines.Animated.Loop] | ![Align.Lines.Animated.Loop-3] | ![Align.Lines.Animated.Loop-4] | ![Align.Lines.Animated.Loop-6] | ![Align.Lines.Animated.Loop-7] | ![Regex.Dot.All.Glassy.Pink] |
@@ -111,7 +112,7 @@
 | ![type.scale.2] | ![type.scale] | ![upload.round.shadowed.light.Animated.Loop.3A] | ![watch-off-loop-3] | ![wiki.inverted-2] | ![wind.toy.Blue.Animated.loop] |
 | ![wind.toy.Yellow.Animated.loop-3] | ![windmill.Animated.loop] | ![Quotes] | ![blank] | ![blank] | ![blank] |
 
-[Regex.Dot.All.Glassy.Pink]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Dot.All.Glassy.Pink.svg
+
 [blank]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/100x100.svg
 [100x100]:100x100.svg
 [AdBlock.Middle.Finger]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/AdBlock.Middle.Finger.svg
@@ -597,6 +598,7 @@
 [Reddit.Yellow-Green.Animated.Loop]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Reddit.Yellow-Green.Animated.Loop.svg
 [Reddit.Yellow-Pink.Animated.Loop-2]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Reddit.Yellow-Pink.Animated.Loop-2.svg
 [Reddit.Yellow-Pink.Animated.Loop]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Reddit.Yellow-Pink.Animated.Loop.svg
+[Regex.Dot.All.Glassy.Pink]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Dot.All.Glassy.Pink.svg
 [Regex.Dot.All.Green.White]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Dot.All.Green.White.svg
 [Regex.Dot.All.Pink-White]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Dot.All.Pink-White.svg
 [Regex.Dot.All.Pink.White]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Dot.All.Pink.White.svg
