@@ -1,6 +1,5 @@
-<svg viewBox="0 0 100 100">
+<svg width="100%" height="100%" viewBox="0 0 100 100" stroke-miterlimit="10" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g fill="#00f" fill-opacity="0" fill-rule="nonzero" opacity="1" stroke-linejoin="miter" stroke-width="2" stroke="#00f" stroke-linecap="round">
-
 <g fill="#00f" fill-opacity="0" fill-rule="nonzero" opacity="1" stroke-linejoin="miter" stroke-width="2" stroke="#00f" stroke-linecap="round">
 <g stroke-dasharray="54" stroke-dashoffset="54">
 <rect id="CIRCLE-Stroke1" width="17.19" height="17.19" x="5.41" y="5" rx="8.54">
@@ -17,7 +16,6 @@
 </rect>
 </g>
 </g>
-
 <g fill="#00f" fill-opacity="0" fill-rule="nonzero" opacity="1" stroke-linejoin="miter" stroke-width="2" stroke="#00f" stroke-linecap="round">
 <g stroke-dasharray="54" stroke-dashoffset="54">
 <rect id="CIRCLE-Fill1" width="17.19" height="17.19" x="5.41" y="5" rx="8.54">
@@ -34,11 +32,6 @@
 </rect>
 </g>
 </g>
-
-
-
-
-
 <g fill="#00f" fill-opacity="0" fill-rule="nonzero" opacity="1" stroke-linejoin="miter" stroke-width="2" stroke="#00f" stroke-linecap="round">
 <g stroke-dasharray="186" stroke-dashoffset="186">
 <rect id="RECTANGLE-Fill1" width="61.64" height="17.19" x="32.71" y="5.52" rx="8.54">
@@ -54,7 +47,6 @@
 <animate id="RectangleFillThreeB" fill="freeze" attributeName="fill-opacity" begin="RectangleFillTwoB.end+.2s;RectangleFillTwoB.end+.2s" dur="0.4s" values="0.8;0"/>
 </rect>
 </g>
-
 <g fill="#00f" fill-opacity="0" fill-rule="nonzero" opacity="1" stroke-linejoin="miter" stroke-width="2" stroke="#00f" stroke-linecap="round">
 <g stroke-dasharray="186" stroke-dashoffset="186">
 <rect id="RECTANGLE-Stroke1" width="61.64" height="17.19" x="32.71" y="5.52" rx="8.54">
@@ -70,10 +62,6 @@
 <animate id="RectangleStrokeThreeB" fill="freeze" attributeName="stroke-dashoffset" begin="RectangleStrokeTwoB.end+.2s;RectangleStrokeTwoB.end" dur="0.4s" values="186;0"/>
 </rect>
 </g>
-
-
-
-
 <g stroke-dasharray="54" stroke-dashoffset="54">
 <rect id="CIRCLE1" width="17.19" height="17.19" x="5.41" y="5" rx="8.54">
 <animate id="Circle-Stroke-Anim1" fill="freeze" attributeName="stroke-dashoffset" begin="0;Circle-Fill-Anim3.end+1.2s" dur="0.4s" values="54;0"/>
@@ -88,9 +76,6 @@
 <animate id="Circle-Fill-Anim3" fill="freeze" attributeName="fill-opacity" begin="Circle-Fill-Anim2.end+.2s;Circle-Fill-Anim2.end+.2s" dur="0.4s" values="0;0.8"/>
 </rect>
 </g>
-
-
-
 <path id="LINEFILL1" width="9" d="M65 17.5H95A7.5 7.5 0 0 1 102.5 25V25A7.5 7.5 0 0 1 95 32.5H65A7.5 7.5 0 0 1 57.5 25V25A7.5 7.5 0 0 1 65 17.5z" fill="#f0f">
 <animate id="LineFillOneA" fill="freeze" attributeName="fill-opacity" begin="LineStrokeThreeA.end" dur="0.8s" values="0;0.8"/>
 <animate id="LineFillOneB" fill="freeze" attributeName="fill-opacity" begin="LineStrokeThreeB.end" dur="0.8s" values="1;0"/>
@@ -104,8 +89,6 @@
 <animate id="LineFillThreeB" fill="freeze" attributeName="fill-opacity" begin="LineFillTwoB.end" dur="0.8s" values="0.8;0"/>
 </path>
 </g>
-
-
 </g>
 <g fill="#00f" fill-opacity="0" fill-rule="nonzero" opacity="1" stroke-linejoin="miter" stroke-width="2" stroke="#00f" stroke-linecap="round">
 <g stroke-dasharray="186" stroke-dashoffset="186">
