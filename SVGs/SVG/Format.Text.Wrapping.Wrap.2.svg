@@ -1,0 +1,8 @@
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 100 100" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="99.2398" id="Filter" width="88.6454" x="4.81288" y="1.32021">
+<feDropShadow dx="-0.864398" dy="0.940133" flood-color="#000000" flood-opacity="0.45" in="SourceGraphic" result="Shadow" stdDeviation="1.67546"/>
+</filter>
+</defs>
+<path d="M21.3328 95.4313L9.86592 95.4313L9.86592 4.56872L21.3328 4.56872L21.3328 95.4313M90.1341 4.56872L78.6672 4.56872L78.6672 95.4313L90.1341 95.4313L90.1341 4.56872M55.7334 26.5054L32.7997 26.5054L32.7997 37.9722L55.5614 37.9722C56.5361 37.9722 61.4669 38.8896 61.4669 49.4391C61.4669 59.9886 56.5361 60.906 55.7334 60.906L44.2666 60.906L44.2666 49.4391L27.0662 66.6394L44.2666 83.8398L44.2666 72.3729L55.7334 72.3729C61.6962 72.3729 72.9338 67.5568 72.9338 49.4391C72.9338 31.3215 61.6962 26.5054 55.7334 26.5054Z" fill="#ffffff" fill-rule="nonzero" filter="url(#Filter)" stroke="none" shadowAngle="2.31425" shadowColor="#000000" shadowOffset="1.27712" shadowOpacity="0.45" shadowRadius="3.35091"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="-0.983596 0.429586 100.5 100.5" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="100.5" id="Filter" width="100.5" x="-0.983596" y="0.429586">
+<feDropShadow dx="-0.733596" dy="0.679586" flood-color="#000000" flood-opacity="0.65" in="SourceGraphic" result="Shadow" stdDeviation="1.5"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="72.25" id="Filter_2" width="92.9167" x="1.51865" y="15.8487">
+<feDropShadow dx="-0.731354" dy="0.681998" flood-color="#000000" flood-opacity="0.65" in="SourceGraphic" result="Shadow" stdDeviation="0.5"/>
+</filter>
+</defs>
+<g id="How-To" layerName="How To">
+<g opacity="1" layerName="Group 1">
+<path d="M3.5 13.8333C3.5 8.12675 8.12675 3.5 13.8333 3.5L86.1667 3.5C91.8733 3.5 96.5 8.12675 96.5 13.8333L96.5 86.1667C96.5 91.8733 91.8733 96.5 86.1667 96.5L13.8333 96.5C8.12675 96.5 3.5 91.8733 3.5 86.1667L3.5 13.8333Z" fill="#cddc39" fill-rule="nonzero" filter="url(#Filter)" stroke="none" layerName="path" shadowAngle="2.39439" shadowColor="#000000" shadowOffset="1" shadowOpacity="0.65" shadowRadius="3"/>
+<path d="M93.9167 48.7083L73.25 65.5L73.25 31.9167L93.9167 48.7083ZM65.5 86.1667L42.25 86.1667L42.25 24.1667L34.5 24.1667L34.5 70.6667L11.25 70.6667L11.25 52.5833L3.5 52.5833L3.5 44.8333L19 44.8333L19 62.9167L26.75 62.9167L26.75 16.4167L50 16.4167L50 78.4167L57.75 78.4167L57.75 44.8333L81 44.8333L81 52.5833L65.5 52.5833L65.5 86.1667Z" fill="#827717" fill-rule="nonzero" filter="url(#Filter_2)" stroke="none" layerName="Curve 1" shadowAngle="2.3911" shadowColor="#000000" shadowOffset="1" shadowOpacity="0.65" shadowRadius="1"/>
+</g>
+</g>
+</svg>

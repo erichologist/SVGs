@@ -1,0 +1,20 @@
+<svg width="100%" height="100%" viewBox="0 0 100 100" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="78.1326" id="Filter" width="97.9292" x="0.279313" y="18.0283">
+<feDropShadow dx="-0.756075" dy="0.654485" flood-color="#000000" flood-opacity="0.7" in="SourceGraphic" result="Shadow" stdDeviation="1"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="61.2409" id="Filter_2" width="90.8827" x="3.61431" y="27.1817">
+<feDropShadow dx="-0.944345" dy="0.817458" flood-color="#000000" flood-opacity="0.6" in="SourceGraphic" result="Shadow" stdDeviation="1.87351"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="12.3988" id="Filter_3" width="22.9837" x="0.630859" y="5.34732">
+<feDropShadow dx="-0.674438" dy="0.583818" flood-color="#000000" flood-opacity="0.6" in="SourceGraphic" result="Shadow" stdDeviation="0.892026"/>
+</filter>
+</defs>
+<g opacity="1" layerName="Group 1">
+<g opacity="1" layerName="Group 1">
+<path d="M6.84289 19.8739L93.1571 19.8739C94.9838 19.8739 96.4646 21.3547 96.4646 23.1814L96.4646 89.6989C96.4646 91.5256 94.9838 93.0064 93.1571 93.0064L6.84289 93.0064C5.01621 93.0064 3.53539 91.5256 3.53539 89.6989L3.53539 23.1814C3.53539 21.3547 5.01621 19.8739 6.84289 19.8739Z" fill="#374952" filter="url(#Filter)" layerName="path" shadowAngle="2.42809" shadowColor="#000000" shadowOffset="1" shadowOpacity="0.7" shadowRadius="2"/>
+<path d="M18.5055 58.4667L31.4738 66.2477L31.4738 75.5109L9.24244 61.8015L9.24244 54.0204L31.4738 42.1637L31.4738 51.4268L18.5055 58.4667ZM46.2948 82.9214L38.8843 82.9214L53.7052 31.048L61.1157 31.048L46.2948 82.9214ZM81.4945 58.8373L68.5262 51.4268L68.5262 42.1637L90.7576 54.7616L90.7576 62.5425L68.5262 75.5109L68.5262 66.2477L81.4945 58.8373Z" fill="#76ff03" filter="url(#Filter_2)" layerName="path" shadowAngle="2.42809" shadowColor="#000000" shadowOffset="1.24901" shadowOpacity="0.6" shadowRadius="3.74703"/>
+</g>
+<path d="M18.0896 6.99356C15.8975 6.99356 14.1203 8.7707 14.1203 10.9629C14.1203 13.1551 15.8975 14.9323 18.0896 14.9323C20.2819 14.9323 22.0589 13.1551 22.0589 10.9629C22.0589 8.7707 20.2819 6.99356 18.0896 6.99356ZM7.50471 6.99356C5.3125 6.99356 3.53536 8.7707 3.53536 10.9629C3.53536 13.1551 5.3125 14.9323 7.50471 14.9323C9.69692 14.9323 11.4741 13.1551 11.4741 10.9629C11.4741 8.7707 9.69692 6.99356 7.50471 6.99356Z" fill="#90a4ae" filter="url(#Filter_3)" layerName="path" shadowAngle="2.42809" shadowColor="#000000" shadowOffset="0.892026" shadowOpacity="0.6" shadowRadius="1.78405"/>
+</g>
+</svg>

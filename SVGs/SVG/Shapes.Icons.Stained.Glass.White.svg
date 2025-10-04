@@ -1,0 +1,22 @@
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 100 100" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="17.3693" id="Filter" width="17.5821" x="32.569" y="33.1176">
+<feDropShadow dx="-0.578677" dy="0.82643" flood-color="#000000" flood-opacity="0.55" in="SourceGraphic" result="Shadow" stdDeviation="1.42215"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="17.3693" id="Filter_2" width="17.5821" x="49.0437" y="51.0224">
+<feDropShadow dx="-0.578677" dy="0.82643" flood-color="#000000" flood-opacity="0.55" in="SourceGraphic" result="Shadow" stdDeviation="1.42215"/>
+</filter>
+<linearGradient gradientTransform="matrix(1 0 0 1 0 0)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="25.7564" x2="116.264" y1="28.7192" y2="48.9157">
+<stop offset="0" stop-color="#19068f"/>
+<stop offset="1" stop-color="#021df3"/>
+</linearGradient>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="101.886" id="Filter_3" width="66.6964" x="16.0731" y="-0.116494">
+<feDropShadow dx="-0.578677" dy="0.82643" flood-color="#000000" flood-opacity="0.55" in="SourceGraphic" result="Shadow" stdDeviation="1.42215"/>
+</filter>
+</defs>
+<g opacity="1">
+<path d="M36.7031 35.8466L47.1744 35.8466L47.1744 46.1051L36.7031 46.1051L36.7031 35.8466Z" fill="#ffca00" fill-rule="nonzero" filter="url(#Filter)" stroke="none" shadowAngle="2.18167" shadowColor="#000000" shadowOffset="1.00889" shadowOpacity="0.55" shadowRadius="2.8443"/>
+<path d="M53.1777 53.7513L63.6491 53.7513L63.6491 64.0098L53.1777 64.0098L53.1777 53.7513Z" fill="#e70488" fill-rule="nonzero" filter="url(#Filter_2)" stroke="none" shadowAngle="2.18167" shadowColor="#000000" shadowOffset="1.00889" shadowOpacity="0.55" shadowRadius="2.8443"/>
+<path d="M36.8473 8.21497L47.2051 8.21497L47.2051 29.7228L36.8473 29.7228L36.8473 8.21497ZM36.8473 52.395L47.2051 52.395L47.2051 73.902L36.8473 73.902L36.8473 52.395ZM20.2072 25.8959L30.565 25.8959L30.565 97.3875L20.2072 97.3875L20.2072 25.8959ZM53.1433 70.1402L63.5011 70.1402L63.5011 91.6472L53.1433 91.6472L53.1433 70.1402ZM53.1433 25.9213L63.5011 25.9213L63.5011 47.4292L53.1433 47.4292L53.1433 25.9213ZM69.435 2.61246L79.7928 2.61246L79.7928 74.1041L69.435 74.1041L69.435 2.61246Z" fill="url(#LinearGradient)" fill-rule="nonzero" filter="url(#Filter_3)" stroke="none" shadowAngle="2.18167" shadowColor="#000000" shadowOffset="1.00889" shadowOpacity="0.55" shadowRadius="2.8443"/>
+</g>
+</svg>

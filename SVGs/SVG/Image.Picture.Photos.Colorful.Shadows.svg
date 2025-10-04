@@ -1,0 +1,30 @@
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 150 150" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="103.372" id="Filter" width="138.928" x="4.10308" y="6.91969">
+<feDropShadow dx="-1.43289" dy="1.38372" flood-color="#000000" flood-opacity="0.75" in="SourceGraphic" result="Shadow" stdDeviation="2.9984"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="82.8952" id="Filter_2" width="138.721" x="3.91634" y="63.2378">
+<feDropShadow dx="-1.72287" dy="1.66901" flood-color="#000000" flood-opacity="0.75" in="SourceGraphic" result="Shadow" stdDeviation="2.9984"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="28.357" id="Filter_3" width="28.3572" x="79.4579" y="36.2432">
+<feDropShadow dx="-0.778187" dy="0.751486" flood-color="#000000" flood-opacity="0.3" in="SourceGraphic" result="Shadow" stdDeviation="1.58724"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="20.6937" id="Filter_4" width="20.6939" x="83.4906" y="39.8806">
+<feDropShadow dx="-0.577071" dy="0.557271" flood-color="#000000" flood-opacity="0.3" in="SourceGraphic" result="Shadow" stdDeviation="1.2254"/>
+</filter>
+</defs>
+<g id="Untitled-copy" layerName="Untitled-copy">
+<g opacity="1">
+<g opacity="1">
+<path d="M37.8948 15.032C25.1291 15.671 15.032 26.2376 15.032 39.0192L15.032 96.5513L46.89 64.6927L47.827 63.756C55.299 57.2794 64.8444 57.3769 72.3764 63.9431L73.3137 64.6927L86.9936 78.5609L88.8676 76.6863L89.8049 75.7496C97.2763 69.2731 106.822 69.3708 114.354 75.9367L115.291 76.6863L134.968 96.5513L134.968 39.0192L134.968 37.8948C134.329 25.1291 123.762 15.032 110.981 15.032L39.0192 15.032L37.8948 15.032ZM92.2408 45.016L92.9904 45.016L93.74 45.016C96.757 45.3748 98.9872 47.9748 98.9872 51.0128C98.9872 54.0508 96.7564 56.6507 93.74 57.0096L92.9904 57.0096L92.2408 57.0096C89.2238 56.6507 86.9936 54.0508 86.9936 51.0128C86.9936 47.9748 89.2244 45.3748 92.2408 45.016Z" fill="#d72adf" fill-opacity="0.784965" fill-rule="nonzero" filter="url(#Filter)" stroke="#232423" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="4" layerName="path" shadowAngle="2.37365" shadowColor="#000000" shadowOffset="1.99195" shadowOpacity="0.75" shadowRadius="5.9968"/>
+<path d="M60.008 71.0649C58.6235 71.0565 57.2555 71.6118 55.8852 72.7512L55.323 73.3137L15.2194 113.417C16.4427 125.681 26.694 134.967 39.0192 134.968L110.981 134.968L112.293 134.968C124.136 134.359 133.607 125.218 134.781 113.417L106.858 85.3073L106.108 84.7448C103.302 82.4001 100.603 82.466 97.8628 84.7448L97.3009 85.3073L95.4263 86.9936L103.298 94.6767L103.672 95.2392C105.523 97.6265 105.433 101.162 103.298 103.298C101.162 105.433 97.6265 105.523 95.2392 103.672L94.6767 103.298L64.8804 73.3137L64.1308 72.7512C62.7275 71.5788 61.3925 71.0727 60.008 71.0649Z" fill="#07eff8" fill-rule="nonzero" filter="url(#Filter_2)" stroke="#232423" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="4" layerName="path" shadowAngle="2.37207" shadowColor="#000000" shadowOffset="2.39872" shadowOpacity="0.75" shadowRadius="5.9968"/>
+</g>
+</g>
+<g opacity="1">
+<path d="M94.4144 40.1663C99.6636 40.1663 103.919 44.4214 103.919 49.6702C103.919 54.9191 99.6636 59.1741 94.4144 59.1741C89.1658 59.1741 84.9107 54.9191 84.9107 49.6702C84.9107 44.4214 89.1658 40.1663 94.4144 40.1663Z" fill="#fdfdfd" fill-rule="nonzero" opacity="1" stroke="none" layerName="path"/>
+<path d="M94.4147 40.6902C89.4549 40.6902 85.4347 44.7106 85.4347 49.6702C85.4347 54.6299 89.4549 58.6503 94.4147 58.6503C99.3745 58.6503 103.395 54.6299 103.395 49.6702C103.395 44.7106 99.3745 40.6902 94.4147 40.6902ZM94.4147 56.8543C90.4474 56.8543 87.2306 53.6376 87.2306 49.6702C87.2306 45.7029 90.4474 42.4862 94.4147 42.4862C98.382 42.4862 101.599 45.7029 101.599 49.6702C101.599 53.6376 98.382 56.8543 94.4147 56.8543Z" fill="#fd9304" fill-rule="nonzero" opacity="1" stroke="#fd9304" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="0.716536" layerName="path"/>
+<path d="M94.4147 39.4598C88.7755 39.4598 84.2042 44.0312 84.2042 49.6703C84.2042 55.3093 88.7755 59.8806 94.4147 59.8806C100.054 59.8806 104.625 55.3093 104.625 49.6703C104.625 44.0312 100.054 39.4598 94.4147 39.4598Z" fill="#fd9304" fill-opacity="0.95" fill-rule="nonzero" filter="url(#Filter_3)" stroke="none" layerName="path" shadowAngle="2.37365" shadowColor="#000000" shadowOffset="1.08181" shadowOpacity="0.3" shadowRadius="3.17448"/>
+<path d="M94.4144 42.3868C98.4372 42.3868 101.698 45.6477 101.698 49.6702C101.698 53.6927 98.4372 56.9536 94.4144 56.9536C90.3921 56.9536 87.1312 53.6927 87.1312 49.6702C87.1312 45.6477 90.3921 42.3868 94.4144 42.3868Z" fill="#ffd103" fill-opacity="0.9" fill-rule="nonzero" filter="url(#Filter_4)" stroke="none" layerName="path" shadowAngle="2.37365" shadowColor="#000000" shadowOffset="0.802224" shadowOpacity="0.3" shadowRadius="2.45079"/>
+</g>
+</g>
+</svg>

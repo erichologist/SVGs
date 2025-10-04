@@ -1,0 +1,15 @@
+<svg width="100%" height="100%" stroke-miterlimit="10" viewBox="0 0 100 100" fill="none" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;transform: rotateY(0deg);" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><style>
+     .line-download1 {animation:line-download1-arrow 2s infinite;}
+     @keyframes line-download1-arrow {
+         0%{transform:translate3d(0, 0px, 0);}
+         50%{transform:translate3d(0, 6px, 0);}
+         100%{transform:translate3d(0, 0px, 0);}
+     }
+     @media (prefers-reduced-motion: reduce) {
+         .line-download1 {
+             animation: none;
+         }
+     }
+    </style><defs><filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="62.0341" id="Filter" width="89.9341" x="4.45897" y="7.33975"><feDropShadow dx="-0.573979" dy="0.331387" flood-color="#000000" flood-opacity="0.5" in="SourceGraphic" result="Shadow" stdDeviation="0.946819"/></filter><filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="46.8325" id="Filter_2" width="32.4424" x="35.434" y="44.8906"><feDropShadow dx="-0.573979" dy="0.331387" flood-color="#000000" flood-opacity="0.5" in="SourceGraphic" result="Shadow" stdDeviation="0.946819"/></filter></defs><path class="stroke1" d="M37.464 66.5938C36.4929 65.0264 22.7033 59.8141 17.7935 56.168C-6.2139 38.3399 26.5767 0.643169 51.2852 16.5442C57.898 20.7998 59.6923 27.6754 62.5529 34.6562C75.6551 26.1888 90.65 32.9483 89.1785 49.791C87.8254 65.278 60.9707 61.0448 62.3294 66.7639C69.4146 66.4313 81.9722 66.4693 87.3065 60.6729C102.256 44.4283 84.0555 21.242 64.2404 29.6875C61.1204 22.7471 59.2415 18.5216 52.9981 13.8392C22.6917-8.89018-13.4855 46.1948 21.6779 62.4375C28.3726 65.5299 38.4351 68.1611 37.464 66.5938Z" fill="none" filter="url(#Filter)" stroke="#0fe0ff" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="3.2" layerName="path" shadowAngle="2.61799" shadowColor="#000000" shadowOffset="0.662773" shadowOpacity="0.5" shadowRadius="1.89364" style="animation-duration: 1.1s;"></path><path class="line-download1 stroke2" d="M48.0684 54.5484L48.0684 76.015L52.1831 76.015C52.1993 76.015 52.1831 76.015 52.1831 76.015L52.1831 54.58C52.1831 54.58 51.3651 53.775 50 53.775C48.6349 53.775 48.0684 54.5484 48.0684 54.5484ZM38.8171 76.7853L50 90.822L61.1829 76.7853C61.508 76.3773 61.3486 76.0465 60.8269 76.0465L52.1831 76.015L48.0684 76.015L39.1731 76.0465C38.6514 76.0465 38.492 76.3773 38.8171 76.7853Z" fill="#f5f4f4" fill-rule="nonzero" filter="url(#Filter_2)" stroke="none" shadowAngle="2.61799" shadowColor="#000000" shadowOffset="0.662773" shadowOpacity="0.5" shadowRadius="1.89364" style="animation-duration: 1.1s;"></path></svg>
+    
+    

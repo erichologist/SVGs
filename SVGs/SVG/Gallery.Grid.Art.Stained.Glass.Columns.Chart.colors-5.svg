@@ -1,0 +1,16 @@
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="-0.45006 -1.00619 99.0613 102.909" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="102.909" id="Filter" width="99.0613" x="-0.45006" y="-1.00619">
+<feDropShadow dx="-0.919408" dy="0.448425" flood-color="#000000" flood-opacity="0.49" in="SourceGraphic" result="Shadow" stdDeviation="1.04564"/>
+</filter>
+</defs>
+<g id="Layer" layerName="Layer">
+<g opacity="1" layerName="Group 2">
+<path d="M86.2704 96.6333L13.7296 96.6333C8.02992 96.6333 3.36672 91.9699 3.36672 86.2704L3.36672 13.7296C3.36672 8.02992 8.02992 3.3665 13.7296 3.3665L86.2704 3.3665C91.9701 3.3665 96.6333 8.02992 96.6333 13.7296L96.6333 86.2704C96.6333 98.5864 96.6333 96.6333 86.2704 96.6333Z" fill="#ffc107" fill-rule="nonzero" opacity="1" stroke="none" layerName="path"/>
+<path d="M87.1009 3.3665C76.2185 3.38789 53.7373 3.3665 53.7373 3.3665L53.7373 44.0709L96.6333 44.0709L96.6333 10.7674C96.6333 3.3479 96.6333 3.3479 87.1009 3.3665Z" fill="#4caf50" fill-rule="nonzero" opacity="1" stroke="none" layerName="path 1"/>
+<path d="M3.36672 91.3045C3.36672 96.7466 3.36672 96.7466 14.5601 96.6333C27.2225 96.5052 53.7373 96.6333 53.7373 96.6333L53.7373 67.4576L3.36672 67.4576L3.36672 91.3045Z" fill="#ff4081" fill-rule="nonzero" opacity="1" stroke="none" layerName="path 2"/>
+<path d="M53.7373 67.4576L53.7373 3.38361L14.5601 3.38361C13.0693 3.38361 13.7296 3.38361 9.73924 3.36479C6.93849 3.35175 3.36672 5.95893 3.36672 11.3844L3.36672 67.4576L53.7373 67.4576Z" fill="#aa00ff" fill-rule="nonzero" opacity="1" stroke="none" layerName="path 3"/>
+<path d="M8.98964 97.8554L91.0104 97.8554C93.7237 97.8554 95.9316 95.378 95.9316 92.3335L95.9316 7.66627C95.9316 4.62201 93.7237 2.14443 91.0104 2.14443L8.98964 2.14443C6.27633 2.14443 4.0684 4.6218 4.0684 7.66627L4.0684 92.3337C4.0684 95.3782 6.27633 97.8556 8.98943 97.8556L8.98964 97.8554ZM56.5617 5.82573L91.0104 5.82573C91.9143 5.82573 92.6508 6.65025 92.6508 7.66627L92.6508 42.6376L56.5617 42.6376L56.5617 5.82573ZM56.5617 46.3187L92.6508 46.3187L92.6508 92.3335C92.6508 93.3495 91.9143 94.1743 91.0104 94.1743L56.5617 94.1743L56.5617 46.3187ZM7.34922 7.66627C7.34922 6.65025 8.08569 5.82573 8.98964 5.82573L53.2808 5.82573L53.2808 64.7245L7.34922 64.7245L7.34922 7.66627ZM7.34922 68.4058L53.2808 68.4058L53.2808 94.1743L8.98943 94.1743C8.08569 94.1743 7.34922 93.3495 7.34922 92.3335L7.34922 68.4058Z" fill="#000000" fill-rule="nonzero" filter="url(#Filter)" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1.96991" layerName="path 4" shadowAngle="2.68781" shadowColor="#000000" shadowOffset="1.02293" shadowOpacity="0.49" shadowRadius="2.09128"/>
+</g>
+</g>
+</svg>

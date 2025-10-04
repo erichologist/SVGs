@@ -1,0 +1,11 @@
+<svg viewBox="0 0 48 48" width="100%" height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <style>
+@keyframes Combined-Shape-2_do { 0% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: -122px; } }
+@keyframes Combined-Shape-3_do { 0% { stroke-dashoffset: -113px; } 100% { stroke-dashoffset: -235px; } }
+    </style>
+    <title>stat24_cloud_disconnect copy</title>
+<g fill="none" opacity="1" stroke="#2355ce" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+    <path id="Combined-Shape-2" d="M37.9633 20.4727C42.7983 19.5404 47.3622 22.9707 48.5292 27.6435C49.8579 32.964 46.2766 38.3341 40.6365 39.899C39.2771 40.2761 35.1621 40.4232 35.1621 40.4232C36.4524 40.4028 13.4319 40.3573 13.4319 40.3573C7.88343 40.2917 3.79634 37.0921 3.44375 32.15C3.14705 27.9915 5.8615 24.2606 9.80614 22.9382C10.5494 22.6891 9.72502 23.1793 9.75696 22.7945C10.3586 15.5471 16.5137 9.85042 24.0181 9.85042C29.3467 9.85042 33.9949 12.7226 36.4578 16.9826C36.9592 17.8499 37.6557 19.5029 37.9633 20.4727Z" stroke-dasharray="2.0,120.0,2.0,120.0"  style="animation: Combined-Shape-2_do 2s linear infinite both;"/>
+    <path id="Combined-Shape-3" d="M37.9633 20.4727C42.7983 19.5404 47.3622 22.9707 48.5292 27.6435C49.8579 32.964 46.2766 38.3341 40.6365 39.899C39.2771 40.2761 35.1621 40.4232 35.1621 40.4232C36.4524 40.4028 13.4319 40.3573 13.4319 40.3573C7.88343 40.2917 3.79634 37.0921 3.44375 32.15C3.14705 27.9915 5.8615 24.2606 9.80614 22.9382C10.5494 22.6891 9.72502 23.1793 9.75696 22.7945C10.3586 15.5471 16.5137 9.85042 24.0181 9.85042C29.3467 9.85042 33.9949 12.7226 36.4578 16.9826C36.9592 17.8499 37.6557 19.5029 37.9633 20.4727Z"  stroke-dasharray="111.50526548678947,16.83098346970407,111.50526548678947,16.83098346970407" style="animation: Combined-Shape-3_do 2s linear infinite both;" opacity="0.711055" stroke="#00fbff" />
+</g>
+</svg>

@@ -1,0 +1,28 @@
+<svg width="100%" height="100%" viewBox="-4.27758 -2.12746 106.99 106.5" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="106.5" id="Filter" width="106.99" x="-4.27758" y="-2.12746">
+<feDropShadow dx="-0.782585" dy="0.622544" flood-color="#000000" flood-opacity="0.55" in="SourceGraphic" result="Shadow" stdDeviation="1.5"/>
+</filter>
+<linearGradient gradientTransform="matrix(1.0102 0 0 1.0102 -0.0126531 -1.02041)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="36.6562" x2="98.75" y1="51" y2="51">
+<stop offset="0" stop-color="#7600ff"/>
+<stop offset="1" stop-color="#4000a0"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(2.46896 0 0 2.46896 -58.5644 -146.896)" gradientUnits="userSpaceOnUse" id="LinearGradient_2" x1="23.8235" x2="36.8311" y1="88.232" y2="88.232">
+<stop offset="0" stop-color="#cc00b9"/>
+<stop offset="0.669737" stop-color="#a60095"/>
+<stop offset="1" stop-color="#800073"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(2.64218 0 0 2.64218 -64.6398 -160.669)" gradientUnits="userSpaceOnUse" id="LinearGradient_3" x1="26.029" x2="34.6257" y1="69.8462" y2="69.8462">
+<stop offset="0" stop-color="#cc00b9"/>
+<stop offset="0.669737" stop-color="#a60095"/>
+<stop offset="1" stop-color="#800073"/>
+</linearGradient>
+</defs>
+<g filter="url(#Filter)" layerName="Serif" shadowAngle="2.4696" shadowColor="#000000" shadowOffset="1" shadowOpacity="0.55" shadowRadius="3">
+<path d="M76.0683 1C48.9795 1 49.3926 21.867 49.3926 21.867L49.3926 38.0619L48.5718 38.0619L38.9433 38.0619L37.0176 50.5L48.4456 50.5L49.3926 50.5L49.3926 90.5647L36.678 92.3427L36.6799 99.9881L86.5176 100L86.5176 92.3427L67.9551 90.1808L67.9551 50.5L86.3914 50.5L89.422 40.7136L90.369 38.0619L86.6439 38.0619L67.9551 38.0619L67.9551 18.9311C67.9551 18.9311 69.1555 13.375 74.1426 13.375C75.3894 13.375 76.391 13.666 77.2048 14.1011C78.0187 14.5361 78.6372 15.131 79.099 15.7111C79.8675 16.6767 80.0223 16.8555 80.3301 18.205C80.6379 19.5546 80.4545 21.0835 80.4248 22.1511C80.4199 22.3296 80.3301 22.5931 80.3301 22.5931L94.7887 20.5096L97.8193 20.1307L99.745 20.0045C99.745 20.0045 99.0606 19.6708 99.0821 18.7733C99.0906 18.4147 98.9862 17.9511 98.9242 17.479C98.956 12.9952 97.2027 1 76.0683 1Z" fill="url(#LinearGradient)" fill-rule="nonzero" opacity="1" stroke="none" layerName="F"/>
+<g opacity="1" layerName="I">
+<path d="M32.3702 99.9881L1.63233 99.9881L1.63233 92.1559L7.94787 90.9028C8.98927 90.6939 9.74848 89.7471 9.74848 88.6471L9.74848 55.2716C9.74848 54.2342 9.07661 53.3292 8.11584 53.0577L0.255 50.8368L2.67372 41.8907L26.8475 41.8907L26.8475 89.3642C26.8475 90.4711 27.6067 91.4179 28.6548 91.6198L32.3702 92.3439C32.3702 92.3439 32.3702 100.35 32.3702 99.9881Z" fill="url(#LinearGradient_2)" fill-rule="nonzero" opacity="1" stroke="none" layerName="path"/>
+<path d="M26.8475 23.8774C26.8475 18.0958 21.7628 13.4089 15.4905 13.4089C9.21819 13.4089 4.13349 18.0958 4.13349 23.8774C4.13349 29.659 9.21819 34.3459 15.4905 34.3459C21.7628 34.3459 26.8475 29.659 26.8475 23.8774Z" fill="url(#LinearGradient_3)" fill-rule="nonzero" opacity="1" stroke="none" layerName="Oval 2"/>
+</g>
+</g>
+</svg>

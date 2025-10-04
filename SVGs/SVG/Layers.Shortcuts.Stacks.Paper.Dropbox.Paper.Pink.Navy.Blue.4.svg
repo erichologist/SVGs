@@ -1,0 +1,30 @@
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="-6.0283 2.06977 110.099 100" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(1 0 0 -1 -0.575533 100)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="50.3019" x2="49.4918" y1="16.3979" y2="69.4732">
+<stop offset="0.294572" stop-color="#ff6e6e"/>
+<stop offset="1" stop-color="#e94141"/>
+</linearGradient>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="67.5799" id="Filter" width="110.099" x="-6.0283" y="34.4899">
+<feDropShadow dx="-0.403299" dy="1.44477" flood-color="#000000" flood-opacity="0.55" in="SourceGraphic" result="Shadow" stdDeviation="2.25"/>
+</filter>
+<linearGradient gradientTransform="matrix(1 0 0 1 0 0)" gradientUnits="userSpaceOnUse" id="LinearGradient_2" x1="49.7309" x2="47.5857" y1="72.3453" y2="-7.23981">
+<stop offset="0" stop-color="#19068f"/>
+<stop offset="1" stop-color="#021df3"/>
+</linearGradient>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="65.1089" id="Filter_2" width="107.599" x="-4.20277" y="18.8903">
+<feDropShadow dx="-0.403299" dy="1.44477" flood-color="#000000" flood-opacity="0.55" in="SourceGraphic" result="Shadow" stdDeviation="1.75"/>
+</filter>
+<linearGradient gradientTransform="matrix(1 0 0 1 0 0)" gradientUnits="userSpaceOnUse" id="LinearGradient_3" x1="50.3019" x2="50.5488" y1="16.3979" y2="97.1365">
+<stop offset="0.294572" stop-color="#ff6e6e"/>
+<stop offset="1" stop-color="#e94141"/>
+</linearGradient>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="65.0799" id="Filter_3" width="107.599" x="-4.20277" y="2.06977">
+<feDropShadow dx="-0.403299" dy="1.44477" flood-color="#000000" flood-opacity="0.55" in="SourceGraphic" result="Shadow" stdDeviation="1.75"/>
+</filter>
+</defs>
+<g opacity="1">
+<path d="M49.4245 95L98.8489 66.8205L49.4245 38.6701L0 66.8496L49.4245 95Z" fill="url(#LinearGradient)" fill-rule="evenodd" filter="url(#Filter)" stroke="none" shadowAngle="1.84301" shadowColor="#000000" shadowOffset="1.5" shadowOpacity="0.55" shadowRadius="4.5"/>
+<path d="M50 21.8205L99.4245 50L50 78.1795L0.575533 50L50 21.8205Z" fill="url(#LinearGradient_2)" fill-rule="evenodd" filter="url(#Filter_2)" stroke="none" shadowAngle="1.84301" shadowColor="#000000" shadowOffset="1.5" shadowOpacity="0.55" shadowRadius="3.5"/>
+<path d="M50 5L99.4245 33.1795L50 61.3299L0.575533 33.1504L50 5Z" fill="url(#LinearGradient_3)" fill-rule="evenodd" filter="url(#Filter_3)" stroke="none" shadowAngle="1.84301" shadowColor="#000000" shadowOffset="1.5" shadowOpacity="0.55" shadowRadius="3.5"/>
+</g>
+</svg>

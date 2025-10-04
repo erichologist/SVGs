@@ -1,0 +1,28 @@
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 100 100" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="80.7504" id="Filter" width="83.9647" x="8.01767" y="2.19072">
+<feDropShadow dx="6.63615e-17" dy="1.08377" flood-color="#000000" flood-opacity="0.55" in="SourceGraphic" result="Shadow" stdDeviation="1.55722"/>
+</filter>
+<linearGradient gradientTransform="matrix(1 0 0 1 0 0)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="21.2321" x2="78.7679" y1="50.9643" y2="50.9643">
+<stop offset="0" stop-color="#760002"/>
+<stop offset="0.385526" stop-color="#ba0004"/>
+<stop offset="0.427632" stop-color="#ba0004"/>
+<stop offset="0.467105" stop-color="#ba0004"/>
+<stop offset="0.503947" stop-color="#ba0004"/>
+<stop offset="0.560526" stop-color="#ba0004"/>
+<stop offset="0.627632" stop-color="#ba0004"/>
+<stop offset="1" stop-color="#760002"/>
+</linearGradient>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="16.1432" id="Filter_2" width="65.3218" x="17.3391" y="43.9764">
+<feDropShadow dx="6.63615e-17" dy="1.08377" flood-color="#000000" flood-opacity="0.55" in="SourceGraphic" result="Shadow" stdDeviation="1.55722"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="33.5004" id="Filter_3" width="68.2147" x="15.732" y="66.4764">
+<feDropShadow dx="6.63615e-17" dy="1.08377" flood-color="#000000" flood-opacity="0.55" in="SourceGraphic" result="Shadow" stdDeviation="1.55722"/>
+</filter>
+</defs>
+<g opacity="1">
+<path d="M85.5179 43.25L85.5179 40.3571C85.5239 38.8208 84.9162 37.3457 83.8299 36.2594C82.7436 35.1731 81.2684 34.5654 79.7321 34.5714L19.9464 34.5714C18.4101 34.5654 16.935 35.1731 15.8487 36.2594C14.7623 37.3457 14.1547 38.8208 14.1607 40.3571L14.1607 43.25C12.8346 44.0996 11.9975 45.5346 11.9107 47.1071L11.9107 54.8214C11.9164 56.4172 12.7745 57.8882 14.1607 58.6786L14.1607 61.5714C14.1547 63.1077 14.7623 64.5828 15.8487 65.6692C16.935 66.7555 18.4101 67.3632 19.9464 67.3571L80.0536 67.3571C81.5899 67.3632 83.065 66.7555 84.1513 65.6692C85.2377 64.5828 85.8453 63.1077 85.8393 61.5714L85.8393 58.6786C87.1654 57.829 88.0025 56.3939 88.0893 54.8214L88.0893 47.1071C87.8296 45.5103 86.892 44.1039 85.5179 43.25ZM49.8393 5C33.9106 5.05804 20.4657 16.8567 18.3393 32.6429L81.3393 32.6429C79.2129 16.8567 65.7679 5.05804 49.8393 5ZM40.5179 75.7143L59.1607 75.7143L61.0893 77.9643L63.9821 75.7143L61.0893 72.1786L38.5893 72.1786L35.6964 75.7143L38.5893 77.9643L40.5179 75.7143Z" fill="#efefef" fill-rule="nonzero" filter="url(#Filter)" stroke="none" shadowAngle="1.5708" shadowColor="#000000" shadowOffset="1.08377" shadowOpacity="0.55" shadowRadius="3.11443"/>
+<path d="M74.2679 55.1429L25.4107 55.1429C23.103 55.1429 21.2321 53.272 21.2321 50.9643C21.2321 48.6565 23.103 46.7857 25.4107 46.7857L74.5893 46.7857C76.8798 46.8269 78.7267 48.6738 78.7679 50.9643C78.472 53.2602 76.5793 55.0176 74.2679 55.1429Z" fill="url(#LinearGradient)" fill-rule="nonzero" filter="url(#Filter_2)" stroke="none" shadowAngle="1.5708" shadowColor="#000000" shadowOffset="1.08377" shadowOpacity="0.55" shadowRadius="3.11443"/>
+<path d="M72.6607 69.2857L72.6607 81.5C72.5492 84.8256 69.8792 87.4957 66.5536 87.6071L63.3393 87.6071C62.5928 87.5586 61.8975 87.2109 61.4107 86.6429L57.5536 81.5C57.1672 80.8157 56.4043 80.4342 55.625 80.5357L44.0536 80.5357C43.4576 80.5478 42.8864 80.7763 42.4464 81.1786L38.2679 86.3214C37.8815 87.0058 37.1186 87.3872 36.3393 87.2857L33.125 87.2857C29.7994 87.1742 27.1293 84.5042 27.0179 81.1786L27.0179 69.2857L19.625 69.2857L19.625 81.5C19.6689 88.9376 25.6874 94.9561 33.125 95L66.5536 95C73.9912 94.9561 80.0097 88.9376 80.0536 81.5L80.0536 69.2857L72.6607 69.2857Z" fill="#efefef" fill-rule="nonzero" filter="url(#Filter_3)" stroke="none" shadowAngle="1.5708" shadowColor="#000000" shadowOffset="1.08377" shadowOpacity="0.55" shadowRadius="3.11443"/>
+</g>
+</svg>

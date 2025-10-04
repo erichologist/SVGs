@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100%" height="100%"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="Clock.Circle.Bold.Duotone.Pink.Animated.loop.2.svg"
+   inkscape:version="1.3-beta (cedbd6c, 2023-05-28)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <g
+     id="g2"
+     transform="matrix(1.2,0,0,1.2,-2.4,-2.4)"
+     inkscape:label="g2">
+    <g
+       fill="#d5004a"
+       id="g1"
+       inkscape:label="g1">
+      <path
+         d="M 12,22 C 17.523,22 22,17.523 22,12 22,6.477 17.523,2 12,2 6.477,2 2,6.477 2,12 2,17.523 6.477,22 12,22 Z"
+         opacity="0.3"
+         id="path1" />
+    </g>
+    <rect
+       width="2"
+       height="7"
+       x="11"
+       y="6"
+       fill="#FFFFFF"
+       rx="1"
+       id="rect1">
+      <animateTransform
+         attributeName="transform"
+         dur="12s"
+         repeatCount="indefinite"
+         type="rotate"
+         values="0 12 12;360 12 12" />
+    </rect>
+    <rect
+       width="2"
+       height="9"
+       x="11"
+       y="11"
+       fill="#FFFFFF"
+       rx="1"
+       id="rect2">
+      <animateTransform
+         attributeName="transform"
+         dur="0.75s"
+         repeatCount="indefinite"
+         type="rotate"
+         values="0 12 12;360 12 12" />
+    </rect>
+  </g>
+</svg>

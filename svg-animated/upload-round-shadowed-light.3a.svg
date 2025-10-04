@@ -1,0 +1,13 @@
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 100 100" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><style>
+     .line-upload1 {animation:line-upload1 2s infinite;}
+     @keyframes line-upload1 {
+         0%{transform:translate3d(0, -12px, 0);}
+         50%{transform:translate3d(0, 9px, 0);}
+         100%{transform:translate3d(0, -12px, 0);}
+     }
+     @media (prefers-reduced-motion: reduce) {
+         .line-upload1 {
+             animation: none;
+         }
+     }
+    </style><defs><filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="33.6153" id="Filter" width="70.3927" x="14.1546" y="59.5719"><feDropShadow dx="-0.649029" dy="0.262225" flood-color="#000000" flood-opacity="0.8" in="SourceGraphic" result="Shadow" stdDeviation="0.93" style="animation-duration: 2s;"/></filter><filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="72.2827" id="Filter_2" width="41.8" x="28.2664" y="9.10555"><feDropShadow dx="-0.83359" dy="0.863208" flood-color="#000000" flood-opacity="0.4" in="SourceGraphic" result="Shadow" stdDeviation="1.65" style="animation-duration: 2s;"/></filter></defs><g id="upload.round.shadowed.6" layerName="upload.round.shadowed.6"><path class="stroke2" d="M18.7286 63.2347L18.7286 80.4116C18.7286 85.1548 22.4622 89 27.0677 89L72.9323 89C77.5378 89 81.2714 85.1548 81.2714 80.4116L81.2714 63.2347" fill="none" filter="url(#Filter)" stroke="#efefef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.2" layerName="stroke2" shadowAngle="2.75762" shadowColor="#000000" shadowOffset="0.7" shadowOpacity="0.8" shadowRadius="1.86" style="animation-duration: 2s;"/><path class="line-upload1 stroke1" d="M50.1298 73.5L50.0003 16.5M63.875 30.41L50.0003 16.4792L36.1266 30.44M36.125 30.44C43.0625 30.4325 63.875 30.41 63.875 30.41" fill="#00ffa7" fill-rule="nonzero" filter="url(#Filter_2)" stroke="#00ffa7" stroke-linecap="round" stroke-linejoin="miter" stroke-width="5.8" layerName="line-upload1 stroke1" shadowAngle="2.33874" shadowColor="#000000" shadowOffset="1.2" shadowOpacity="0.4" shadowRadius="3.3" style="animation-duration: 2s;"/></g></svg>
