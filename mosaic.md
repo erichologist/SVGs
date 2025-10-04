@@ -99,7 +99,7 @@
 | ![Reddit.Yellow-Green.Animated.Loop] | ![Reddit.Yellow-Pink.Animated.Loop-2] | ![Reddit.Yellow-Pink.Animated.Loop] | ![Regex.Dot.All.Glassy.Pink] | ![Regex.Dot.All.Green.White] | ![Regex.Dot.All.Pink-White] | ![50px] |
 | ![Regex.Dot.All.Pink.White] | ![Regex.Dot.All.Red.White.2] | ![Regex.Dot.All.Solid.Pink.White-2] | ![Regex.Dot.All.Solid.Pink.White-3] | ![Regex.Dot.All.Solid.Pink.White-4] | ![Regex.Dot.All.Solid.White-2] | ![50px] |
 | ![Regex.Dot.All.Solid.White-3] | ![Regex.Dot.All.White.3] | ![Regex.Dot.All.Yellow.White] | ![Regex.Escape.Pink.White.4] | ![Regex.Escape.Select.Brackets.Yellow.White.2] | ![Regex.Escape.Selected.Brackets.Pink.White-2] | ![50px] |
-| ![Regex.Escape.Selected.Brackets.Pink.White-6] | ![Regex.Escape.Selected.Brackets.Pink.White-7] | ![Regex.Escape.Selected.Brackets.Pink.White-8] | ![Regex.Escape.Selected.Brackets.Pink.White.9] | ![Regex.Escape.Selected.Brackets.White.4] | ![Regex.Escape.Selected.Parentheses.Pink.White.3] | ![50px] |
+| ![Regex.Escape.Selected.Brackets.Pink.White-6] | ![Regex.Dot.All.Solid.White-3] | ![Regex.Escape.Selected.Brackets.Pink.White-8] | ![Regex.Escape.Selected.Brackets.Pink.White-9] | ![Regex.Escape.Selected.Brackets.White.4] | ![Regex.Escape.Selected.Parentheses.Pink.White.3] | ![50px] |
 | ![Regex.Escape.Selected.Parentheses.White] | ![Regex.Escape.Solid.Dot.White] | ![Regex.Escape.Yellow.White.2] | ![Regex.Magnifying.Glass.Search.Replace.Pink] | ![Regex.Selected.Braces-Blue.Green] | ![Regex.Selected.Braces-Pink.EFEFEF.Wide] | ![50px] |
 | ![Regex.Selected.Braces-Pink.White.Yellow-2] | ![Regex.Selected.Braces-Pink.White.Yellow] | ![Regex.Selected.Braces-Pink.Yellow.2] | ![Regex.Selected.Braces-Yellow.Pink.White.4] | ![Regex.Selected.Brackets-Green.Pink.White] | ![Regex.Selected.Parentheses-Pink.White.2] | ![50px] |
 | ![Regex.Selected.Parentheses-Pink.Yellow] | ![Regex.Un-Escape.Special.Characters.3] | ![Regex.Un-Escape.Special.Characters.Selected] | ![Robocop.Light] | ![Robot.AR.VR.DIY.Pink.Navy.Blue] | ![RSS.Simple.Duotone.Fuchsia.Shadow.2] | ![50px] |
@@ -702,11 +702,11 @@
 [Regex.Dot.All.Yellow.White]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Dot.All.Yellow.White.svg
 [Regex.Escape.Pink.White.4]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Pink.White.4.svg
 [Regex.Escape.Select.Brackets.Yellow.White.2]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Select.Brackets.Yellow.White.2.svg
-[Regex.Escape.Selected.Brackets.Pink.White-2]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Selected.Brackets.Pink.White..2.svg
-[Regex.Escape.Selected.Brackets.Pink.White-6]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Selected.Brackets.Pink.White..6.svg
-[Regex.Escape.Selected.Brackets.Pink.White-7]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Selected.Brackets.Pink.White..7.svg
-[Regex.Escape.Selected.Brackets.Pink.White-8]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Selected.Brackets.Pink.White..8.svg
-[Regex.Escape.Selected.Brackets.Pink.White-9]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Selected.Brackets.Pink.White.8.svg
+[Regex.Escape.Selected.Brackets.Pink.White-2]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Selected.Brackets.Pink.White-2.svg
+[Regex.Escape.Selected.Brackets.Pink.White-6]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Selected.Brackets.Pink.White-6.svg
+[Regex.Escape.Selected.Brackets.Pink.White-7]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Selected.Brackets.Pink.White-7.svg
+[Regex.Escape.Selected.Brackets.Pink.White-8]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Selected.Brackets.Pink.White-8.svg
+[Regex.Escape.Selected.Brackets.Pink.White-9]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Selected.Brackets.Pink.White-9.svg
 [Regex.Escape.Selected.Brackets.White.4]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Selected.Brackets.White.4.svg
 [Regex.Escape.Selected.Parentheses.Pink.White.3]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Selected.Parentheses.Pink.White.3.svg
 [Regex.Escape.Selected.Parentheses.White]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Selected.Parentheses.White.svg
