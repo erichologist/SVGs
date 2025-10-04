@@ -2,131 +2,131 @@
 
 
 
-| ![50x10] | ![50x10] | ![50x10] | ![50x10] | ![50x10] | ![50x10] |
-| :---: | :---: | :---: | :---: | :---: | :---:|
-| ![50px] | ![50px] | ![50px] | ![50px] | ![50px] | ![50px] |
-| ![AdBlock.Middle.Finger] | ![Adguard.Rasterized] | ![Adguard] | ![Align.Justified.Blue.Animated.Loop] | ![Align.Justified.Blue.Animated] | ![Align.Justified.Pink.Animated.Loop] |
-| ![Align.Lines.Animated.Loop-2] | ![Align.Lines.Animated.Loop-3] | ![Align.Lines.Animated.Loop-4] | ![Align.Lines.Animated.Loop-5] | ![Align.Lines.Animated.Loop-6] | ![Align.Lines.Animated.Loop-7] |
-| ![Align.Lines.Animated.Loop-8] | ![Align.Lines.Animated.Loop-9] | ![Align.Lines.Animated.Loop-11] | ![Align.Lines.Animated.Loop] | ![Align.Right.Blue.Animated] | ![ALPHATVET.Animated.Loop-2] |
-| ![ALPHATVET.Animated.Loop] | ![archive.is-2] | ![archive.is-3] | ![archive.is] | ![Archive.org.Crop] | ![Archive.org] |
-| ![Arrow.Curved.Spinning.Reload.Animated.Loop] | ![Arrow.Down.Animated.Loop] | ![Arrow.Incoming.to.Box-3] | ![Arrow.Outgoing.from.Box.Animated.loop-2] | ![Arrow.Outgoing.from.Box.Animated.loop-3] | ![Arrow.Outgoing.from.Box.Animated.loop] |
-| ![Arrow.To-Left.Animated.Loop] | ![Arrow.To-Right.Animated.Loop] | ![Arrows.Curved.Spinning.Refresh.Animated.Loop-2] | ![Arrows.Curved.Spinning.Refresh.Animated.Loop] | ![Arrows.Refresh.Blue.Animated.Loop] | ![Arrows.Refresh.Pink.Animated.Loop] |
-| ![Arrows.Refresh.Red.Animated.Loop] | ![Art.Dali.Shadowed] | ![Art.Dali] | ![Art.Graphic.Woman] | ![Art.Mondrian.Frameless] | ![Art.Mondrian] |
-| ![Art.Picasso] | ![Art.Son.of.Man.Magritte] | ![Art.Statue] | ![Astronaut.Animated.loop.2] | ![Astronaut.Animated.loop.3] | ![Astronaut.Animated.loop.4] |
-| ![Atom.Electron.Blue.Pink.Animated.Loop] | ![Atom.Electron.Green.Pink.Animated.Loop] | ![Atom.Electron.Purple.Pink.Animated.Loop] | ![Atom.Electron.White.Blue.Animated.Loop] | ![Audio.Sound.Bars.Slow.Green.Animated.Loop] | ![Audio.Sound.Bars.Slow.Pink.Animated.Loop-2] |
-| ![Audio.Sound.Bars.Slow.Pink.Animated.Loop-3] | ![Audio.Sound.Bars.Slow.Pink.Animated.Loop-4] | ![Audio.Sound.Bars.Slow.Pink.Animated.Loop-5] | ![Audio.Sound.Bars.Slow.Pink.Animated.Loop-6] | ![Audio.Sound.Bars.Slow.Pink.Animated.Loop-7] | ![Audio.Sound.Bars.Slow.Pink.Animated.Loop-8] |
-| ![Audio.Sound.Bars.Slow.Pink.Animated.Loop-9] | ![Audio.Sound.Bars.Slow.Pink.Animated.Loop-10] | ![Audio.Sound.Bars.Slow.Pink.Animated.Loop] | ![Audio.Sound.Bars.Slow.Yellow.Animated.loop-2] | ![Audio.Speaker.Animated.Loop] | ![Automator.Head] |
-| ![Automator] | ![B.Bold] | ![Backhand.Index.Pointing.Down] | ![Backhand.Index.Pointing.Up.Color.Default] | ![backspace] | ![Ball.Triangle.CurrentColor.Animated.loop] |
-| ![bars-scale-middle-wave-pink-animated-loop-7] | ![Bars.Scale.Left.Right.Blue.Animated.Loop] | ![Bars.Scale.Middle.Out.Fast.Yellow.Animated.loop] | ![Bars.Scale.Middle.Wave.Fast.Green.Animated.loop-2] | ![Bars.Scale.Middle.Wave.Fast.Green.Animated.Loop] | ![Bars.Scale.Middle.Wave.Fast.Pink.Animated.Loop-2] |
-| ![Bars.Scale.Middle.Wave.Fast.Pink.Animated.Loop-3] | ![Bars.Scale.Middle.Wave.Fast.Pink.Animated.Loop-4] | ![Bars.Scale.Middle.Wave.Fast.Pink.Animated.Loop-5] | ![Bars.Scale.Middle.Wave.Fast.Pink.Animated.Loop-6] | ![Bars.Scale.Middle.Wave.Fast.Yellow.Animated.Loop-2] | ![Bars.Scale.Middle.Wave.Fast.Yellow.Animated.loop] |
-| ![Battery.Animated.Loop] | ![battery.Animated] | ![BBC.Culture] | ![BBC] | ![BBEdit] | ![Bear-2] |
-| ![Bear] | ![Binoculars.Animated.loop] | ![Blocks.Four.Scaler.Bright-Blue.Animated.Loop] | ![Blocks.Four.Scaler.Green.Animated.Loop] | ![Blocks.Three.Shuffle.Green.Animated.Loop-2] | ![Blocks.Three.Shuffle.Green.Animated.Loop] |
-| ![Blocks.Two.Shuffle.Pink.Animated.Loop] | ![Blocks.Two.Shuffle.Purple.Animated.Loop] | ![Blocks.Wave.Bright-Blue.Animated.Loop.Animated.Loop] | ![Blocks.Wave.CurrentColor.Animated.loop] | ![blue-control] | ![blue-dash] |
-| ![blue-network] | ![blue-trash] | ![Bluetooth.Animated.Loop] | ![Blur.on] | ![Boobies] | ![Book.Reference] |
-| ![Bookmark] | ![Books.Animated.Loop-m] | ![Books.Animated.Loop] | ![Brackets.Code] | ![Bulletlist.Blue.Animated.loop] | ![Bulletlist.Green.Animated.loop] |
-| ![Bulletlist.Pink.Animated.loop-2] | ![Bulletlist.Pink.Animated.loop-3] | ![Bulletlist.Pink.Animated.loop-5] | ![Bulletlist.Pink.Animated.loop-6] | ![Bulletlist.Pink.Animated.Loop] | ![Bulletlist.Pink.Fill.Mid.Opacity.Animated.loop] |
-| ![Bulletlist.White.Animated.loop] | ![Bulletlist.Yellow.Animated.loop] | ![Button.Arrow.Down] | ![Button.Arrow.Up] | ![Button.BW] | ![Button.Red] |
-| ![Chat.Animated.Loop] | ![Chat.Bump.Dark.Animated.Loop-2] | ![Chat.Bump.Dark.Animated.Loop-3] | ![Chat.Bump.Dark.Animated.Loop] | ![Chat.Bump.Light.Animated.Loop-2] | ![Chat.Bump.Light.Animated.Loop] |
-| ![Check.Mark.round.Green.Animated.Loop-2] | ![Checklist.Fade.In.Out.Blue-White.Animated.Loop] | ![Checklist.Fade.In.Out.Blue.Animated.Loop] | ![Checklist.Fade.In.Out.Pink-White.Animated.Loop] | ![Checklist.Fade.In.Out.Pink.Animated.Loop] | ![Checklist.Fade.In.Out.Yellow.Animated.Loop-2] |
-| ![Checklist.Fade.In.Out.Yellow.Animated.Loop] | ![Checklist.Fade.Pink.Animated.Loop] | ![Checklist.Fade.Yellow.Animated.Loop] | ![Checklist.Yellow.animated.Loop] | ![Chevron.Arrow.Down.Animated.Loop] | ![Chevron.Arrow.Left.Animated.Loop-2] |
-| ![Chevron.Arrow.Left.Animated.Loop-3] | ![Chevron.Arrow.Left.Animated.Loop] | ![Chevron.Arrow.Right.Animated.Loop] | ![Chevron.Arrow.Up.Animated.Loop] | ![Chevron.Arrows.Triple.Down.Pink.Animated.Loop] | ![Clipboard.Editor.Paste.Text.Blue] |
-| ![Clipboard.Editor.Paste.Text.Shadow.Blue.Green.2] | ![Clipboard.Editor.Paste.Text.Shadow.White] | ![Clock.Circle.Bold.Duotone.Blue.Animated.loop-2] | ![Clock.Circle.Bold.Duotone.Blue.Animated.loop-3] | ![Clock.Circle.Bold.Duotone.Blue.Animated.loop-4] | ![Clock.Circle.Bold.Duotone.Blue.Animated.loop-5] |
-| ![Clock.Circle.Bold.Duotone.Blue.Animated.loop-7] | ![Clock.Circle.Bold.Duotone.blue.Animated.loop.2] | ![Clock.Circle.Bold.Duotone.Blue.Animated.loop] | ![Clock.Circle.Bold.Duotone.Pink.Animated.loop-2] | ![Clock.Circle.Bold.Duotone.Pink.Animated.loop-3] | ![Clock.Circle.Bold.Duotone.Pink.Animated.loop-4] |
-| ![Clock.Circle.Bold.Duotone.Pink.Animated.loop-5] | ![Clock.Circle.Bold.Duotone.Pink.Animated.loop-6] | ![Clock.Circle.Bold.Duotone.Pink.Animated.loop-7] | ![Clock.Circle.Bold.Duotone.Pink.Animated.loop-8] | ![Clock.Circle.Bold.Duotone.Pink.Animated.loop-9] | ![Clock.Circle.Bold.Duotone.Pink.Animated.loop-11] |
-| ![Clock.Circle.Bold.Duotone.Pink.Animated.loop] | ![Clock.Circle.Bold.Duotone.Yellow.Animated.loop] | ![Clock.Spinning.Rotating.Dark.Pink.Animated.loop-2] | ![Clock.Spinning.Rotating.Dark.Pink.Animated.loop] | ![Clock.Spinning.Rotating.Fill.Blue-White.Animated.Loop] | ![Clock.Spinning.Rotating.Fill.Pink.White.Animated.loop-2] |
-| ![Clock.Spinning.Rotating.Fill.Purple.Animated.loop] | ![Clock.Spinning.Rotating.Yellow.Animated.Loop-2] | ![cloud-and-sun] | ![Cloud.Alert.Animated.Loop.2] | ![Cloud.Alert.Animated.Loop] | ![Cloud.Animated.Loop] |
-| ![Cloud.Disconnect.Lightning] | ![Cloud.Download.Animated.Loop] | ![Cloud.Download] | ![Cloud.Error.Animated.Loop.2] | ![Cloud.Error.Animated.Loop] | ![Cloud.Outline.Animated.Loop] |
-| ![Cloud.Refresh.Animated.Loop-3] | ![Cloud.Refresh.Animated.Loop-4] | ![Cloud.Sync.Animated.Loop] | ![Cloud.Tags.Loop.CurrentColor.Animated] | ![Cloud.Tags.Mercury.Animated.loop] | ![Cloud.Upload.Animated.Loop] |
-| ![Cloud.Upload.Gradient.Animated.Loop.2] | ![Cloud.Upload.Gradient.Animated.Loop] | ![Cloud.Upload.Light.Blue.Animated.Loop.2] | ![Cloud.Upload.Light.Blue.Animated.Loop] | ![Cloud.Waiting.Animated.Loop] | ![clouds-blue] |
-| ![Clouds.Blue] | ![Clouds.ELMNT.Animated.Loop] | ![Code.Brackets.Green-Blue-Gradient] | ![Code.Brackets.Pink-Yellow-Gradient.Animated.Loop] | ![Code.Brackets.Pink-Yellow-Gradient] | ![Code.Brackets.Pink-Yellow.Animated.Loop] |
-| ![Code.Brackets.Pink-Yellow.Chubby.Animated.Loop] | ![Code.Brackets] | ![Code.JSON.Curly.Brackets] | ![CodePen.Gray] | ![CodePen.Pink] | ![Color-Angled] |
-| ![Color.Palette] | ![Color.Pipette] | ![Compass.Safari.Blue.Animated.Loop] | ![Compass.Safari.Blue.Shadow.Animated.Loop] | ![Compass.Safari.White.Shadow.Animated.Loop-2] | ![Compass.Safari.White.Shadow.Animated.Loop-3] |
-| ![Compass.Safari.White.Shadow.Animated.Loop] | ![control] | ![Coordinate.Cube] | ![CSS.Sharp.Green] | ![CSS.Sharp.Pink] | ![CSS.Sharp.Yellow] |
-| ![CSV] | ![Cursor.Text.Box.Form.Green] | ![Cursor.Text.Box.Form.Pink] | ![Cursor.Text.Box.Form.White] | ![Data.Point.Graph.Animated.Loop] | ![delete-forward] |
-| ![delete-left-right] | ![Dictionary.Translate.Blue-Green] | ![Dictionary.Translate.Blue-Purple] | ![Dictionary.Translate.Red-2] | ![Dictionary.Translate.Red] | ![Dot.Revolve.Animated.Loop] |
-| ![Download.Sketch.1A.Animated.Loop.4] | ![download] | ![Downloading.Fuchsia.Animated.Loop] | ![Downloading.Left.Loop.White.Orange.Gradient.Animated.Loop] | ![Downloading.Loop.Blue.Green.Fuchsia.Gradient.Animated.Loop] | ![Downloading.Loop.Blue.Green.Gradient.Animated.Loop] |
-| ![Downloading.Loop.White.Blue.Gradient.Animated.Loop] | ![Downloading.Orange-Gradient.Animated.Loop] | ![Downloading.White-Gradient.Animated.Loop] | ![Downloading.White-Orange-Gradient.Animated.Loop] | ![Downloads.Animated.Loop.2] | ![Dribbble.Outlined.Pink] |
-| ![Dropbox.3D] | ![Duplicate.Split.Fork.Blue] | ![Duplicate.Split.Fork.Green] | ![Duplicate.Split.Fork.pink.purple] | ![Duplicate.Split.Fork.Purple] | ![Editing.Align.Center.White.Animated.Loop] |
-| ![Elephant] | ![Expand.Horizontally] | ![Expand.Vertically] | ![Eye.Blink.Animated.Loop-2] | ![Eye.Blink.Animated.Loop-3] | ![Eye.Blink.Animated.Loop-4] |
-| ![Eye.Blink.Animated.Loop] | ![Eye.Blink.With.Lashes.Animated.Loop-2] | ![Eye.Blink.With.Lashes.Animated.Loop-4] | ![Eye.In.Speech.Bubble.Color] | ![Feedly.RSS.Green] | ![File.Document.Duplicate-2] |
-| ![File.Document.Lined.Animated.Loop] | ![File.Document.Lined.Colorful.Animated.Loop] | ![File.Document.Lined.Fuchsia.ELMNT.Animated.Loop] | ![File.Type.PDF.Adobe.Earmarked.Red] | ![File.Type.PDF.White] | ![filter] |
-| ![Fingerprint] | ![Folder.Opened.Pink] | ![Font.F.3D] | ![Font.F.Underlined] | ![Font.File.Type.Title.Case.Light.Aa] | ![Font.File.Type.Title.Case.Outlined.Pink.Aa] |
-| ![Font.File.Type.Title.Case.Pink.Aa] | ![Font.Typography.A.Noded.Outlined.Text.Title.2] | ![Font.Typography.A.Noded.Outlined.Text.Title.3] | ![Font.Typography.A.Noded.Outlined.Text.Title.5] | ![Font.Typography.A.Noded.Outlined.Text.Title.6] | ![Font.Typography.lowercase.a.Text.Title.pink-2] |
-| ![Font.Typography.lowercase.a.Text.Title.pink] | ![Font.underline] | ![Fork-2] | ![Fork-3] | ![Fork.Full.3D] | ![Fork] |
-| ![Fork3D] | ![Format.Text.Wrapping.Wrap.2] | ![Frame] | ![Freud] | ![Gallery.Grid.Art.Stained.Glass.Columns.Chart.colors-3] | ![Gallery.Grid.Art.Stained.Glass.Columns.Chart.colors-4] |
-| ![Gallery.Grid.Art.Stained.Glass.Columns.Chart.colors-5] | ![Gallery.Grid.Art.Stained.Glass.Columns.Chart.Light-2] | ![Gallery.Grid.Art.Stained.Glass.Columns.Chart.Light.Shadow] | ![Gallery.Grid.Art.Stained.Glass.Columns.Chart.Shadow] | ![Gear.Animated.Layered.Shadow] | ![Gear.Animated.Loop-2] |
-| ![Gear.Animated.Loop-3] | ![Gear.Animated.Loop] | ![Gear.Settings.cog.pink.blue.Animated.Loop-2] | ![Gem.Blue.3] | ![Gem.Green] | ![Gem.Purple] |
-| ![Gem.Ruby.Red-2] | ![Gem.Ruby.Red-3] | ![Gem.Ruby] | ![Gen.Ruby.Red] | ![Github.Blink.Open.Blue.Animated.Loop-2] | ![Github.Blink.Open.Blue.Animated.Loop-3] |
-| ![Github.Blink.Open.Blue.Animated.Loop] | ![Github.Blink.Open.Yellow.100pt.Animated.Loop] | ![Github.Blink.Shut.Blue.Animated.Loop-2] | ![Github.Blink.Shut.Blue.Animated.Loop-3] | ![Github.Blink.Shut.Blue.Animated.Loop] | ![Github.Blink.Shut.White.Animated.Loop] |
-| ![Github.Cat.Gradient] | ![Github.Cat.Head.Gradient] | ![Github.Cat] | ![Github.Pink.Animated.loop-2] | ![Github] | ![Github.Wink.Blue.Animated.Loop-4] |
-| ![Github.Winking.Blue.Animated.Loop-2] | ![Gizmo] | ![Gladys] | ![Goal-1] | ![Goal-2] | ![Gooey.Balls.Animated.Loop] |
-| ![Grammar.Girl.Larger] | ![Grease.Monkey] | ![Greasy.Fork.Monocle] | ![Gremlin] | ![grey-youtube-5] | ![grid-parallel-workflow] |
-| ![grid.Animated-2] | ![grid.Animated] | ![Grid.Columns.Bar.Chart.Gallery.Dash.Board.Rounded] | ![Grid.CurrentColor.Animated.loop] | ![Grid.Dashboard.Layout.Gallery.Spreadsheet.Table.Columns.Chart.2] | ![Grid.Dashboard.Layout.Gallery.Spreadsheet.Table.Columns.Chart.3] |
-| ![Grid.White] | ![gutenberg-2] | ![Gutenberg.Shadowed] | ![Hacker.News.Hackerrank] | ![Hackernoon] | ![harry.Potter] |
-| ![Hashtag.Pound.Sign.Borderless] | ![Hat.Womans] | ![heart.Animated.loop-4] | ![heart.Animated.loop.4] | ![Hearts.Three.Fade.current.Color.Animated.loop.6] | ![Hearts.Three.Fade.Red.Animated.loop] |
-| ![Highlighter-2] | ![Highlighter-3] | ![Highlighter-4] | ![Highlighter] | ![Hourglass.Light.Animated.Loop] | ![HTML.Green] |
-| ![Image.Photos.Picture.Colorful.Shadows-m] | ![Image.Picture.Photos.2] | ![Image.Picture.Photos.3] | ![Image.Picture.Photos.5] | ![Image.Picture.Photos.7] | ![Image.Picture.Photos.8] |
-| ![Image.Picture.Photos.Add.Insert.white] | ![Image.Picture.Photos.Add.Insert.yellow.pink] | ![Image.Picture.Photos.Add.Pink.and.Yellow-2] | ![Image.Picture.Photos.Add.Pink.and.Yellow] | ![Image.Picture.Photos.Add.Yellow.and.Pink] | ![Image.Picture.Photos.Colorful.Shadows] |
-| ![Image.Picture.Photos.Filled] | ![Image.Picture.Photos.Picture.Auto.Adjust] | ![Image.Picture.Photos.Picture.Filter.Black.white.2] | ![Image.Picture.Photos.Picture.Filter.Black.White.3] | ![Image.Picture.Photos.Picture.JPG.Box.pink] | ![Image.Picture.Photos.Picture.JPG.Box.yellow] |
-| ![Image.Picture.Photos.Pink.Navy.Blue.2] | ![Image.Picture.Photos.Pink.Navy.Blue.3] | ![Image.Picture.Photos.Pink.Navy.Blue.4] | ![Image.Picture.Photos.Pink.Navy.Blue.5] | ![Image.Picture.Photos.Pixel.Gradient.Fill.Blue] | ![Image.Picture.Photos.Pixel.Gradient.Fill.Yellow] |
-| ![Image.Picture.Photos.Pixel.Solid.Fill.Blue] | ![Image.Picture.Photos.Pixel.Solid.Fill.Yellow.2] | ![Image.Picture.Photos.Pixel.Solid.Fill.Yellow] | ![Image.Picture.Photos.Pixel.Solid.Shadowed.Blue] | ![Image.Picture.Photos.Pixel.Solid.Shady.Yellow.2] | ![Image.Picture.Photos.Repo] |
-| ![Image.Picture.Photos.White.Bright.Green.3] | ![Image.Picture.Photos.White.Bright.Green.4] | ![Image.Picture.Photos.White.Bright.Green] | ![Image.Picture.Photos.White.Navy.Blue.2] | ![Image.Picture.Photos.White.Navy.Blue.3] | ![Image.Picture.Photos.White.Navy.Blue.4] |
-| ![Image.Two.Tone.Pink.Animated.Loop-2] | ![Incoming.arrow] | ![Instructables] | ![Instructions.Manual.Guide.Reference.Dictionary] | ![Internet.Archive.Logo] | ![Invidious-2] |
-| ![Invidious-3] | ![Invidious-4] | ![Invidious] | ![Italic-m] | ![italics] | ![Javascript.Yellow] |
-| ![Keyboard-2] | ![keyboard-key-letter-s] | ![keyboard.A.1] | ![Keyboard.B.1] | ![keyboard.B.4] | ![Keyboard.B] |
-| ![Keyboard.Key.autohotkey] | ![Keyboard.Toggle.Show.Hide.2] | ![Layers.Shortcuts.Stacks.Paper.Dropbox.Paper.Pink.Navy.Blue.4] | ![Letter-X.Blue] | ![Letter-X.White] | ![Letter.H.Header.Black-White] |
-| ![Letter.H.Header.Blue-White-2] | ![Letter.H.Header.Blue-White] | ![Letter.H.Header.Blue] | ![Letter.H.Header.Pink] | ![Letter.P.Paste.Button-2] | ![Letter.P.Paste.Button] |
-| ![Letter.T.Title.Blue.White] | ![Ligature] | ![Lightbulb.2] | ![Lightbulb.4] | ![Link-2] | ![Link.Blue] |
-| ![Link.Broken.Slash.Mark.Blue-LightBlue] | ![Link.Broken.Slashed.Blue-Green] | ![Link.Broken.Slashed.Pink-2] | ![Link.Broken.Slashed.Pink] | ![Link.Broken.Slashed.Yellow-Blue] | ![Link] |
-| ![Link.URL.Green] | ![Link.URL.Pink] | ![Loader.Animated.Loop] | ![Loader.CurrentColor.ELMNT.Animated.Loop] | ![Lock.3D] | ![Magnifying.Glass-Search.Animated.Loop] |
-| ![Magnifying.Glass-Search.gradient.Animated.Loop] | ![Markdown.Fill.Bright-Green.import] | ![Markdown.Fill.Fuscia.import] | ![Markdown.Filled.White] | ![Markdown.Fuchsia.import] | ![Markdown.Lint] |
-| ![Markdown.Outline.Blue.import] | ![Markdown.Outline.Light.Blue] | ![Markdown.Outline.Pink] | ![Markdown.Outline.Yellow] | ![markdown.shadow.pink] | ![Matrix.Coding.Code.Hacker.Hacking.Variable] |
-| ![Matrix] | ![Medium] | ![Merge] | ![moon-2] | ![Moon.Pink] | ![moon] |
-| ![Moon.Twotone.Waning.Crescent.AnimatedLoop] | ![Mouse.Animated.Loop] | ![Mouse.Scrolling.Animated.Loop] | ![Movie.Camera.Streaming-2] | ![Movie.Camera.Streaming] | ![movie.reel.Animated.loop] |
-| ![Music-Sheet-Music-Pink-Animated-loop] | ![Music.Animated.Loop.Blue] | ![Music.Animated.Loop.Bright-Green] | ![Music.Animated.Loop.Light.Blue] | ![Music.Animated.Loop.Pink] | ![Music.Animated.Loop.Purple] |
-| ![Music.Animated.Loop.Yellow] | ![Music.Sheet.Music.Animated.loop.Blue-2] | ![Newspaper-2] | ![Newspaper.RSS.Reader.Newspaper-2] | ![Newspaper.RSS.Reader.Newspaper-3] | ![Newspaper.RSS.Reader.Newspaper-4] |
-| ![Newspaper.RSS.Reader.Newspaper] | ![Newspaper] | ![Notion.Icon] | ![NYT.Shadow] | ![NYT] | ![Obsidian.Crystal] |
-| ![Omnivore-2] | ![Omnivore-3] | ![Omnivore] | ![paint-bucket] | ![Paint.Bucket.6] | ![paintbrush-2] |
-| ![paintbrush] | ![Palette-m] | ![Paper-Roll-Violet] | ![Paper.2] | ![Papers.3] | ![Papers.5] |
-| ![Papers.Files] | ![Pin] | ![Pinching.Hand.3D] | ![Planets.Circles.Light.Animated.Loop.infini] | ![play.pause-in-progress-2] | ![play.pause-in-progress-3] |
-| ![play.pause-in-progress-4] | ![play.pause-in-progress] | ![Player.Animated.Loop-2] | ![Player.Animated.Loop] | ![Plus.Animated.Loop-2] | ![Plus.Animated.Loop-4] |
-| ![Plus.Animated.Loop-5] | ![Plus.Animated.Loop-6] | ![Plus.Animated.Loop-7] | ![Plus.Animated.Loop-8] | ![Plus.Animated.Loop-9] | ![Plus.Animated.Loop-10] |
-| ![Plus.Animated.Loop-11] | ![Plus.Animated.Loop-12] | ![Plus.Animated.Loop-13] | ![Plus.Animated.Loop-14] | ![Plus.Animated.Loop] | ![Plus.Pink.Navigation.Animated.Loop] |
-| ![Plus.Sign.Animated.Loop] | ![Plus.Sign.Light.Blue.Animated.Loop] | ![Plus.Sign.Yellow.Animated.Loop] | ![Pocket] | ![Polaroid.2] | ![Polaroid.3] |
-| ![Polaroid.5] | ![Polaroid.Shot] | ![Polaroid] | ![Prettier.Code.Text.Letter.P.shadowed] | ![Prettier.Code.Text.Letter.P] | ![Price.Tag] |
-| ![Printer.3D.Printing.Animated] | ![Quote] | ![Quotes] | ![Raindrop-3] | ![Raindrop-4] | ![Raindrop.06] |
-| ![Raindrop] | ![Readwise] | ![Reddit.Alien.Orange.Animated.Loop-2] | ![Reddit.Alien.Orange.Animated.Loop-3] | ![Reddit.Alien.Orange.Animated.Loop] | ![Reddit.Yellow-Blue.Animated.Loop] |
-| ![Reddit.Yellow-Green.Animated.Loop] | ![Reddit.Yellow-Pink.Animated.Loop-2] | ![Reddit.Yellow-Pink.Animated.Loop] | ![Regex.Dot.All.Glassy.Pink] | ![Regex.Dot.All.Green.White] | ![Regex.Dot.All.Pink-White] |
-| ![Regex.Dot.All.Pink.White] | ![Regex.Dot.All.Red.White.2] | ![Regex.Dot.All.Solid.Pink.White-2] | ![Regex.Dot.All.Solid.Pink.White-3] | ![Regex.Dot.All.Solid.Pink.White-4] | ![Regex.Dot.All.Solid.White-2] |
-| ![Regex.Dot.All.Solid.White-3] | ![Regex.Dot.All.White.3] | ![Regex.Dot.All.Yellow.White] | ![Regex.Escape.Pink.White.4] | ![Regex.Escape.Select.Brackets.Yellow.White.2] | ![Regex.Escape.Selected.Brackets.Pink.White..2] |
-| ![Regex.Escape.Selected.Brackets.Pink.White..6] | ![Regex.Escape.Selected.Brackets.Pink.White..7] | ![Regex.Escape.Selected.Brackets.Pink.White..8] | ![Regex.Escape.Selected.Brackets.Pink.White.8] | ![Regex.Escape.Selected.Brackets.White.4] | ![Regex.Escape.Selected.Parentheses.Pink.White.3] |
-| ![Regex.Escape.Selected.Parentheses.White] | ![Regex.Escape.Solid.Dot.White] | ![Regex.Escape.Yellow.White.2] | ![Regex.Magnifying.Glass.Search.Replace.Pink] | ![Regex.Selected.Braces-Blue.Green] | ![Regex.Selected.Braces-Pink.EFEFEF.Wide] |
-| ![Regex.Selected.Braces-Pink.White.Yellow-2] | ![Regex.Selected.Braces-Pink.White.Yellow] | ![Regex.Selected.Braces-Pink.Yellow.2] | ![Regex.Selected.Braces-Yellow.Pink.White.4] | ![Regex.Selected.Brackets-Green.Pink.White] | ![Regex.Selected.Parentheses-Pink.White.2] |
-| ![Regex.Selected.Parentheses-Pink.Yellow] | ![Regex.Un-Escape.Special.Characters.3] | ![Regex.Un-Escape.Special.Characters.Selected] | ![Robocop.Light] | ![Robot.AR.VR.DIY.Pink.Navy.Blue] | ![RSS.Simple.Duotone.Fuchsia.Shadow.2] |
-| ![RSS.Simple.Duotone.Fuchsia.Shadow] | ![RSS.Simple.Duotone.Green.2] | ![rubik.Cube] | ![Scissors.Animated.Loop-2] | ![Scissors.Animated.loop] | ![Scribble.Add-2] |
-| ![Scribble.Add] | ![Scribble] | ![Scroll.Color] | ![Scrolling.Mouse.Animated.Loop-1] | ![Scrolling.Mouse.Animated.Loop-2] | ![Scrolling.Mouse.Animated.Loop-3] |
-| ![Scrolling.Mouse.Animated.Loop-4] | ![Scrolling.Mouse.Animated.Loop-5] | ![Scrolling.Mouse.Animated.Loop-6] | ![Scrolling.Mouse.Animated.Loop] | ![Scrolling.Mouse.Shadowed.Animated.Loop-1] | ![Scrolling.Mouse.Shadowed.Animated.Loop-2] |
-| ![Scrolling.Mouse.Shadowed.Animated.Loop-3] | ![Scrolling.Mouse.Shadowed.Animated.Loop-4] | ![search-pink-2] | ![search-pink] | ![Search.Magnifying.Glass.blue.green] | ![Search.Magnifying.Glass.blue] |
-| ![Search.Magnifying.Glass.Pink.2] | ![Search.Magnifying.Glass.Pink] | ![Search.Magnifying.Glass.pink.yellow] | ![Search.Magnifying.Glass.yellow] | ![Select.Row.Table.Spreadsheet] | ![Server.2] |
-| ![Server.Data.Base.Code.Dark.Gray.2] | ![Server.Data] | ![Server.Data.Two.Dark.Gray.2] | ![Server] | ![Shapes.Icons.Stained.Glass.White.2] | ![Shapes.Icons.Stained.Glass.White] |
-| ![SHAPES] | ![SHAPES2] | ![Share.Animated.Loop] | ![share] | ![Speedometer.Animated.Loop] | ![squares-overlapping] |
-| ![Stackoverflow] | ![Subscript] | ![Subscript.Variable] | ![Superscript-2] | ![Superscript] | ![SVG.Vector.Filled.Blue] |
-| ![SVG.Vector.Filled.Yellow] | ![SVG.Vector.Germ] | ![SVG.Vector.Green] | ![SVG.Vector.Purple] | ![SVG.Vector] | ![SVG.Vector.Text] |
-| ![SVG.Vector.Yellow-Mustard] | ![Swiss.Army.Knife-2] | ![Swiss.Army.Knife-3] | ![Swiss.Army.Knife-4] | ![T.Letter.Tetris.Block.Eight.Grid.Spreadsheet.Table.Green.svg.2] | ![T.Title.Template.Blue.White] |
-| ![T.Title.Template.Width.2] | ![Table.of.contents] | ![Tag.text.title.letter.T.hashtag] | ![Template] | ![terminal.Code.Animated.Loop] | ![Text.Field.Focus.Bold.Selected.Text.Box.Light] |
-| ![Text.Font.lowercase] | ![Text.Font.Monospace.Width] | ![Text.Font.serif] | ![Top.Hat] | ![Trashcan.Bin.Gray.Animated.loop] | ![Trashcan.Bin.Red.Animated.loop] |
-| ![Trashcan.Bin.Round.Gray.Animated.loop] | ![Trashcan.Bin.Round.Lined.Red.Animated.loop] | ![Trashcan.Bin.Round.Red.Animated.loop] | ![type.scale.2] | ![type.scale] | ![Typewriter.Keyboard] |
-| ![upload.round.shadowed.light.Animated.Loop.3A] | ![Variable-2] | ![Variable-3] | ![Variable-4] | ![Variable-5] | ![Variable] |
-| ![VHS.Video.Cassette] | ![Wand.Animated.loop.2-2] | ![Wand.Black.Animated.loop-2] | ![Wand.Black.Animated.loop-3] | ![Wand.Black.Animated.loop] | ![Wand.White.Animated.loop-1] |
-| ![Wand.White.Animated.loop-2] | ![Wand.White.Animated.loop-3] | ![watch-off-loop-3] | ![Weather.Clouds.Loop.Blue.Animated.loop-3] | ![Whitespace] | ![Wifi.Animated.Loop] |
-| ![wiki.inverted-2] | ![Wikipedia.Inverse] | ![Wikipedia.Inverted.Full-m-2] | ![Wikipedia.Inverted.Full-m] | ![Wikipedia.Loading.Animated.Loop] | ![Wikipedia.White.2] |
-| ![wind.toy.Blue.Animated.loop] | ![Wind.Toy.Pink.Animated.loop] | ![wind.toy.Yellow.Animated.loop-3] | ![windmill.Animated.loop] | ![Wood.2] | ![World.Blue.Animated.loop-5] |
-| ![World.Globe.Spinning.Animated.loop] | ![World.Green.Animated.loop-2] | ![World.Pink.Animated.loop-2] | ![World.Pink.Animated.loop-3] | ![World.Spinning.Animated.Loop-m-2] | ![World.Spinning.Animated.Loop-m-3] |
-| ![World.Spinning.Animated.Loop-m] | ![World.Spinning.Animated.loop] | ![x-mark-box] | ![X.Crossed.Out.Animated.Loop-2] | ![X.Crossed.Out.Animated.Loop] | ![X.Men.Raven.Movies] |
-| ![X.Men.Rogue.Movies] | ![XMark.Exit] | ![YouTube-5] | ![YouTube-m] | ![YouTube.Add-m] | ![Youtube.Add] |
-| ![YouTube.Glossy-2] | ![Youtube.Glossy.Shadow] | ![YouTube.Glossy] | ![Youtube.Playlist-m-2] | ![Youtube.Playlist-m] | ![YouTube.Playlist.Sphere] |
-| ![Youtube.Playlist] | ![Youtube.RSS] | ![Youtube.Stop-m] | ![YouTube] | ![50px] | ![50px] |
-| ![50px] | ![50px] | ![50px] | ![50px] | ![50px] | ![50px] |
+| ![50x10] | ![50x10] | ![50x10] | ![50x10] | ![50x10] | ![50x10] | ![50x10] |
+| :---: | :---: | :---: | :---: | :---: | :---:| :---:|
+| ![50px] | ![50px] | ![50px] | ![50px] | ![50px] | ![50px] | ![50px] |
+| ![AdBlock.Middle.Finger] | ![Adguard.Rasterized] | ![Adguard] | ![Align.Justified.Blue.Animated.Loop] | ![Align.Justified.Blue.Animated] | ![Align.Justified.Pink.Animated.Loop] | ![50px] |
+| ![Align.Lines.Animated.Loop-2] | ![Align.Lines.Animated.Loop-3] | ![Align.Lines.Animated.Loop-4] | ![Align.Lines.Animated.Loop-5] | ![Align.Lines.Animated.Loop-6] | ![Align.Lines.Animated.Loop-7] | ![50px] |
+| ![Align.Lines.Animated.Loop-8] | ![Align.Lines.Animated.Loop-9] | ![Align.Lines.Animated.Loop-11] | ![Align.Lines.Animated.Loop] | ![Align.Right.Blue.Animated] | ![ALPHATVET.Animated.Loop-2] | ![50px] |
+| ![ALPHATVET.Animated.Loop] | ![archive.is-2] | ![archive.is-3] | ![archive.is] | ![Archive.org.Crop] | ![Archive.org] | ![50px] |
+| ![Arrow.Curved.Spinning.Reload.Animated.Loop] | ![Arrow.Down.Animated.Loop] | ![Arrow.Incoming.to.Box-3] | ![Arrow.Outgoing.from.Box.Animated.loop-2] | ![Arrow.Outgoing.from.Box.Animated.loop-3] | ![Arrow.Outgoing.from.Box.Animated.loop] | ![50px] |
+| ![Arrow.To-Left.Animated.Loop] | ![Arrow.To-Right.Animated.Loop] | ![Arrows.Curved.Spinning.Refresh.Animated.Loop-2] | ![Arrows.Curved.Spinning.Refresh.Animated.Loop] | ![Arrows.Refresh.Blue.Animated.Loop] | ![Arrows.Refresh.Pink.Animated.Loop] | ![50px] |
+| ![Arrows.Refresh.Red.Animated.Loop] | ![Art.Dali.Shadowed] | ![Art.Dali] | ![Art.Graphic.Woman] | ![Art.Mondrian.Frameless] | ![Art.Mondrian] | ![50px] |
+| ![Art.Picasso] | ![Art.Son.of.Man.Magritte] | ![Art.Statue] | ![Astronaut.Animated.loop.2] | ![Astronaut.Animated.loop.3] | ![Astronaut.Animated.loop.4] | ![50px] |
+| ![Atom.Electron.Blue.Pink.Animated.Loop] | ![Atom.Electron.Green.Pink.Animated.Loop] | ![Atom.Electron.Purple.Pink.Animated.Loop] | ![Atom.Electron.White.Blue.Animated.Loop] | ![Audio.Sound.Bars.Slow.Green.Animated.Loop] | ![Audio.Sound.Bars.Slow.Pink.Animated.Loop-2] | ![50px] |
+| ![Audio.Sound.Bars.Slow.Pink.Animated.Loop-3] | ![Audio.Sound.Bars.Slow.Pink.Animated.Loop-4] | ![Audio.Sound.Bars.Slow.Pink.Animated.Loop-5] | ![Audio.Sound.Bars.Slow.Pink.Animated.Loop-6] | ![Audio.Sound.Bars.Slow.Pink.Animated.Loop-7] | ![Audio.Sound.Bars.Slow.Pink.Animated.Loop-8] | ![50px] |
+| ![Audio.Sound.Bars.Slow.Pink.Animated.Loop-9] | ![Audio.Sound.Bars.Slow.Pink.Animated.Loop-10] | ![Audio.Sound.Bars.Slow.Pink.Animated.Loop] | ![Audio.Sound.Bars.Slow.Yellow.Animated.loop-2] | ![Audio.Speaker.Animated.Loop] | ![Automator.Head] | ![50px] |
+| ![Automator] | ![B.Bold] | ![Backhand.Index.Pointing.Down] | ![Backhand.Index.Pointing.Up.Color.Default] | ![backspace] | ![Ball.Triangle.CurrentColor.Animated.loop] | ![50px] |
+| ![bars-scale-middle-wave-pink-animated-loop-7] | ![Bars.Scale.Left.Right.Blue.Animated.Loop] | ![Bars.Scale.Middle.Out.Fast.Yellow.Animated.loop] | ![Bars.Scale.Middle.Wave.Fast.Green.Animated.loop-2] | ![Bars.Scale.Middle.Wave.Fast.Green.Animated.Loop] | ![Bars.Scale.Middle.Wave.Fast.Pink.Animated.Loop-2] | ![50px] |
+| ![Bars.Scale.Middle.Wave.Fast.Pink.Animated.Loop-3] | ![Bars.Scale.Middle.Wave.Fast.Pink.Animated.Loop-4] | ![Bars.Scale.Middle.Wave.Fast.Pink.Animated.Loop-5] | ![Bars.Scale.Middle.Wave.Fast.Pink.Animated.Loop-6] | ![Bars.Scale.Middle.Wave.Fast.Yellow.Animated.Loop-2] | ![Bars.Scale.Middle.Wave.Fast.Yellow.Animated.loop] | ![50px] |
+| ![Battery.Animated.Loop] | ![battery.Animated] | ![BBC.Culture] | ![BBC] | ![BBEdit] | ![Bear-2] | ![50px] |
+| ![Bear] | ![Binoculars.Animated.loop] | ![Blocks.Four.Scaler.Bright-Blue.Animated.Loop] | ![Blocks.Four.Scaler.Green.Animated.Loop] | ![Blocks.Three.Shuffle.Green.Animated.Loop-2] | ![Blocks.Three.Shuffle.Green.Animated.Loop] | ![50px] |
+| ![Blocks.Two.Shuffle.Pink.Animated.Loop] | ![Blocks.Two.Shuffle.Purple.Animated.Loop] | ![Blocks.Wave.Bright-Blue.Animated.Loop.Animated.Loop] | ![Blocks.Wave.CurrentColor.Animated.loop] | ![blue-control] | ![blue-dash] | ![50px] |
+| ![blue-network] | ![blue-trash] | ![Bluetooth.Animated.Loop] | ![Blur.on] | ![Boobies] | ![Book.Reference] | ![50px] |
+| ![Bookmark] | ![Books.Animated.Loop-m] | ![Books.Animated.Loop] | ![Brackets.Code] | ![Bulletlist.Blue.Animated.loop] | ![Bulletlist.Green.Animated.loop] | ![50px] |
+| ![Bulletlist.Pink.Animated.loop-2] | ![Bulletlist.Pink.Animated.loop-3] | ![Bulletlist.Pink.Animated.loop-5] | ![Bulletlist.Pink.Animated.loop-6] | ![Bulletlist.Pink.Animated.Loop] | ![Bulletlist.Pink.Fill.Mid.Opacity.Animated.loop] | ![50px] |
+| ![Bulletlist.White.Animated.loop] | ![Bulletlist.Yellow.Animated.loop] | ![Button.Arrow.Down] | ![Button.Arrow.Up] | ![Button.BW] | ![Button.Red] | ![50px] |
+| ![Chat.Animated.Loop] | ![Chat.Bump.Dark.Animated.Loop-2] | ![Chat.Bump.Dark.Animated.Loop-3] | ![Chat.Bump.Dark.Animated.Loop] | ![Chat.Bump.Light.Animated.Loop-2] | ![Chat.Bump.Light.Animated.Loop] | ![50px] |
+| ![Check.Mark.round.Green.Animated.Loop-2] | ![Checklist.Fade.In.Out.Blue-White.Animated.Loop] | ![Checklist.Fade.In.Out.Blue.Animated.Loop] | ![Checklist.Fade.In.Out.Pink-White.Animated.Loop] | ![Checklist.Fade.In.Out.Pink.Animated.Loop] | ![Checklist.Fade.In.Out.Yellow.Animated.Loop-2] | ![50px] |
+| ![Checklist.Fade.In.Out.Yellow.Animated.Loop] | ![Checklist.Fade.Pink.Animated.Loop] | ![Checklist.Fade.Yellow.Animated.Loop] | ![Checklist.Yellow.animated.Loop] | ![Chevron.Arrow.Down.Animated.Loop] | ![Chevron.Arrow.Left.Animated.Loop-2] | ![50px] |
+| ![Chevron.Arrow.Left.Animated.Loop-3] | ![Chevron.Arrow.Left.Animated.Loop] | ![Chevron.Arrow.Right.Animated.Loop] | ![Chevron.Arrow.Up.Animated.Loop] | ![Chevron.Arrows.Triple.Down.Pink.Animated.Loop] | ![Clipboard.Editor.Paste.Text.Blue] | ![50px] |
+| ![Clipboard.Editor.Paste.Text.Shadow.Blue.Green.2] | ![Clipboard.Editor.Paste.Text.Shadow.White] | ![Clock.Circle.Bold.Duotone.Blue.Animated.loop-2] | ![Clock.Circle.Bold.Duotone.Blue.Animated.loop-3] | ![Clock.Circle.Bold.Duotone.Blue.Animated.loop-4] | ![Clock.Circle.Bold.Duotone.Blue.Animated.loop-5] | ![50px] |
+| ![Clock.Circle.Bold.Duotone.Blue.Animated.loop-7] | ![Clock.Circle.Bold.Duotone.blue.Animated.loop.2] | ![Clock.Circle.Bold.Duotone.Blue.Animated.loop] | ![Clock.Circle.Bold.Duotone.Pink.Animated.loop-2] | ![Clock.Circle.Bold.Duotone.Pink.Animated.loop-3] | ![Clock.Circle.Bold.Duotone.Pink.Animated.loop-4] | ![50px] |
+| ![Clock.Circle.Bold.Duotone.Pink.Animated.loop-5] | ![Clock.Circle.Bold.Duotone.Pink.Animated.loop-6] | ![Clock.Circle.Bold.Duotone.Pink.Animated.loop-7] | ![Clock.Circle.Bold.Duotone.Pink.Animated.loop-8] | ![Clock.Circle.Bold.Duotone.Pink.Animated.loop-9] | ![Clock.Circle.Bold.Duotone.Pink.Animated.loop-11] | ![50px] |
+| ![Clock.Circle.Bold.Duotone.Pink.Animated.loop] | ![Clock.Circle.Bold.Duotone.Yellow.Animated.loop] | ![Clock.Spinning.Rotating.Dark.Pink.Animated.loop-2] | ![Clock.Spinning.Rotating.Dark.Pink.Animated.loop] | ![Clock.Spinning.Rotating.Fill.Blue-White.Animated.Loop] | ![Clock.Spinning.Rotating.Fill.Pink.White.Animated.loop-2] | ![50px] |
+| ![Clock.Spinning.Rotating.Fill.Purple.Animated.loop] | ![Clock.Spinning.Rotating.Yellow.Animated.Loop-2] | ![cloud-and-sun] | ![Cloud.Alert.Animated.Loop.2] | ![Cloud.Alert.Animated.Loop] | ![Cloud.Animated.Loop] | ![50px] |
+| ![Cloud.Disconnect.Lightning] | ![Cloud.Download.Animated.Loop] | ![Cloud.Download] | ![Cloud.Error.Animated.Loop.2] | ![Cloud.Error.Animated.Loop] | ![Cloud.Outline.Animated.Loop] | ![50px] |
+| ![Cloud.Refresh.Animated.Loop-3] | ![Cloud.Refresh.Animated.Loop-4] | ![Cloud.Sync.Animated.Loop] | ![Cloud.Tags.Loop.CurrentColor.Animated] | ![Cloud.Tags.Mercury.Animated.loop] | ![Cloud.Upload.Animated.Loop] | ![50px] |
+| ![Cloud.Upload.Gradient.Animated.Loop.2] | ![Cloud.Upload.Gradient.Animated.Loop] | ![Cloud.Upload.Light.Blue.Animated.Loop.2] | ![Cloud.Upload.Light.Blue.Animated.Loop] | ![Cloud.Waiting.Animated.Loop] | ![clouds-blue] | ![50px] |
+| ![Clouds.Blue] | ![Clouds.ELMNT.Animated.Loop] | ![Code.Brackets.Green-Blue-Gradient] | ![Code.Brackets.Pink-Yellow-Gradient.Animated.Loop] | ![Code.Brackets.Pink-Yellow-Gradient] | ![Code.Brackets.Pink-Yellow.Animated.Loop] | ![50px] |
+| ![Code.Brackets.Pink-Yellow.Chubby.Animated.Loop] | ![Code.Brackets] | ![Code.JSON.Curly.Brackets] | ![CodePen.Gray] | ![CodePen.Pink] | ![Color-Angled] | ![50px] |
+| ![Color.Palette] | ![Color.Pipette] | ![Compass.Safari.Blue.Animated.Loop] | ![Compass.Safari.Blue.Shadow.Animated.Loop] | ![Compass.Safari.White.Shadow.Animated.Loop-2] | ![Compass.Safari.White.Shadow.Animated.Loop-3] | ![50px] |
+| ![Compass.Safari.White.Shadow.Animated.Loop] | ![control] | ![Coordinate.Cube] | ![CSS.Sharp.Green] | ![CSS.Sharp.Pink] | ![CSS.Sharp.Yellow] | ![50px] |
+| ![CSV] | ![Cursor.Text.Box.Form.Green] | ![Cursor.Text.Box.Form.Pink] | ![Cursor.Text.Box.Form.White] | ![Data.Point.Graph.Animated.Loop] | ![delete-forward] | ![50px] |
+| ![delete-left-right] | ![Dictionary.Translate.Blue-Green] | ![Dictionary.Translate.Blue-Purple] | ![Dictionary.Translate.Red-2] | ![Dictionary.Translate.Red] | ![Dot.Revolve.Animated.Loop] | ![50px] |
+| ![Download.Sketch.1A.Animated.Loop.4] | ![download] | ![Downloading.Fuchsia.Animated.Loop] | ![Downloading.Left.Loop.White.Orange.Gradient.Animated.Loop] | ![Downloading.Loop.Blue.Green.Fuchsia.Gradient.Animated.Loop] | ![Downloading.Loop.Blue.Green.Gradient.Animated.Loop] | ![50px] |
+| ![Downloading.Loop.White.Blue.Gradient.Animated.Loop] | ![Downloading.Orange-Gradient.Animated.Loop] | ![Downloading.White-Gradient.Animated.Loop] | ![Downloading.White-Orange-Gradient.Animated.Loop] | ![Downloads.Animated.Loop.2] | ![Dribbble.Outlined.Pink] | ![50px] |
+| ![Dropbox.3D] | ![Duplicate.Split.Fork.Blue] | ![Duplicate.Split.Fork.Green] | ![Duplicate.Split.Fork.pink.purple] | ![Duplicate.Split.Fork.Purple] | ![Editing.Align.Center.White.Animated.Loop] | ![50px] |
+| ![Elephant] | ![Expand.Horizontally] | ![Expand.Vertically] | ![Eye.Blink.Animated.Loop-2] | ![Eye.Blink.Animated.Loop-3] | ![Eye.Blink.Animated.Loop-4] | ![50px] |
+| ![Eye.Blink.Animated.Loop] | ![Eye.Blink.With.Lashes.Animated.Loop-2] | ![Eye.Blink.With.Lashes.Animated.Loop-4] | ![Eye.In.Speech.Bubble.Color] | ![Feedly.RSS.Green] | ![File.Document.Duplicate-2] | ![50px] |
+| ![File.Document.Lined.Animated.Loop] | ![File.Document.Lined.Colorful.Animated.Loop] | ![File.Document.Lined.Fuchsia.ELMNT.Animated.Loop] | ![File.Type.PDF.Adobe.Earmarked.Red] | ![File.Type.PDF.White] | ![filter] | ![50px] |
+| ![Fingerprint] | ![Folder.Opened.Pink] | ![Font.F.3D] | ![Font.F.Underlined] | ![Font.File.Type.Title.Case.Light.Aa] | ![Font.File.Type.Title.Case.Outlined.Pink.Aa] | ![50px] |
+| ![Font.File.Type.Title.Case.Pink.Aa] | ![Font.Typography.A.Noded.Outlined.Text.Title.2] | ![Font.Typography.A.Noded.Outlined.Text.Title.3] | ![Font.Typography.A.Noded.Outlined.Text.Title.5] | ![Font.Typography.A.Noded.Outlined.Text.Title.6] | ![Font.Typography.lowercase.a.Text.Title.pink-2] | ![50px] |
+| ![Font.Typography.lowercase.a.Text.Title.pink] | ![Font.underline] | ![Fork-2] | ![Fork-3] | ![Fork.Full.3D] | ![Fork] | ![50px] |
+| ![Fork3D] | ![Format.Text.Wrapping.Wrap.2] | ![Frame] | ![Freud] | ![Gallery.Grid.Art.Stained.Glass.Columns.Chart.colors-3] | ![Gallery.Grid.Art.Stained.Glass.Columns.Chart.colors-4] | ![50px] |
+| ![Gallery.Grid.Art.Stained.Glass.Columns.Chart.colors-5] | ![Gallery.Grid.Art.Stained.Glass.Columns.Chart.Light-2] | ![Gallery.Grid.Art.Stained.Glass.Columns.Chart.Light.Shadow] | ![Gallery.Grid.Art.Stained.Glass.Columns.Chart.Shadow] | ![Gear.Animated.Layered.Shadow] | ![Gear.Animated.Loop-2] | ![50px] |
+| ![Gear.Animated.Loop-3] | ![Gear.Animated.Loop] | ![Gear.Settings.cog.pink.blue.Animated.Loop-2] | ![Gem.Blue.3] | ![Gem.Green] | ![Gem.Purple] | ![50px] |
+| ![Gem.Ruby.Red-2] | ![Gem.Ruby.Red-3] | ![Gem.Ruby] | ![Gen.Ruby.Red] | ![Github.Blink.Open.Blue.Animated.Loop-2] | ![Github.Blink.Open.Blue.Animated.Loop-3] | ![50px] |
+| ![Github.Blink.Open.Blue.Animated.Loop] | ![Github.Blink.Open.Yellow.100pt.Animated.Loop] | ![Github.Blink.Shut.Blue.Animated.Loop-2] | ![Github.Blink.Shut.Blue.Animated.Loop-3] | ![Github.Blink.Shut.Blue.Animated.Loop] | ![Github.Blink.Shut.White.Animated.Loop] | ![50px] |
+| ![Github.Cat.Gradient] | ![Github.Cat.Head.Gradient] | ![Github.Cat] | ![Github.Pink.Animated.loop-2] | ![Github] | ![Github.Wink.Blue.Animated.Loop-4] | ![50px] |
+| ![Github.Winking.Blue.Animated.Loop-2] | ![Gizmo] | ![Gladys] | ![Goal-1] | ![Goal-2] | ![Gooey.Balls.Animated.Loop] | ![50px] |
+| ![Grammar.Girl.Larger] | ![Grease.Monkey] | ![Greasy.Fork.Monocle] | ![Gremlin] | ![grey-youtube-5] | ![grid-parallel-workflow] | ![50px] |
+| ![grid.Animated-2] | ![grid.Animated] | ![Grid.Columns.Bar.Chart.Gallery.Dash.Board.Rounded] | ![Grid.CurrentColor.Animated.loop] | ![Grid.Dashboard.Layout.Gallery.Spreadsheet.Table.Columns.Chart.2] | ![Grid.Dashboard.Layout.Gallery.Spreadsheet.Table.Columns.Chart.3] | ![50px] |
+| ![Grid.White] | ![gutenberg-2] | ![Gutenberg.Shadowed] | ![Hacker.News.Hackerrank] | ![Hackernoon] | ![harry.Potter] | ![50px] |
+| ![Hashtag.Pound.Sign.Borderless] | ![Hat.Womans] | ![heart.Animated.loop-4] | ![heart.Animated.loop.4] | ![Hearts.Three.Fade.current.Color.Animated.loop.6] | ![Hearts.Three.Fade.Red.Animated.loop] | ![50px] |
+| ![Highlighter-2] | ![Highlighter-3] | ![Highlighter-4] | ![Highlighter] | ![Hourglass.Light.Animated.Loop] | ![HTML.Green] | ![50px] |
+| ![Image.Photos.Picture.Colorful.Shadows-m] | ![Image.Picture.Photos.2] | ![Image.Picture.Photos.3] | ![Image.Picture.Photos.5] | ![Image.Picture.Photos.7] | ![Image.Picture.Photos.8] | ![50px] |
+| ![Image.Picture.Photos.Add.Insert.white] | ![Image.Picture.Photos.Add.Insert.yellow.pink] | ![Image.Picture.Photos.Add.Pink.and.Yellow-2] | ![Image.Picture.Photos.Add.Pink.and.Yellow] | ![Image.Picture.Photos.Add.Yellow.and.Pink] | ![Image.Picture.Photos.Colorful.Shadows] | ![50px] |
+| ![Image.Picture.Photos.Filled] | ![Image.Picture.Photos.Picture.Auto.Adjust] | ![Image.Picture.Photos.Picture.Filter.Black.white.2] | ![Image.Picture.Photos.Picture.Filter.Black.White.3] | ![Image.Picture.Photos.Picture.JPG.Box.pink] | ![Image.Picture.Photos.Picture.JPG.Box.yellow] | ![50px] |
+| ![Image.Picture.Photos.Pink.Navy.Blue.2] | ![Image.Picture.Photos.Pink.Navy.Blue.3] | ![Image.Picture.Photos.Pink.Navy.Blue.4] | ![Image.Picture.Photos.Pink.Navy.Blue.5] | ![Image.Picture.Photos.Pixel.Gradient.Fill.Blue] | ![Image.Picture.Photos.Pixel.Gradient.Fill.Yellow] | ![50px] |
+| ![Image.Picture.Photos.Pixel.Solid.Fill.Blue] | ![Image.Picture.Photos.Pixel.Solid.Fill.Yellow.2] | ![Image.Picture.Photos.Pixel.Solid.Fill.Yellow] | ![Image.Picture.Photos.Pixel.Solid.Shadowed.Blue] | ![Image.Picture.Photos.Pixel.Solid.Shady.Yellow.2] | ![Image.Picture.Photos.Repo] | ![50px] |
+| ![Image.Picture.Photos.White.Bright.Green.3] | ![Image.Picture.Photos.White.Bright.Green.4] | ![Image.Picture.Photos.White.Bright.Green] | ![Image.Picture.Photos.White.Navy.Blue.2] | ![Image.Picture.Photos.White.Navy.Blue.3] | ![Image.Picture.Photos.White.Navy.Blue.4] | ![50px] |
+| ![Image.Two.Tone.Pink.Animated.Loop-2] | ![Incoming.arrow] | ![Instructables] | ![Instructions.Manual.Guide.Reference.Dictionary] | ![Internet.Archive.Logo] | ![Invidious-2] | ![50px] |
+| ![Invidious-3] | ![Invidious-4] | ![Invidious] | ![Italic-m] | ![italics] | ![Javascript.Yellow] | ![50px] |
+| ![Keyboard-2] | ![keyboard-key-letter-s] | ![keyboard.A.1] | ![Keyboard.B.1] | ![keyboard.B.4] | ![Keyboard.B] | ![50px] |
+| ![Keyboard.Key.autohotkey] | ![Keyboard.Toggle.Show.Hide.2] | ![Layers.Shortcuts.Stacks.Paper.Dropbox.Paper.Pink.Navy.Blue.4] | ![Letter-X.Blue] | ![Letter-X.White] | ![Letter.H.Header.Black-White] | ![50px] |
+| ![Letter.H.Header.Blue-White-2] | ![Letter.H.Header.Blue-White] | ![Letter.H.Header.Blue] | ![Letter.H.Header.Pink] | ![Letter.P.Paste.Button-2] | ![Letter.P.Paste.Button] | ![50px] |
+| ![Letter.T.Title.Blue.White] | ![Ligature] | ![Lightbulb.2] | ![Lightbulb.4] | ![Link-2] | ![Link.Blue] | ![50px] |
+| ![Link.Broken.Slash.Mark.Blue-LightBlue] | ![Link.Broken.Slashed.Blue-Green] | ![Link.Broken.Slashed.Pink-2] | ![Link.Broken.Slashed.Pink] | ![Link.Broken.Slashed.Yellow-Blue] | ![Link] | ![50px] |
+| ![Link.URL.Green] | ![Link.URL.Pink] | ![Loader.Animated.Loop] | ![Loader.CurrentColor.ELMNT.Animated.Loop] | ![Lock.3D] | ![Magnifying.Glass-Search.Animated.Loop] | ![50px] |
+| ![Magnifying.Glass-Search.gradient.Animated.Loop] | ![Markdown.Fill.Bright-Green.import] | ![Markdown.Fill.Fuscia.import] | ![Markdown.Filled.White] | ![Markdown.Fuchsia.import] | ![Markdown.Lint] | ![50px] |
+| ![Markdown.Outline.Blue.import] | ![Markdown.Outline.Light.Blue] | ![Markdown.Outline.Pink] | ![Markdown.Outline.Yellow] | ![markdown.shadow.pink] | ![Matrix.Coding.Code.Hacker.Hacking.Variable] | ![50px] |
+| ![Matrix] | ![Medium] | ![Merge] | ![moon-2] | ![Moon.Pink] | ![moon] | ![50px] |
+| ![Moon.Twotone.Waning.Crescent.AnimatedLoop] | ![Mouse.Animated.Loop] | ![Mouse.Scrolling.Animated.Loop] | ![Movie.Camera.Streaming-2] | ![Movie.Camera.Streaming] | ![movie.reel.Animated.loop] | ![50px] |
+| ![Music-Sheet-Music-Pink-Animated-loop] | ![Music.Animated.Loop.Blue] | ![Music.Animated.Loop.Bright-Green] | ![Music.Animated.Loop.Light.Blue] | ![Music.Animated.Loop.Pink] | ![Music.Animated.Loop.Purple] | ![50px] |
+| ![Music.Animated.Loop.Yellow] | ![Music.Sheet.Music.Animated.loop.Blue-2] | ![Newspaper-2] | ![Newspaper.RSS.Reader.Newspaper-2] | ![Newspaper.RSS.Reader.Newspaper-3] | ![Newspaper.RSS.Reader.Newspaper-4] | ![50px] |
+| ![Newspaper.RSS.Reader.Newspaper] | ![Newspaper] | ![Notion.Icon] | ![NYT.Shadow] | ![NYT] | ![Obsidian.Crystal] | ![50px] |
+| ![Omnivore-2] | ![Omnivore-3] | ![Omnivore] | ![paint-bucket] | ![Paint.Bucket.6] | ![paintbrush-2] | ![50px] |
+| ![paintbrush] | ![Palette-m] | ![Paper-Roll-Violet] | ![Paper.2] | ![Papers.3] | ![Papers.5] | ![50px] |
+| ![Papers.Files] | ![Pin] | ![Pinching.Hand.3D] | ![Planets.Circles.Light.Animated.Loop.infini] | ![play.pause-in-progress-2] | ![play.pause-in-progress-3] | ![50px] |
+| ![play.pause-in-progress-4] | ![play.pause-in-progress] | ![Player.Animated.Loop-2] | ![Player.Animated.Loop] | ![Plus.Animated.Loop-2] | ![Plus.Animated.Loop-4] | ![50px] |
+| ![Plus.Animated.Loop-5] | ![Plus.Animated.Loop-6] | ![Plus.Animated.Loop-7] | ![Plus.Animated.Loop-8] | ![Plus.Animated.Loop-9] | ![Plus.Animated.Loop-10] | ![50px] |
+| ![Plus.Animated.Loop-11] | ![Plus.Animated.Loop-12] | ![Plus.Animated.Loop-13] | ![Plus.Animated.Loop-14] | ![Plus.Animated.Loop] | ![Plus.Pink.Navigation.Animated.Loop] | ![50px] |
+| ![Plus.Sign.Animated.Loop] | ![Plus.Sign.Light.Blue.Animated.Loop] | ![Plus.Sign.Yellow.Animated.Loop] | ![Pocket] | ![Polaroid.2] | ![Polaroid.3] | ![50px] |
+| ![Polaroid.5] | ![Polaroid.Shot] | ![Polaroid] | ![Prettier.Code.Text.Letter.P.shadowed] | ![Prettier.Code.Text.Letter.P] | ![Price.Tag] | ![50px] |
+| ![Printer.3D.Printing.Animated] | ![Quote] | ![Quotes] | ![Raindrop-3] | ![Raindrop-4] | ![Raindrop.06] | ![50px] |
+| ![Raindrop] | ![Readwise] | ![Reddit.Alien.Orange.Animated.Loop-2] | ![Reddit.Alien.Orange.Animated.Loop-3] | ![Reddit.Alien.Orange.Animated.Loop] | ![Reddit.Yellow-Blue.Animated.Loop] | ![50px] |
+| ![Reddit.Yellow-Green.Animated.Loop] | ![Reddit.Yellow-Pink.Animated.Loop-2] | ![Reddit.Yellow-Pink.Animated.Loop] | ![Regex.Dot.All.Glassy.Pink] | ![Regex.Dot.All.Green.White] | ![Regex.Dot.All.Pink-White] | ![50px] |
+| ![Regex.Dot.All.Pink.White] | ![Regex.Dot.All.Red.White.2] | ![Regex.Dot.All.Solid.Pink.White-2] | ![Regex.Dot.All.Solid.Pink.White-3] | ![Regex.Dot.All.Solid.Pink.White-4] | ![Regex.Dot.All.Solid.White-2] | ![50px] |
+| ![Regex.Dot.All.Solid.White-3] | ![Regex.Dot.All.White.3] | ![Regex.Dot.All.Yellow.White] | ![Regex.Escape.Pink.White.4] | ![Regex.Escape.Select.Brackets.Yellow.White.2] | ![Regex.Escape.Selected.Brackets.Pink.White-2] | ![50px] |
+| ![Regex.Escape.Selected.Brackets.Pink.White-6] | ![Regex.Escape.Selected.Brackets.Pink.White-7] | ![Regex.Escape.Selected.Brackets.Pink.White-8] | ![Regex.Escape.Selected.Brackets.Pink.White.9] | ![Regex.Escape.Selected.Brackets.White.4] | ![Regex.Escape.Selected.Parentheses.Pink.White.3] | ![50px] |
+| ![Regex.Escape.Selected.Parentheses.White] | ![Regex.Escape.Solid.Dot.White] | ![Regex.Escape.Yellow.White.2] | ![Regex.Magnifying.Glass.Search.Replace.Pink] | ![Regex.Selected.Braces-Blue.Green] | ![Regex.Selected.Braces-Pink.EFEFEF.Wide] | ![50px] |
+| ![Regex.Selected.Braces-Pink.White.Yellow-2] | ![Regex.Selected.Braces-Pink.White.Yellow] | ![Regex.Selected.Braces-Pink.Yellow.2] | ![Regex.Selected.Braces-Yellow.Pink.White.4] | ![Regex.Selected.Brackets-Green.Pink.White] | ![Regex.Selected.Parentheses-Pink.White.2] | ![50px] |
+| ![Regex.Selected.Parentheses-Pink.Yellow] | ![Regex.Un-Escape.Special.Characters.3] | ![Regex.Un-Escape.Special.Characters.Selected] | ![Robocop.Light] | ![Robot.AR.VR.DIY.Pink.Navy.Blue] | ![RSS.Simple.Duotone.Fuchsia.Shadow.2] | ![50px] |
+| ![RSS.Simple.Duotone.Fuchsia.Shadow] | ![RSS.Simple.Duotone.Green.2] | ![rubik.Cube] | ![Scissors.Animated.Loop-2] | ![Scissors.Animated.loop] | ![Scribble.Add-2] | ![50px] |
+| ![Scribble.Add] | ![Scribble] | ![Scroll.Color] | ![Scrolling.Mouse.Animated.Loop-1] | ![Scrolling.Mouse.Animated.Loop-2] | ![Scrolling.Mouse.Animated.Loop-3] | ![50px] |
+| ![Scrolling.Mouse.Animated.Loop-4] | ![Scrolling.Mouse.Animated.Loop-5] | ![Scrolling.Mouse.Animated.Loop-6] | ![Scrolling.Mouse.Animated.Loop] | ![Scrolling.Mouse.Shadowed.Animated.Loop-1] | ![Scrolling.Mouse.Shadowed.Animated.Loop-2] | ![50px] |
+| ![Scrolling.Mouse.Shadowed.Animated.Loop-3] | ![Scrolling.Mouse.Shadowed.Animated.Loop-4] | ![search-pink-2] | ![search-pink] | ![Search.Magnifying.Glass.blue.green] | ![Search.Magnifying.Glass.blue] | ![50px] |
+| ![Search.Magnifying.Glass.Pink.2] | ![Search.Magnifying.Glass.Pink] | ![Search.Magnifying.Glass.pink.yellow] | ![Search.Magnifying.Glass.yellow] | ![Select.Row.Table.Spreadsheet] | ![Server.2] | ![50px] |
+| ![Server.Data.Base.Code.Dark.Gray.2] | ![Server.Data] | ![Server.Data.Two.Dark.Gray.2] | ![Server] | ![Shapes.Icons.Stained.Glass.White.2] | ![Shapes.Icons.Stained.Glass.White] | ![50px] |
+| ![SHAPES] | ![SHAPES2] | ![Share.Animated.Loop] | ![share] | ![Speedometer.Animated.Loop] | ![squares-overlapping] | ![50px] |
+| ![Stackoverflow] | ![Subscript] | ![Subscript.Variable] | ![Superscript-2] | ![Superscript] | ![SVG.Vector.Filled.Blue] | ![50px] |
+| ![SVG.Vector.Filled.Yellow] | ![SVG.Vector.Germ] | ![SVG.Vector.Green] | ![SVG.Vector.Purple] | ![SVG.Vector] | ![SVG.Vector.Text] | ![50px] |
+| ![SVG.Vector.Yellow-Mustard] | ![Swiss.Army.Knife-2] | ![Swiss.Army.Knife-3] | ![Swiss.Army.Knife-4] | ![T.Letter.Tetris.Block.Eight.Grid.Spreadsheet.Table.Green.svg.2] | ![T.Title.Template.Blue.White] | ![50px] |
+| ![T.Title.Template.Width.2] | ![Table.of.contents] | ![Tag.text.title.letter.T.hashtag] | ![Template] | ![terminal.Code.Animated.Loop] | ![Text.Field.Focus.Bold.Selected.Text.Box.Light] | ![50px] |
+| ![Text.Font.lowercase] | ![Text.Font.Monospace.Width] | ![Text.Font.serif] | ![Top.Hat] | ![Trashcan.Bin.Gray.Animated.loop] | ![Trashcan.Bin.Red.Animated.loop] | ![50px] |
+| ![Trashcan.Bin.Round.Gray.Animated.loop] | ![Trashcan.Bin.Round.Lined.Red.Animated.loop] | ![Trashcan.Bin.Round.Red.Animated.loop] | ![type.scale.2] | ![type.scale] | ![Typewriter.Keyboard] | ![50px] |
+| ![upload.round.shadowed.light.Animated.Loop.3A] | ![Variable-2] | ![Variable-3] | ![Variable-4] | ![Variable-5] | ![Variable] | ![50px] |
+| ![VHS.Video.Cassette] | ![Wand.Animated.loop.2-2] | ![Wand.Black.Animated.loop-2] | ![Wand.Black.Animated.loop-3] | ![Wand.Black.Animated.loop] | ![Wand.White.Animated.loop-1] | ![50px] |
+| ![Wand.White.Animated.loop-2] | ![Wand.White.Animated.loop-3] | ![watch-off-loop-3] | ![Weather.Clouds.Loop.Blue.Animated.loop-3] | ![Whitespace] | ![Wifi.Animated.Loop] | ![50px] |
+| ![wiki.inverted-2] | ![Wikipedia.Inverse] | ![Wikipedia.Inverted.Full-m-2] | ![Wikipedia.Inverted.Full-m] | ![Wikipedia.Loading.Animated.Loop] | ![Wikipedia.White.2] | ![50px] |
+| ![wind.toy.Blue.Animated.loop] | ![Wind.Toy.Pink.Animated.loop] | ![wind.toy.Yellow.Animated.loop-3] | ![windmill.Animated.loop] | ![Wood.2] | ![World.Blue.Animated.loop-5] | ![50px] |
+| ![World.Globe.Spinning.Animated.loop] | ![World.Green.Animated.loop-2] | ![World.Pink.Animated.loop-2] | ![World.Pink.Animated.loop-3] | ![World.Spinning.Animated.Loop-m-2] | ![World.Spinning.Animated.Loop-m-3] | ![50px] |
+| ![World.Spinning.Animated.Loop-m] | ![World.Spinning.Animated.loop] | ![x-mark-box] | ![X.Crossed.Out.Animated.Loop-2] | ![X.Crossed.Out.Animated.Loop] | ![X.Men.Raven.Movies] | ![50px] |
+| ![X.Men.Rogue.Movies] | ![XMark.Exit] | ![YouTube-5] | ![YouTube-m] | ![YouTube.Add-m] | ![Youtube.Add] | ![50px] |
+| ![YouTube.Glossy-2] | ![Youtube.Glossy.Shadow] | ![YouTube.Glossy] | ![Youtube.Playlist-m-2] | ![Youtube.Playlist-m] | ![YouTube.Playlist.Sphere] | ![50px] |
+| ![Youtube.Playlist] | ![Youtube.RSS] | ![Youtube.Stop-m] | ![YouTube] | ![50px] | ![50px] | ![50px] |
+| ![50px] | ![50px] | ![50px] | ![50px] | ![50px] | ![50px] | ![50px] |
 
 
 [50px]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/50px.svg
@@ -703,11 +703,11 @@
 [Regex.Dot.All.Yellow.White]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Dot.All.Yellow.White.svg
 [Regex.Escape.Pink.White.4]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Pink.White.4.svg
 [Regex.Escape.Select.Brackets.Yellow.White.2]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Select.Brackets.Yellow.White.2.svg
-[Regex.Escape.Selected.Brackets.Pink.White..2]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Selected.Brackets.Pink.White..2.svg
-[Regex.Escape.Selected.Brackets.Pink.White..6]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Selected.Brackets.Pink.White..6.svg
-[Regex.Escape.Selected.Brackets.Pink.White..7]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Selected.Brackets.Pink.White..7.svg
-[Regex.Escape.Selected.Brackets.Pink.White..8]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Selected.Brackets.Pink.White..8.svg
-[Regex.Escape.Selected.Brackets.Pink.White.8]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Selected.Brackets.Pink.White.8.svg
+[Regex.Escape.Selected.Brackets.Pink.White-2]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Selected.Brackets.Pink.White..2.svg
+[Regex.Escape.Selected.Brackets.Pink.White-6]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Selected.Brackets.Pink.White..6.svg
+[Regex.Escape.Selected.Brackets.Pink.White-7]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Selected.Brackets.Pink.White..7.svg
+[Regex.Escape.Selected.Brackets.Pink.White-8]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Selected.Brackets.Pink.White..8.svg
+[Regex.Escape.Selected.Brackets.Pink.White-9]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Selected.Brackets.Pink.White.8.svg
 [Regex.Escape.Selected.Brackets.White.4]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Selected.Brackets.White.4.svg
 [Regex.Escape.Selected.Parentheses.Pink.White.3]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Selected.Parentheses.Pink.White.3.svg
 [Regex.Escape.Selected.Parentheses.White]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Selected.Parentheses.White.svg
