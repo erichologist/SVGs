@@ -1,7 +1,7 @@
 
 
 
-| ![50px] | ![50px] | ![50px] | ![50px] | ![50px] | ![50px] |
+| ![50x25] | ![50x25] | ![50x25] | ![50x25] | ![50x25] | ![50x25] |
 | :---: | :---: | :---: | :---: | :---: | :---:|
 | ![align-center] | ![align-right] | ![align-left] | ![align-justified-pink] | ![align-justified-blue-2] | ![align-lines-1] |
 | ![align-lines-2] | ![align-lines-3] | ![align-lines-4] | ![align-lines-5] | ![align-lines-6] | ![align-lines-7] |
@@ -60,6 +60,7 @@
 | ![50px] | ![50px] | ![50px] | ![50px] | ![50px] | ![50px] |
 
 
+[50x25]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/50x25.svg
 [50px]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/50px.svg
 [100px]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/100px.svg
 [align-center]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/align-center.svg
