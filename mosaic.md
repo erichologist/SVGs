@@ -130,6 +130,7 @@
 
 
 [50px]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/50px.svg
+[50x10]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/50x10.svg
 [50x50]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/50x50.svg
 [100px]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/100px.svg
 [100x100]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/100x100.svg
