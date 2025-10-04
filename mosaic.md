@@ -231,7 +231,6 @@
 [Bear-2]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Bear-2.svg
 [Bear]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Bear.svg
 [Binoculars.Animated.loop]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Binoculars.Animated.loop.svg
-[blank ]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/blank .svg
 [Blocks.Four.Scaler.Bright-Blue.Animated.Loop]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Blocks.Four.Scaler.Bright-Blue.Animated.Loop.svg
 [Blocks.Four.Scaler.Green.Animated.Loop]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Blocks.Four.Scaler.Green.Animated.Loop.svg
 [Blocks.Three.Shuffle.Green.Animated.Loop-2]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Blocks.Three.Shuffle.Green.Animated.Loop-2.svg
