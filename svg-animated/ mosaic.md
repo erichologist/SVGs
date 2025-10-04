@@ -56,8 +56,8 @@
 | ![wand-light-2] | ![wand-white-1] | ![wand-white-2] | ![wand-white-3] | ![wand-white-5] | ![wand-white-6] |
 | ![wand.5] | ![weather-clouds-loop-blue-3] | ![wifi] | ![wikipedia-loading] | ![wind-toy-blue] | ![wind-toy-pink] |
 | ![wind-toy-yellow-3] | ![windmill] | ![world-blue-5] | ![world-globe-spinning] | ![world-green-2] | ![world-pink-2] |
-| ![world-pink-3] | ![world-spinning] | ![x-crossed-out] | ![x-crossed-out-2] | ![100px] | ![100px] |
-
+| ![world-pink-3] | ![world-spinning] | ![x-crossed-out] | ![x-crossed-out-2] | ![50px] | ![50px] |
+| ![50px] | ![50px] | ![50px] | ![50px] | ![50px] | ![50px] |
 
 
 [50px]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/50px.svg
