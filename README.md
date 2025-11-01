@@ -1,5 +1,6 @@
-# erichologist.github.io/SVGs/
+### erichologist.github.io/SVGs/
 
+[mosaic](https://github.com/erichologist/SVGs/blob/main/mosaic.md)
 
 |<img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/50x10.svg"> | <img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/50x10.svg"> | <img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/50x10.svg"> | <img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/50x10.svg"> | <img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/50x10.svg"> | <img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/50x10.svg"> |
 | :----: | :----: | :----: | :----: | :----: | :----: |
