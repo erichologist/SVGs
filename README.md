@@ -2,11 +2,7 @@
 
 [***mosaic***](https://github.com/erichologist/SVGs/blob/main/mosaic.md)
 
-<details title="mosaic grid-markdown" name="mosaic grid-markdown">
-
-#### ***mosaic-grid*** *markdown*
-  
-<section title="mosaic grid-markdown" name="mosaic grid-markdown">
+<details title="mosaic grid-markdown" name="mosaic grid-markdown"> <summary>mosaic-grid markdown</summary>
 
 
 |<img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/50x10.svg"> | <img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/50x10.svg"> | <img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/50x10.svg"> | <img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/50x10.svg"> | <img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/50x10.svg"> | <img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/50x10.svg"> |
@@ -133,7 +129,7 @@
 | <img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/YouTube.Glossy-2.svg" width="100px"> | <img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Youtube.Glossy.Shadow.svg" width="100px"> | <img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/YouTube.Glossy.svg" width="100px"> | <img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Youtube.Playlist-m-2.svg" width="100px"> | <img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Youtube.Playlist-m.svg" width="100px"> | <img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/YouTube.Playlist.Sphere.svg" width="100px"> |
 | <img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Youtube.Playlist.svg" width="100px"> | <img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Youtube.RSS.svg" width="100px"> | <img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Youtube.Stop-m.svg" width="100px"> | <img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/YouTube.svg" width="100px"> |  |  |
 
-</section>
+
 </details>
 
 
