@@ -2,6 +2,8 @@
 
 [***mosaic***](https://github.com/erichologist/SVGs/blob/main/mosaic.md)
 
+[***svg-animated mosaic***](https://github.com/erichologist/SVGs/blob/main/svg-animated/%20mosaic.md)
+
 <details title="mosaic grid-markdown" name="mosaic grid-markdown"> <summary>mosaic-grid markdown</summary>
 
 
