@@ -120,16 +120,41 @@ summary {
 	list-style:none;
 	margin-bottom:.01em;
 	/* Pin the custom marker to the container */
-	content: "";
+	content:"";
 	vertical-align:top;
 	font-family:'Nova Mono', NovaMono, monospace;
-	font-size:1.1ch;
+	font-size:2ch;
+	font-weight:500;
+	letter-spacing:0;
+}
+summary>span{
+	font-family:'Nova Mono', NovaMono, monospace;
+	font-size:2ch;
+	font-weight:500;
+	letter-spacing:0;
+	-webkit-text-stroke:1px hsla(200,65%,80%,100%);
+	filter:
+		 drop-shadow(1.0px 1.0px 0 hsl(242,54%,10%))
+		 drop-shadow(1.1px 1.1px 0 hsl(242,54%,15%))
+		 drop-shadow(1.2px 1.2px 0 hsl(242,54%,20%))
+		 drop-shadow(1.3px 1.3px 0 hsl(242,54%,25%))
+		 drop-shadow(1.4px 1.4px 0 hsl(242,54%,30%))
+		 drop-shadow(0.5px 0.5px 1px rgba(16,16,36,.7));
+	padding-top:auto;
+	padding-bottom:0;
+	padding-top:0;
+	padding-bottom:auto;
+	margin-top:-2.5%;
+	margin-bottom:auto;
+	vertical-align:top;
+	padding-left:.5ch;
 }
 summary::before {
 	content: "";
-	width:12px; height:12px;
+	width:16px;
+	height:16px;
 	background:url("./chevron-right.svg") no-repeat;
-	background-size:12px;
+	background-size:16px;
 	vertical-align:bottom;
 	margin-left:0.1em;
 	padding-left:0.1em;
