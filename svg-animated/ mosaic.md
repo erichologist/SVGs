@@ -1,4 +1,8 @@
+### [svg-animated](https://github.com/erichologist/SVGs/tree/main/svg-animated)
 
+[***svg-animated mosaic***](https://github.com/erichologist/SVGs/blob/main/svg-animated/%20mosaic.md)
+
+<details title="mosaic grid-markdown" name="mosaic grid-markdown"> <summary>mosaic-grid markdown</summary>
 
 
 | ![50x10] | ![50x10] | ![50x10] | ![50x10] | ![50x10] | ![50x10] |
@@ -385,3 +389,5 @@
 [world-spinning]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/world-spinning.svg
 [x-crossed-out]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/x-crossed-out.svg
 [x-crossed-out-2]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/x-crossed-out-2.svg
+
+</details>
