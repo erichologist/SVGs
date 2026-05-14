@@ -1,0 +1,1069 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<title>mosaic</title>
+<link rel="preload" href="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/styl/style.css" as="style">
+<style>html{box-sizing:border-box} *, *:before, *:after{box-sizing:inherit} /* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize */ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}article,aside,details,figcaption,figure,footer,header,main,menu,nav,section{display:block}summary{display:list-item}audio,canvas,progress,video{display:inline-block}progress{vertical-align:baseline}audio:not([controls]){display:none;height:0}[hidden],template{display:none}a{background-color:transparent}a:active,a:hover{outline-width:0}abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underline dotted}b,strong{font-weight:bolder}dfn{font-style:italic}mark{background:#ff0;color:#000}small{font-size:80%} sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline} sub{bottom:-0.25em} sup{top:-0.5em}figure{margin:1em 40px}img{border-style:none}code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}hr{box-sizing:content-box;height:0;overflow:visible}button,input,select,textarea,optgroup{font:inherit;margin:0} optgroup{font-weight:bold} button,input{overflow:visible} button,select{text-transform:none}button,[type=button],[type=reset],[type=submit]{-webkit-appearance:button} button::-moz-focus-inner,[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner{border-style:none;padding:0} button:-moz-focusring,[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring{outline:1px dotted ButtonText}fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:.35em .625em .75em}legend{color:inherit;display:table;max-width:100%;padding:0;white-space:normal}textarea{overflow:auto}[type=checkbox],[type=radio]{padding:0}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit} /* End extract */
+@font-face {font-family:'Parity Sans Extra';src:local('Parity Sans Extra Bold'), local('ParitySansExtraBold'),url('https://github.com/erichologist/SVGs/raw/refs/heads/main/styl/ParitySansExtraBold.woff2') format('woff2'),url('https://github.com/erichologist/SVGs/raw/refs/heads/main/styl/ParitySansExtraBold.woff') format('woff');font-weight:bold;font-style:normal;font-display:swap;}
+@font-face {font-family:'Parity Sans';src:local('Parity Sans Medium'), local('ParitySansMedium'),url('https://github.com/erichologist/SVGs/raw/refs/heads/main/styl/ParitySansMedium.woff2') format('woff2'),url('https://github.com/erichologist/SVGs/raw/refs/heads/main/styl/ParitySansMedium.woff') format('woff');font-weight:500;font-style:normal;font-display:swap;}
+@font-face {font-family:'Parity Sans';src:local('Parity Sans Regular'), local('ParitySansRegular'),url('https://github.com/erichologist/SVGs/raw/refs/heads/main/styl/ParitySansRegular.woff2') format('woff2'),url('https://github.com/erichologist/SVGs/raw/refs/heads/main/styl/ParitySansRegular.woff') format('woff');font-weight:normal;font-style:normal;font-display:swap;}
+:root {--bg:#212120;--bglg:linear-gradient(180deg,#44444433,#28282880);--txt:#EFEFEF;--bgalt:#282828;--bgalt2:#191919;--txtalt:#CDCDCD;--purple:#3D3B63;--tablebg:#282828;--coral:#FA4251;--coral90:#FA4251E6;--coral80:#FA4251CC;--coral60:#FA425199;--link:#00E9EE;--szthead:1.3em;--szbold:1.2em;--szem:1.2em;--szname:1.5em;--szimg:80%;--border1:1px solid rgba(0,0,0,0);--border2:1px solid rgb(0,0,0);--tshadow:-2px 2px 6px rgba(0,0,0,1);--bordersh:3px solid rgba(0,0,0,1);--boxshadow:0px 0px 2px rgba(0,0,0,1), 2px -2px 4px rgba(0,0,0,1), -2px 2px 5px rgba(0,0,0,1), 0px 0px 6x rgba(0,0,0,1);--borderblur:10px;--hover1:rgba(179,0,74,0.25);--hover2:rgba(244,14,83,0.35);--lttrsp:0.3px;--link-color:#00E9EE;--bimbo:'BimboPro-Regular', 'BimboPro-Sharpie', 'HandsomePro-Bold', 'HandsomePro', 'Professor', 'SymbolsNF';--bimbobold:'BimboPro-Sharpie','BimboPro-Regular','HandsomeProExtraBold','HandsomePro-Bold','HandsomePro','Professor','SymbolsNF';--cart:'CartographCF-RegularItalic', 'CartographCF-LightItalic', 'CartographCF-HeavyItalic', 'SymbolsNFM';--mono:'DankMono-Italic', 'DankMonoNerdFontNerdFontCompleteM-Italic', 'SymbolsNFM';--snserif: 'Parity Sans', 'Parity Sans Extra', 'ParitySansRegular', 'Questrial-Regular', 'Geometrico-Copy', 'TRIALGeometrico-Regular', 'SymbolsNFM', 'Questa Sans', sans-serif;--boxshadow:0px 0px 2px rgba(0,0,0,0.2), 2px -2px 4px rgba(0,0,0,0.4), -2px 2px 5px rgba(0,0,0,0.4), 0px 0px 6x rgba(0,0,0,0.8);--c-boldem:#FF4167F1;--c-em:#FF0080DD;--c-bold:#647AFDA1;--sh-bold:0 0 0 #0FC,0 0 .08em #04FC,0 0 .08em #00F8,1px -.5px .1em #06063880,-1px .5px .1em #06063880;--boldsh:var(--sh-bold);--sh-em:0 0 #FF4167,0 0 .08em #D1002666,0 .1em #FF416780,0 0 .13em #000000FF;--emsh:var(--sh-em);--sh-boldem:0 0 #EF00B0,0 0 .08em #D1002680,0 0 .1em #EF00B066,0 0 .13em #220000FF;--boldemsh:var(--sh-boldem);--emboldsh:var(--sh-boldem);--th:rgba(134,131,128,1);--th50:rgba(134,131,128,.5);--th0:rgba(134,131,128,0);--thd2:linear-gradient(180deg,#868380,#86838000);--thd:radial-gradient(ellipse at bottom,#96939080 2.3em,#76737022);--thbg:radial-gradient(ellipse 90% 86% at bottom,#96939044,#96939011,#76737100);--sh-trth:inset 0 5px 0 20px #AAAA,inset 0 -5px 0 20px #FFF4,0 0 -5px 20px #FFF2,0 0 5px 20px #FFF2;--evn25:rgba(36,34,34,.25);--evn50:rgba(36,34,34,.5);--evn80:rgba(36,34,34,.8);--evn90:rgba(36,34,34,.9);--evn1:rgba(36,34,34,1.0);--evn:rgba(36,34,34,.900);--odd25:rgba(32,30,30,.25);--odd50:rgba(32,30,30,.50);--odd80:rgba(32,30,30,.80);--odd90:rgba(32,30,30,.90);--odd1:rgba(32,30,30,1.00);--odd:rgba(32,30,30,.9000);--bdr-thd:.3px solid rgba(32,30,30,.8);--bdr-light:1px solid var(--evn);--bdr-dark:1px solid var(--odd);--f-sans:'New Astro';--f-th:1rem 'ConcourseT3Tab','ConcourseT3','ConcourseT4','MrEavesSanOT-Book','MrEavesSanOT-Reg',sans-serif;--ffs:'ss02','ss04','ss08';--f-ws:normal;--tblbg:none;--tblbgc:rgba(32,30,30,1);--tbllg:linear-gradient(180deg,#76737080,#76737022,#76737000);--sh-tbl:inset 0 0 35px #AAA6,inset 0 -20px 40px #0004,0 0 15px #0002,inset -5px 0 18px rgba(0,0,0,.198),inset 5px 0 18px rgba(0,0,0,.198),0 3px 14px rgba(0,0,0,0.15),0 2px 8px rgba(0,0,0,0.1),0 -2px 10px rgba(0,0,0,0.2);--sh-tbl2:inset -5px 0 18px rgba(0,0,0,.198),inset 5px 0 18px rgba(0,0,0,.198),0 3px 14px rgba(0,0,0,0.15),0 2px 8px rgba(0,0,0,0.1),0 -2px 10px rgba(0,0,0,0.2);--sh-tbl3:inset 0 0 35px #AAA6,inset 0 -20px 40px #0004,0 0 15px #0002;--sh-th:0 .21px .63px rgba(0,0,0,.20),-0.2px -0.2px .3px rgba(0,0,0,.20),0 0 18px #0006,0 0 8px rgba(0,0,0,0.1);--anim-th:background 2s ease-in-out,background-color 2s ease-in-out,color 2s ease-in-out;--anim-de:2s;--hr:var(--hr-bg-color-saturate);--sh-hr:var(--hr-sh-color-saturate);--hr-sz:200% auto;--hr-anim:hr 13s linear infinite;--hr-bg-color-saturate180:linear-gradient(180deg, #FF0080 0%, #647AFD 20%, #9422AB 50%, #00ffff 80%, #FF0080 100%);--hr-bg-color-saturate:linear-gradient(90deg, #FF0080 0%, #647AFD 20%, #9422AB 50%, #00ffff 80%, #FF0080 100%);--hr-sh-color-saturate:0 4px 15px rgba(161,196,253,0.4),inset -.5px 0 6px rgba(255,255,255,0.01),inset .5px 0 8px rgba(255,255,255,0.02),0 4px 6px rgba(0,0,0,0.1);--hr-sh-color-saturate2:0 4px 15px rgba(161, 196, 253, 0.4), inset -.5px 0 6px rgba(255, 255, 255, 0.2), inset .5px 0 8px rgba(255, 255, 255, 0.2), 0 4px 6px rgba(0,0,0,0.05);--hr-sz:200% auto;--hr-anim-liq:liquidMove 7s linear infinite;--hr-bd-filter:blur(1px);--hr-bd-filter-wk:blur(1px);} body {-webkit-text-size-adjust:100%; /*background-color:var(--bg);background-image:var(--bglg);border-radius:8px;*/ box-sizing:border-box;clear:left;color:var(--txtalt);display:block;font-family:var(--snserif);padding:5px;vertical-align:baseline;background:linear-gradient(120deg, transparent 30%, rgba(255,255,255,0.07) 50%, transparent 70%),radial-gradient(circle at 50% 50%, rgba(255,190,175,0.1), transparent 60%),radial-gradient(circle at 80% 80%, rgba(215,200,200,0.12), transparent 50%),linear-gradient(105deg, #1C1B1B, #3D3937, #262524);background-size:300% 300%, 300% 300%, 200% 200%, 200% 200%; /* A N I M A T I O N S */ animation:shimmerSweep 23s linear infinite, warmPulse 17s ease-in-out infinite;animation-timing-function:cubic-bezier(0.4, 0, 0.6, 1);}
+/*  K E Y F R A M E S  */
+@keyframes warmPulse {0%{background-position:0% 0%,  0% 0%, 100% 100%, 0% 0%; }
+	 50%{background-position:0% 0%,100% 100%,0% 0%,100% 100%; }
+	100%{background-position:0% 0%,  0% 0%, 100% 100%, 0% 0%; }}
+@-webkit-keyframes warmPulse {0%{background-position:0% 0%,  0% 0%, 100% 100%, 0% 0%; }
+	 50%{background-position:0% 0%,100% 100%,0% 0%,100% 100%; }
+	100%{background-position:0% 0%,  0% 0%, 100% 100%, 0% 0%; }}
+@keyframes shimmerSweep {0%{background-position:0% 50%, -100% 0%, 0% 50%, 0% 0%; }
+	100%{background-position:100% 50%,200% 0%,100% 50%,0% 0%; }}
+@-webkit-keyframes shimmerSweep {0%{background-position:0% 50%, -100% 0%, 0% 50%, 0% 0%; }
+	100%{background-position:100% 50%,200% 0%,100% 50%,0% 0%; }}
+@keyframes liquidMove {0% {background-position:0% 50%;}
+	100% {background-position:200% 50%;}}
+@keyframes hr {0% { background-position:0% center; }
+	 50% {background-position:-100% center; }
+	100% {background-position:-200% center; }}
+hr {content:"";display:block;min-width:113vw;border:none;box-shadow:none;margin-top:1rem;margin-bottom:1rem;margin-left:-2.5rem;margin-right:-2.5rem;height:4px;background-image:var(--hr);box-shadow:var(--sh-hr);background-size:var(--hr-sz);animation:var(--hr-anim);}
+span b, b span, span em, em span {font-size:var(--szem);}
+a {color:var(--link);text-decoration:none;}
+.table{display: flex;flex-direction: column;justify-content: center;align-content: center;}
+table{display:block;font-family:var(--snserif);font-family:var(--f-sans);font-weight:var(--f-ws);font-style:var(--f-ws);font-feature-settings:var(--f-ffs);-moz-font-feature-settings:var(--f-ffs);-webkit-font-feature-settings:var(--f-ffs);background:rgba(31,30,30,.8);background:none;border-right:1px solid rgba(31,30,30,.3);border:none;border-collapse:collapse;border-radius:8px;border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:8px;border-top-right-radius:8px;box-shadow:var(--boxshadow);box-shadow:var(--sh-tbl);hyphens:none;color:var(--txtalt);color:#BBB;margin:1em;margin:1vh 3vw;margin-left:auto;margin-right:auto;width:auto;max-width:90%;max-width:90vw;overflow:hidden;}
+/*table{z-index:4;}table thead, table tbody tr,table thead tr th{z-index:6;}table tbody,table tbody tr,table tbody tr td{z-index:5;}*/
+table thead{background:none;border-top-left-radius:8px;border-top-right-radius:8px;border-top:.3px solid rgba(32,30,30,.8);border-left:.3px solid rgba(32,30,30,.8);border-right:.3px solid rgba(32,30,30,.8);border:none;box-shadow:inset 0 0 15px #0008,0 0 15px #0008;}
+table thead tr{background:transparent;border-top-left-radius:8px;border-top-right-radius:8px;border-top:.3px solid rgba(32,30,30,.8);border-left:.3px solid rgba(32,30,30,.8);border-right:.3px solid rgba(32,30,30,.8);border:none;box-shadow:0 0 15px #0008;}
+table thead tr th{display:box;content:"";background:none;background-image:var(--thbg) !important;border:none;box-shadow:var(--sh-trth);color:#EEE;font:var(--f-th);font-family:var(--f-sans);font-weight:400;font-weight:var(--f-ws);font-style:var(--f-ws);font-size:99%;font-feature-settings:var(--f-ffs);-moz-font-feature-settings:var(--f-ffs);-webkit-font-feature-settings:var(--f-ffs);letter-spacing:0.3px;padding:8px;text-shadow:var(--sh-th);vertical-align: middle;text-align: center;transition:var(--anim-th);hyphens:none;white-space:pre;}
+table thead tr th:first-child{border-left:.3px solid rgba(32,30,30,.8);border-top:.3px solid rgba(32,30,30,.8);border-top-left-radius:8px;background:none;border:none;}
+table thead tr th:last-child{border-right:.3px solid rgba(32,30,30,.8);border-top:.3px solid rgba(32,30,30,.8);border-top-right-radius:8px;background:none;border:none;}
+table thead tr th:not(:first-child):not(:last-child){border-top:.3px solid rgba(32,30,30,1);border:none;}
+table thead tr:first-child th:first-child{border-top-left-radius:8px;}
+table thead tr:first-child th:last-child{border-top-right-radius:8px;}
+/*   t b o d y   */
+table tbody{border:none;border-right:1px solid rgba(31,30,30,1);box-shadow:0 0 15px #0008;font-size:90%;background:rgba(31,30,30,1);}
+table tbody tr:not(:nth-child(even)){hyphens:none; background:none;}
+table tbody tr:not(:nth-child(even)) td{hyphens:none; background:none;}
+table tbody tr:nth-child(even){hyphens:none;background:none;background:var(--odd25);border:none;box-shadow:0 0 15px #0008;}
+table tbody tr:nth-child(even) td{hyphens:none;background-color:var(--evn80);}
+table tbody tr:nth-child(odd){hyphens:none;background:none;background-color:rgba(31,30,30,0);border:none;box-shadow:inset 0 0 15px #0008,0 0 15px #0008;}
+table tbody tr:nth-child(odd) td{hyphens:none;background-color:rgba(31,30,30,.9);border:none;}
+table tbody tr:first-child{box-shadow:0 -25px 15px #0008,0 -5px 15px #0008;}
+table tbody tr:nth-child(odd):not(:first-child) td:last-child{border-right:1px solid rgba(31,30,30,.9) !important;}
+table tbody tr:nth-child(even):not(:first-child) td:last-child{border-right:1px solid rgba(31,30,30,.9) !important;}
+table tbody tr:nth-child(odd) td:last-child{border:none;border-right:1px solid rgba(31,30,30,.9) !important;}
+table tbody tr:last-child td:first-child{border-bottom-left-radius:10px;}
+table tbody tr:last-child td:last-child{border-bottom-right-radius:10px;}
+/*  styles for tables without a thead  */
+table:not(:has(>thead>tr)) tbody tr:first-child td:first-child{border-top-left-radius:10px;}
+table:not(:has(>thead>tr)) tbody tr:first-child td:last-child{border-top-right-radius:10px;}
+table>tbody>tr>td>em,table>tbody>tr>td em{color:var(--c-em);text-shadow:var(--sh-em);font-style:normal;font-variant:normal;font-weight:normal;text-transform:none;}
+table>tbody>tr>td>strong,table>tbody>tr>td strong{color:var(--c-bold);text-shadow:var(--sh-bold);font-style:normal;font-variant:normal;font-weight:normal;text-transform:none;}
+table>tbody>tr>td>strong>em,table>tbody>tr>td strong>em{color:var(--c-boldem);text-shadow:var(--sh-boldem);font-style:normal;font-variant:normal;font-weight:normal;text-transform:none;}
+table tbody tr:nth-child(odd) td:last-child{border:none;}
+/* styles for tables with a thead */
+table thead tr:first-child th:first-child{border-top-left-radius:8px;}
+table thead tr:first-child th:last-child{border-top-right-radius:8px;}
+table tbody tr:last-child td:first-child{border-bottom-left-radius:8px;}
+table tbody tr:last-child td:last-child{border-bottom-right-radius:8px;}
+/* styles for tables without a thead */
+table:not(:has(>thead>tr)) tbody tr:first-child td:first-child{border-top-left-radius:8px !important;}
+table:not(:has(>thead>tr)) tbody tr:first-child td:last-child{border-top-right-radius:8px !important;}
+table tbody tr{display:box;box-shadow:0 0 -5px #000,0 0 5px #000,0 0 -15px #000,0 0 15px #000;}
+th code,td code,table>thead>tr code,tbody code,table code,thead code,table>thead>tr>th>code,table>tbody>tr>td>code{font-size:94% !important;font-family:'NovaMono','Monoflow','VictorMono NF','ParitySansMedium','Recursive-Italic','VictorMonoNFP-BoldItalic',monospace;}
+table tbody tr td:hover,table tbody tr td:active,table thead tr th:hover,table thead tr th:active,table tbody tr:hover td,table tbody tr:active td,table thead tr:hover th,table thead tr:active th,table tbody tr:hover,table tbody tr:active,table thead tr:hover,table thead tr:active,tr:hover td,tr:active td,tr:hover th,tr:active th,td:hover,td:active,th:hover,th:active,tr:hover,tr:active,tr:hover td,tr:active td,tr:hover th,tr:active th{color:#000 !important;background:rgba(29,27,27,.8);mix-blend-mode:difference;transition-delay:var(--anim-de);}
+
+td:has( img,>img){vertical-align: middle; text-align: center;padding:.35rem;}
+img, * img, * img:has( a),th img,td img{width:35px;max-width:20vw; margin:.35rem; vertical-align: middle; text-align: center;}
+ :is(h1,h2,h3,h4,h5,h6):first-of-type,
+ :is(h1,h2,h3,h4,h5,h6):first-child,.case :is(h1,h2,h3,h4,h5,h6),.case .h{display:inline;/*font-family:"Unica One", NovaMono;*/ text-transform:lowercase !important;font-weight:500;color:transparent !important;background:linear-gradient(hsl(239,50%,30%) 15%,hsl(239,50%,40%) 25%,hsl(200,60%,50%) 35%,hsl(100,70%,80%) 45%,hsl(60,100%,98%) 52%,hsl(240,0%,0%) 54%,hsl(240,10%,10%) 60%,hsl(240,50%,30%) 70%,hsl(220,70%,60%) 80%,hsl(212,92%,76%) 85%) !important;-webkit-text-stroke:1px hsla(200,65%,80%,20%);filter:drop-shadow(1px 1.2px 0 hsl(242,54%,10%)) drop-shadow(1px 1.2px 0 hsl(242,54%,15%)) drop-shadow(1px 1.2px 0 hsl(242,54%,20%)) drop-shadow(1px 1.2px 0 hsl(242,54%,25%)) drop-shadow(1px 1.2px 0 hsl(242,54%,30%)) drop-shadow(0 0 2px rgba(16,16,36,.7));background-clip:text !important;-webkit-background-clip:text !important;white-space:pre-line;padding-left:0;margin-left:0;}
+.case :is(h1,h2,h3,h4,h5,h6),.case .h{display:inline;font-size:4.2ch !important;margin-left:0;padding-left:0;white-space:pre-line;}
+.case{transform:scale(.5,.5) translateX(-45%);margin-left:0;padding-left:0;white-space:pre-line;}
+table tbody tr{	border-right:1px solid rgba(221,30,30,1) !important;box-shadow:inset 0 0 10px #fff2;}</style>
+</head>
+<body>
+<div class="table">
+	<div class="case" style="align-self:flex-start;"><a href="https://erichologist.github.io/SVGs/" style="align-self:flex-start;"><h3 style="align-self:flex-start;">erichologist.github.io/SVGs/</h3></a></div>
+<table style="align-self:center;">
+<thead><tr>
+		<th><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/50x10.svg"></th>
+		<th><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/50x10.svg"></th>
+		<th><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/50x10.svg"></th>
+		<th><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/50x10.svg"></th>
+		<th><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/50x10.svg"></th>
+		<th><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/50x10.svg"></th>
+	</tr></thead>
+ <tbody>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/AdBlock.Middle.Finger.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Adguard.Rasterized.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Adguard.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Align.Justified.Blue.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Align.Justified.Blue.Animated.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Align.Justified.Pink.Animated.Loop.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Align.Lines.Animated.Loop-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Align.Lines.Animated.Loop-3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Align.Lines.Animated.Loop-4.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Align.Lines.Animated.Loop-5.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Align.Lines.Animated.Loop-6.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Align.Lines.Animated.Loop-7.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Align.Lines.Animated.Loop-8.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Align.Lines.Animated.Loop-9.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Align.Lines.Animated.Loop-11.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Align.Lines.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Align.Right.Blue.Animated.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/ALPHATVET.Animated.Loop-2.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/ALPHATVET.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/archive.is-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/archive.is-3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/archive.is.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Archive.org.Crop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Archive.org.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Arrow.Curved.Spinning.Reload.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Arrow.Down.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Arrow.Incoming.to.Box-3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Arrow.Outgoing.from.Box.Animated.loop-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Arrow.Outgoing.from.Box.Animated.loop-3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Arrow.Outgoing.from.Box.Animated.loop.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Arrow.To-Left.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Arrow.To-Right.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Arrows.Curved.Spinning.Refresh.Animated.Loop-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Arrows.Curved.Spinning.Refresh.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Arrows.Refresh.Blue.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Arrows.Refresh.Pink.Animated.Loop.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Arrows.Refresh.Red.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Art.Dali.Shadowed.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Art.Dali.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Art.Graphic.Woman.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Art.Mondrian.Frameless.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Art.Mondrian.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Art.Picasso.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Art.Son.of.Man.Magritte.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Art.Statue.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Astronaut.Animated.loop.2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Astronaut.Animated.loop.3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Astronaut.Animated.loop.4.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Atom.Electron.Blue.Pink.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Atom.Electron.Green.Pink.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Atom.Electron.Purple.Pink.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Atom.Electron.White.Blue.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Audio.Sound.Bars.Slow.Green.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Audio.Sound.Bars.Slow.Pink.Animated.Loop-2.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Audio.Sound.Bars.Slow.Pink.Animated.Loop-3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Audio.Sound.Bars.Slow.Pink.Animated.Loop-4.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Audio.Sound.Bars.Slow.Pink.Animated.Loop-5.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Audio.Sound.Bars.Slow.Pink.Animated.Loop-6.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Audio.Sound.Bars.Slow.Pink.Animated.Loop-7.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Audio.Sound.Bars.Slow.Pink.Animated.Loop-8.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Audio.Sound.Bars.Slow.Pink.Animated.Loop-9.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Audio.Sound.Bars.Slow.Pink.Animated.Loop-10.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Audio.Sound.Bars.Slow.Pink.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Audio.Sound.Bars.Slow.Yellow.Animated.loop-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Audio.Speaker.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Automator.Head.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Automator.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/B.Bold.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Backhand.Index.Pointing.Down.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Backhand.Index.Pointing.Up.Color.Default.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/backspace.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Ball.Triangle.CurrentColor.Animated.loop.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/bars-scale-middle-wave-pink-animated-loop-7.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Bars.Scale.Left.Right.Blue.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Bars.Scale.Middle.Out.Fast.Yellow.Animated.loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Bars.Scale.Middle.Wave.Fast.Green.Animated.loop-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Bars.Scale.Middle.Wave.Fast.Green.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Bars.Scale.Middle.Wave.Fast.Pink.Animated.Loop-2.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Bars.Scale.Middle.Wave.Fast.Pink.Animated.Loop-3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Bars.Scale.Middle.Wave.Fast.Pink.Animated.Loop-4.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Bars.Scale.Middle.Wave.Fast.Pink.Animated.Loop-5.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Bars.Scale.Middle.Wave.Fast.Pink.Animated.Loop-6.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Bars.Scale.Middle.Wave.Fast.Yellow.Animated.Loop-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Bars.Scale.Middle.Wave.Fast.Yellow.Animated.loop.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Battery.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/battery.Animated.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/BBC.Culture.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/BBC.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/BBEdit.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Bear-2.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Bear.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Binoculars.Animated.loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Blocks.Four.Scaler.Bright-Blue.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Blocks.Four.Scaler.Green.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Blocks.Three.Shuffle.Green.Animated.Loop-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Blocks.Three.Shuffle.Green.Animated.Loop.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Blocks.Two.Shuffle.Pink.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Blocks.Two.Shuffle.Purple.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Blocks.Wave.Bright-Blue.Animated.Loop.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Blocks.Wave.CurrentColor.Animated.loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/blue-control.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/blue-dash.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/blue-network.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/blue-trash.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Bluetooth.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Blur.on.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Boobies.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Book.Reference.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Bookmark.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Books.Animated.Loop-m.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Books.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Brackets.Code.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Bulletlist.Blue.Animated.loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Bulletlist.Green.Animated.loop.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Bulletlist.Pink.Animated.loop-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Bulletlist.Pink.Animated.loop-3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Bulletlist.Pink.Animated.loop-5.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Bulletlist.Pink.Animated.loop-6.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Bulletlist.Pink.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Bulletlist.Pink.Fill.Mid.Opacity.Animated.loop.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Bulletlist.White.Animated.loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Bulletlist.Yellow.Animated.loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Button.Arrow.Down.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Button.Arrow.Up.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Button.BW.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Button.Red.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Chat.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Chat.Bump.Dark.Animated.Loop-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Chat.Bump.Dark.Animated.Loop-3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Chat.Bump.Dark.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Chat.Bump.Light.Animated.Loop-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Chat.Bump.Light.Animated.Loop.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Check.Mark.round.Green.Animated.Loop-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Checklist.Fade.In.Out.Blue-White.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Checklist.Fade.In.Out.Blue.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Checklist.Fade.In.Out.Pink-White.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Checklist.Fade.In.Out.Pink.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Checklist.Fade.In.Out.Yellow.Animated.Loop-2.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Checklist.Fade.In.Out.Yellow.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Checklist.Fade.Pink.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Checklist.Fade.Yellow.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Checklist.Yellow.animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Chevron.Arrow.Down.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Chevron.Arrow.Left.Animated.Loop-2.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Chevron.Arrow.Left.Animated.Loop-3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Chevron.Arrow.Left.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Chevron.Arrow.Right.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Chevron.Arrow.Up.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Chevron.Arrows.Triple.Down.Pink.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Clipboard.Editor.Paste.Text.Blue.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Clipboard.Editor.Paste.Text.Shadow.Blue.Green.2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Clipboard.Editor.Paste.Text.Shadow.White.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Clock.Circle.Bold.Duotone.Blue.Animated.loop-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Clock.Circle.Bold.Duotone.Blue.Animated.loop-3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Clock.Circle.Bold.Duotone.Blue.Animated.loop-4.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Clock.Circle.Bold.Duotone.Blue.Animated.loop-5.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Clock.Circle.Bold.Duotone.Blue.Animated.loop-7.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Clock.Circle.Bold.Duotone.blue.Animated.loop.2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Clock.Circle.Bold.Duotone.Blue.Animated.loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Clock.Circle.Bold.Duotone.Pink.Animated.loop-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Clock.Circle.Bold.Duotone.Pink.Animated.loop-3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Clock.Circle.Bold.Duotone.Pink.Animated.loop-4.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Clock.Circle.Bold.Duotone.Pink.Animated.loop-5.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Clock.Circle.Bold.Duotone.Pink.Animated.loop-6.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Clock.Circle.Bold.Duotone.Pink.Animated.loop-7.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Clock.Circle.Bold.Duotone.Pink.Animated.loop-8.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Clock.Circle.Bold.Duotone.Pink.Animated.loop-9.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Clock.Circle.Bold.Duotone.Pink.Animated.loop-11.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Clock.Circle.Bold.Duotone.Pink.Animated.loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Clock.Circle.Bold.Duotone.Yellow.Animated.loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Clock.Spinning.Rotating.Dark.Pink.Animated.loop-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Clock.Spinning.Rotating.Dark.Pink.Animated.loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Clock.Spinning.Rotating.Fill.Blue-White.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Clock.Spinning.Rotating.Fill.Pink.White.Animated.loop-2.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Clock.Spinning.Rotating.Fill.Purple.Animated.loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Clock.Spinning.Rotating.Yellow.Animated.Loop-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/cloud-and-sun.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Cloud.Alert.Animated.Loop.2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Cloud.Alert.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Cloud.Animated.Loop.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Cloud.Disconnect.Lightning.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Cloud.Download.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Cloud.Download.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Cloud.Error.Animated.Loop.2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Cloud.Error.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Cloud.Outline.Animated.Loop.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Cloud.Refresh.Animated.Loop-3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Cloud.Refresh.Animated.Loop-4.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Cloud.Sync.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Cloud.Tags.Loop.CurrentColor.Animated.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Cloud.Tags.Mercury.Animated.loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Cloud.Upload.Animated.Loop.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Cloud.Upload.Gradient.Animated.Loop.2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Cloud.Upload.Gradient.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Cloud.Upload.Light.Blue.Animated.Loop.2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Cloud.Upload.Light.Blue.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Cloud.Waiting.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/clouds-blue.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Clouds.Blue.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Clouds.ELMNT.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Code.Brackets.Green-Blue-Gradient.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Code.Brackets.Pink-Yellow-Gradient.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Code.Brackets.Pink-Yellow-Gradient.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Code.Brackets.Pink-Yellow.Animated.Loop.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Code.Brackets.Pink-Yellow.Chubby.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Code.Brackets.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Code.JSON.Curly.Brackets.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/CodePen.Gray.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/CodePen.Pink.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Color-Angled.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Color.Palette.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Color.Pipette.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Compass.Safari.Blue.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Compass.Safari.Blue.Shadow.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Compass.Safari.White.Shadow.Animated.Loop-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Compass.Safari.White.Shadow.Animated.Loop-3.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Compass.Safari.White.Shadow.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/control.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Coordinate.Cube.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/CSS.Sharp.Green.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/CSS.Sharp.Pink.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/CSS.Sharp.Yellow.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/CSV.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Cursor.Text.Box.Form.Green.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Cursor.Text.Box.Form.Pink.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Cursor.Text.Box.Form.White.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Data.Point.Graph.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/delete-forward.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/delete-left-right.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Dictionary.Translate.Blue-Green.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Dictionary.Translate.Blue-Purple.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Dictionary.Translate.Red-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Dictionary.Translate.Red.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Dot.Revolve.Animated.Loop.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Download.Sketch.1A.Animated.Loop.4.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/download.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Downloading.Fuchsia.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Downloading.Left.Loop.White.Orange.Gradient.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Downloading.Loop.Blue.Green.Fuchsia.Gradient.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Downloading.Loop.Blue.Green.Gradient.Animated.Loop.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Downloading.Loop.White.Blue.Gradient.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Downloading.Orange-Gradient.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Downloading.White-Gradient.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Downloading.White-Orange-Gradient.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Downloads.Animated.Loop.2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Dribbble.Outlined.Pink.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Dropbox.3D.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Duplicate.Split.Fork.Blue.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Duplicate.Split.Fork.Green.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Duplicate.Split.Fork.pink.purple.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Duplicate.Split.Fork.Purple.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Editing.Align.Center.White.Animated.Loop.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Elephant.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Expand.Horizontally.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Expand.Vertically.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Eye.Blink.Animated.Loop-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Eye.Blink.Animated.Loop-3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Eye.Blink.Animated.Loop-4.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Eye.Blink.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Eye.Blink.With.Lashes.Animated.Loop-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Eye.Blink.With.Lashes.Animated.Loop-4.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Eye.In.Speech.Bubble.Color.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Feedly.RSS.Green.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/File.Document.Duplicate-2.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/File.Document.Lined.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/File.Document.Lined.Colorful.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/File.Document.Lined.Fuchsia.ELMNT.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/File.Type.PDF.Adobe.Earmarked.Red.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/File.Type.PDF.White.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/filter.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Fingerprint.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Folder.Opened.Pink.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Font.F.3D.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Font.F.Underlined.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Font.File.Type.Title.Case.Light.Aa.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Font.File.Type.Title.Case.Outlined.Pink.Aa.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Font.File.Type.Title.Case.Pink.Aa.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Font.Typography.A.Noded.Outlined.Text.Title.2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Font.Typography.A.Noded.Outlined.Text.Title.3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Font.Typography.A.Noded.Outlined.Text.Title.5.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Font.Typography.A.Noded.Outlined.Text.Title.6.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Font.Typography.lowercase.a.Text.Title.pink-2.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Font.Typography.lowercase.a.Text.Title.pink.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Font.underline.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Fork-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Fork-3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Fork.Full.3D.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Fork.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Fork3D.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Format.Text.Wrapping.Wrap.2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Frame.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Freud.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Gallery.Grid.Art.Stained.Glass.Columns.Chart.colors-3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Gallery.Grid.Art.Stained.Glass.Columns.Chart.colors-4.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Gallery.Grid.Art.Stained.Glass.Columns.Chart.colors-5.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Gallery.Grid.Art.Stained.Glass.Columns.Chart.Light-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Gallery.Grid.Art.Stained.Glass.Columns.Chart.Light.Shadow.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Gallery.Grid.Art.Stained.Glass.Columns.Chart.Shadow.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Gear.Animated.Layered.Shadow.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Gear.Animated.Loop-2.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Gear.Animated.Loop-3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Gear.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Gear.Settings.cog.pink.blue.Animated.Loop-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Gem.Blue.3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Gem.Green.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Gem.Purple.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Gem.Ruby.Red-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Gem.Ruby.Red-3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Gem.Ruby.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Gen.Ruby.Red.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Github.Blink.Open.Blue.Animated.Loop-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Github.Blink.Open.Blue.Animated.Loop-3.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Github.Blink.Open.Blue.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Github.Blink.Open.Yellow.100pt.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Github.Blink.Shut.Blue.Animated.Loop-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Github.Blink.Shut.Blue.Animated.Loop-3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Github.Blink.Shut.Blue.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Github.Blink.Shut.White.Animated.Loop.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Github.Cat.Gradient.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Github.Cat.Head.Gradient.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Github.Cat.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Github.Pink.Animated.loop-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Github.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Github.Wink.Blue.Animated.Loop-4.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Github.Winking.Blue.Animated.Loop-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Gizmo.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Gladys.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Goal-1.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Goal-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Gooey.Balls.Animated.Loop.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Grammar.Girl.Larger.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Grease.Monkey.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Greasy.Fork.Monocle.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Gremlin.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/grey-youtube-5.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/grid-parallel-workflow.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/grid.Animated-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/grid.Animated.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Grid.Columns.Bar.Chart.Gallery.Dash.Board.Rounded.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Grid.CurrentColor.Animated.loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Grid.Dashboard.Layout.Gallery.Spreadsheet.Table.Columns.Chart.2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Grid.Dashboard.Layout.Gallery.Spreadsheet.Table.Columns.Chart.3.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Grid.White.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/gutenberg-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Gutenberg.Shadowed.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Hacker.News.Hackerrank.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Hackernoon.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/harry.Potter.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Hashtag.Pound.Sign.Borderless.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Hat.Womans.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/heart.Animated.loop-4.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/heart.Animated.loop.4.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Hearts.Three.Fade.current.Color.Animated.loop.6.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Hearts.Three.Fade.Red.Animated.loop.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Highlighter-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Highlighter-3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Highlighter-4.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Highlighter.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Hourglass.Light.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/HTML.Green.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Image.Photos.Picture.Colorful.Shadows-m.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Image.Picture.Photos.2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Image.Picture.Photos.3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Image.Picture.Photos.5.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Image.Picture.Photos.7.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Image.Picture.Photos.8.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Image.Picture.Photos.Add.Insert.white.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Image.Picture.Photos.Add.Insert.yellow.pink.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Image.Picture.Photos.Add.Pink.and.Yellow-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Image.Picture.Photos.Add.Pink.and.Yellow.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Image.Picture.Photos.Add.Yellow.and.Pink.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Image.Picture.Photos.Colorful.Shadows.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Image.Picture.Photos.Filled.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Image.Picture.Photos.Picture.Auto.Adjust.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Image.Picture.Photos.Picture.Filter.Black.white.2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Image.Picture.Photos.Picture.Filter.Black.White.3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Image.Picture.Photos.Picture.JPG.Box.pink.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Image.Picture.Photos.Picture.JPG.Box.yellow.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Image.Picture.Photos.Pink.Navy.Blue.2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Image.Picture.Photos.Pink.Navy.Blue.3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Image.Picture.Photos.Pink.Navy.Blue.4.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Image.Picture.Photos.Pink.Navy.Blue.5.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Image.Picture.Photos.Pixel.Gradient.Fill.Blue.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Image.Picture.Photos.Pixel.Gradient.Fill.Yellow.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Image.Picture.Photos.Pixel.Solid.Fill.Blue.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Image.Picture.Photos.Pixel.Solid.Fill.Yellow.2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Image.Picture.Photos.Pixel.Solid.Fill.Yellow.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Image.Picture.Photos.Pixel.Solid.Shadowed.Blue.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Image.Picture.Photos.Pixel.Solid.Shady.Yellow.2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Image.Picture.Photos.Repo.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Image.Picture.Photos.White.Bright.Green.3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Image.Picture.Photos.White.Bright.Green.4.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Image.Picture.Photos.White.Bright.Green.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Image.Picture.Photos.White.Navy.Blue.2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Image.Picture.Photos.White.Navy.Blue.3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Image.Picture.Photos.White.Navy.Blue.4.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Image.Two.Tone.Pink.Animated.Loop-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Incoming.arrow.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Instructables.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Instructions.Manual.Guide.Reference.Dictionary.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Internet.Archive.Logo.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Invidious-2.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Invidious-3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Invidious-4.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Invidious.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Italic-m.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/italics.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Javascript.Yellow.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Keyboard-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/keyboard-key-letter-s.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/keyboard.A.1.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Keyboard.B.1.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/keyboard.B.4.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Keyboard.B.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Keyboard.Key.autohotkey.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Keyboard.Toggle.Show.Hide.2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Layers.Shortcuts.Stacks.Paper.Dropbox.Paper.Pink.Navy.Blue.4.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Letter-X.Blue.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Letter-X.White.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Letter.H.Header.Black-White.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Letter.H.Header.Blue-White-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Letter.H.Header.Blue-White.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Letter.H.Header.Blue.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Letter.H.Header.Pink.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Letter.P.Paste.Button-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Letter.P.Paste.Button.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Letter.T.Title.Blue.White.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Ligature.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Lightbulb.2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Lightbulb.4.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Link-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Link.Blue.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Link.Broken.Slash.Mark.Blue-LightBlue.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Link.Broken.Slashed.Blue-Green.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Link.Broken.Slashed.Pink-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Link.Broken.Slashed.Pink.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Link.Broken.Slashed.Yellow-Blue.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Link.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Link.URL.Green.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Link.URL.Pink.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Loader.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Loader.CurrentColor.ELMNT.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Lock.3D.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Magnifying.Glass-Search.Animated.Loop.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Magnifying.Glass-Search.gradient.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Markdown.Fill.Bright-Green.import.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Markdown.Fill.Fuscia.import.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Markdown.Filled.White.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Markdown.Fuchsia.import.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Markdown.Lint.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Markdown.Outline.Blue.import.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Markdown.Outline.Light.Blue.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Markdown.Outline.Pink.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Markdown.Outline.Yellow.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/markdown.shadow.pink.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Matrix.Coding.Code.Hacker.Hacking.Variable.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Matrix.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Medium.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Merge.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/moon-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Moon.Pink.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/moon.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Moon.Twotone.Waning.Crescent.AnimatedLoop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Mouse.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Mouse.Scrolling.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Movie.Camera.Streaming-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Movie.Camera.Streaming.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/movie.reel.Animated.loop.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Music-Sheet-Music-Pink-Animated-loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Music.Animated.Loop.Blue.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Music.Animated.Loop.Bright-Green.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Music.Animated.Loop.Light.Blue.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Music.Animated.Loop.Pink.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Music.Animated.Loop.Purple.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Music.Animated.Loop.Yellow.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Music.Sheet.Music.Animated.loop.Blue-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Newspaper-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Newspaper.RSS.Reader.Newspaper-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Newspaper.RSS.Reader.Newspaper-3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Newspaper.RSS.Reader.Newspaper-4.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Newspaper.RSS.Reader.Newspaper.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Newspaper.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Notion.Icon.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/NYT.Shadow.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/NYT.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Obsidian.Crystal.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Omnivore-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Omnivore-3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Omnivore.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/paint-bucket.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Paint.Bucket.6.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/paintbrush-2.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/paintbrush.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Palette-m.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Paper-Roll-Violet.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Paper.2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Papers.3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Papers.5.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Papers.Files.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Pin.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Pinching.Hand.3D.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Planets.Circles.Light.Animated.Loop.infini.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/play.pause-in-progress-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/play.pause-in-progress-3.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/play.pause-in-progress-4.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/play.pause-in-progress.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Player.Animated.Loop-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Player.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Plus.Animated.Loop-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Plus.Animated.Loop-4.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Plus.Animated.Loop-5.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Plus.Animated.Loop-6.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Plus.Animated.Loop-7.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Plus.Animated.Loop-8.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Plus.Animated.Loop-9.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Plus.Animated.Loop-10.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Plus.Animated.Loop-11.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Plus.Animated.Loop-12.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Plus.Animated.Loop-13.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Plus.Animated.Loop-14.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Plus.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Plus.Pink.Navigation.Animated.Loop.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Plus.Sign.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Plus.Sign.Light.Blue.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Plus.Sign.Yellow.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Pocket.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Polaroid.2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Polaroid.3.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Polaroid.5.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Polaroid.Shot.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Polaroid.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Prettier.Code.Text.Letter.P.shadowed.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Prettier.Code.Text.Letter.P.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Price.Tag.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Printer.3D.Printing.Animated.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Quote.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Quotes.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Raindrop-3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Raindrop-4.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Raindrop.06.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Raindrop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Readwise.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Reddit.Alien.Orange.Animated.Loop-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Reddit.Alien.Orange.Animated.Loop-3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Reddit.Alien.Orange.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Reddit.Yellow-Blue.Animated.Loop.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Reddit.Yellow-Green.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Reddit.Yellow-Pink.Animated.Loop-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Reddit.Yellow-Pink.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Dot.All.Glassy.Pink.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Dot.All.Green.White.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Dot.All.Pink-White.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Dot.All.Pink.White.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Dot.All.Red.White.2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Dot.All.Solid.Pink.White-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Dot.All.Solid.Pink.White-3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Dot.All.Solid.Pink.White-4.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Dot.All.Solid.White-2.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Dot.All.Solid.White-3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Dot.All.White.3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Dot.All.Yellow.White.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Pink.White.4.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Select.Brackets.Yellow.White.2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Selected.Brackets.Pink.White-2.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Selected.Brackets.Pink.White-6.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Selected.Brackets.Pink.White-7.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Selected.Brackets.Pink.White-8.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Selected.Brackets.Pink.White-9.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Selected.Brackets.White.4.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Selected.Parentheses.Pink.White.3.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Selected.Parentheses.White.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Solid.Dot.White.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Escape.Yellow.White.2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Magnifying.Glass.Search.Replace.Pink.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Selected.Braces-Blue.Green.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Selected.Braces-Pink.EFEFEF.Wide.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Selected.Braces-Pink.White.Yellow-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Selected.Braces-Pink.White.Yellow.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Selected.Braces-Pink.Yellow.2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Selected.Braces-Yellow.Pink.White.4.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Selected.Brackets-Green.Pink.White.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Selected.Parentheses-Pink.White.2.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Selected.Parentheses-Pink.Yellow.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Un-Escape.Special.Characters.3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Regex.Un-Escape.Special.Characters.Selected.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Robocop.Light.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Robot.AR.VR.DIY.Pink.Navy.Blue.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/RSS.Simple.Duotone.Fuchsia.Shadow.2.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/RSS.Simple.Duotone.Fuchsia.Shadow.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/RSS.Simple.Duotone.Green.2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/rubik.Cube.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Scissors.Animated.Loop-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Scissors.Animated.loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Scribble.Add-2.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Scribble.Add.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Scribble.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Scroll.Color.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Scrolling.Mouse.Animated.Loop-1.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Scrolling.Mouse.Animated.Loop-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Scrolling.Mouse.Animated.Loop-3.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Scrolling.Mouse.Animated.Loop-4.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Scrolling.Mouse.Animated.Loop-5.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Scrolling.Mouse.Animated.Loop-6.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Scrolling.Mouse.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Scrolling.Mouse.Shadowed.Animated.Loop-1.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Scrolling.Mouse.Shadowed.Animated.Loop-2.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Scrolling.Mouse.Shadowed.Animated.Loop-3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Scrolling.Mouse.Shadowed.Animated.Loop-4.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/search-pink-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/search-pink.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Search.Magnifying.Glass.blue.green.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Search.Magnifying.Glass.blue.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Search.Magnifying.Glass.Pink.2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Search.Magnifying.Glass.Pink.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Search.Magnifying.Glass.pink.yellow.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Search.Magnifying.Glass.yellow.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Select.Row.Table.Spreadsheet.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Server.2.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Server.Data.Base.Code.Dark.Gray.2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Server.Data.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Server.Data.Two.Dark.Gray.2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Server.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Shapes.Icons.Stained.Glass.White.2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Shapes.Icons.Stained.Glass.White.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/SHAPES.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/SHAPES2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Share.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/share.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Speedometer.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/squares-overlapping.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Stackoverflow.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Subscript.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Subscript.Variable.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Superscript-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Superscript.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/SVG.Vector.Filled.Blue.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/SVG.Vector.Filled.Yellow.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/SVG.Vector.Germ.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/SVG.Vector.Green.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/SVG.Vector.Purple.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/SVG.Vector.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/SVG.Vector.Text.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/SVG.Vector.Yellow-Mustard.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Swiss.Army.Knife-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Swiss.Army.Knife-3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Swiss.Army.Knife-4.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/T.Letter.Tetris.Block.Eight.Grid.Spreadsheet.Table.Green.svg.2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/T.Title.Template.Blue.White.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/T.Title.Template.Width.2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Table.of.contents.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Tag.text.title.letter.T.hashtag.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Template.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/terminal.Code.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Text.Field.Focus.Bold.Selected.Text.Box.Light.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Text.Font.lowercase.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Text.Font.Monospace.Width.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Text.Font.serif.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Top.Hat.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Trashcan.Bin.Gray.Animated.loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Trashcan.Bin.Red.Animated.loop.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Trashcan.Bin.Round.Gray.Animated.loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Trashcan.Bin.Round.Lined.Red.Animated.loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Trashcan.Bin.Round.Red.Animated.loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/type.scale.2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/type.scale.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Typewriter.Keyboard.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/upload.round.shadowed.light.Animated.Loop.3A.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Variable-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Variable-3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Variable-4.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Variable-5.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Variable.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/VHS.Video.Cassette.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Wand.Animated.loop.2-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Wand.Black.Animated.loop-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Wand.Black.Animated.loop-3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Wand.Black.Animated.loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Wand.White.Animated.loop-1.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Wand.White.Animated.loop-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Wand.White.Animated.loop-3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/watch-off-loop-3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Weather.Clouds.Loop.Blue.Animated.loop-3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Whitespace.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Wifi.Animated.Loop.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/wiki.inverted-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Wikipedia.Inverse.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Wikipedia.Inverted.Full-m-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Wikipedia.Inverted.Full-m.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Wikipedia.Loading.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Wikipedia.White.2.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/wind.toy.Blue.Animated.loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Wind.Toy.Pink.Animated.loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/wind.toy.Yellow.Animated.loop-3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/windmill.Animated.loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Wood.2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/World.Blue.Animated.loop-5.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/World.Globe.Spinning.Animated.loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/World.Green.Animated.loop-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/World.Pink.Animated.loop-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/World.Pink.Animated.loop-3.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/World.Spinning.Animated.Loop-m-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/World.Spinning.Animated.Loop-m-3.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/World.Spinning.Animated.Loop-m.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/World.Spinning.Animated.loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/x-mark-box.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/X.Crossed.Out.Animated.Loop-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/X.Crossed.Out.Animated.Loop.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/X.Men.Raven.Movies.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/X.Men.Rogue.Movies.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/XMark.Exit.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/YouTube-5.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/YouTube-m.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/YouTube.Add-m.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Youtube.Add.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/YouTube.Glossy-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Youtube.Glossy.Shadow.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/YouTube.Glossy.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Youtube.Playlist-m-2.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Youtube.Playlist-m.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/YouTube.Playlist.Sphere.svg"></td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Youtube.Playlist.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Youtube.RSS.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/Youtube.Stop-m.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/YouTube.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/50px.svg"></td>
+		<td><img src="https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/50px.svg"></td>
+	</tr>
+ </tbody>
+</table>
+</div>
+</body>
+</html>
