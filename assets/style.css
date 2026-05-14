@@ -97,7 +97,61 @@ table tbody tr td:hover,table tbody tr td:active,table thead tr th:hover,table t
 td:has( img,>img){vertical-align: middle; text-align: center;padding:.35rem;}
 img, * img, * img:has( a),th img,td img{width:35px;max-width:20vw; margin:.35rem; vertical-align: middle; text-align: center;}
  :is(h1,h2,h3,h4,h5,h6):first-of-type,
- :is(h1,h2,h3,h4,h5,h6):first-child,.case :is(h1,h2,h3,h4,h5,h6),.case .h{display:inline;/*font-family:"Unica One", NovaMono;*/ text-transform:lowercase !important;font-weight:500;color:transparent !important;background:linear-gradient(hsl(239,50%,30%) 15%,hsl(239,50%,40%) 25%,hsl(200,60%,50%) 35%,hsl(100,70%,80%) 45%,hsl(60,100%,98%) 52%,hsl(240,0%,0%) 54%,hsl(240,10%,10%) 60%,hsl(240,50%,30%) 70%,hsl(220,70%,60%) 80%,hsl(212,92%,76%) 85%) !important;-webkit-text-stroke:1px hsla(200,65%,80%,20%);filter:drop-shadow(1px 1.2px 0 hsl(242,54%,10%)) drop-shadow(1px 1.2px 0 hsl(242,54%,15%)) drop-shadow(1px 1.2px 0 hsl(242,54%,20%)) drop-shadow(1px 1.2px 0 hsl(242,54%,25%)) drop-shadow(1px 1.2px 0 hsl(242,54%,30%)) drop-shadow(0 0 2px rgba(16,16,36,.7));background-clip:text !important;-webkit-background-clip:text !important;white-space:pre-line;padding-left:0;margin-left:0;}
+ :is(h1,h2,h3,h4,h5,h6):first-child,.case :is(h1,h2,h3,h4,h5,h6),.case .h{display:inline;/*font-family:"Unica One", NovaMono;*/ text-transform:lowercase !important;font-weight:500;color:transparent !important;background:linear-gradient(hsl(239,50%,30%) 15%,hsl(239,50%,40%) 25%,hsl(200,60%,50%) 35%,hsl(100,70%,80%) 45%,hsl(60,100%,98%) 52%,hsl(240,
+																																																																																						 0%,0%) 54%,hsl(240,10%,10%) 60%,hsl(240,50%,30%) 70%,hsl(220,70%,60%) 80%,hsl(212,92%,76%) 85%) !important;-webkit-text-stroke:1px hsla(200,65%,80%,20%);filter:drop-shadow(1px 1.2px 0 hsl(242,54%,10%)) drop-shadow(1px 1.2px 0 hsl(242,54%,15%)) drop-shadow(1px 1.2px 0 hsl(242,54%,20%)) drop-shadow(1px 1.2px 0 hsl(242,54%,25%)) drop-shadow(1px 1.2px 0 hsl(242,54%,30%)) drop-shadow(0 0 2px rgba(16,16,36,.7));background-clip:text !important;-webkit-background-clip:text !important;white-space:pre-line;padding-left:0;margin-left:0;}
 .case :is(h1,h2,h3,h4,h5,h6),.case .h{display:inline;font-size:4.2ch !important;margin-left:0;padding-left:0;white-space:pre-line;}
 .case{transform:scale(.5,.5) translateX(-45%);margin-left:0;padding-left:0;white-space:pre-line;}
 table tbody tr{	border-right:1px solid rgba(221,30,30,1) !important;box-shadow:inset 0 0 10px #fff2;}
+
+
+details {
+	margin:.5em;
+	margin-block: .5rem;
+	padding-block: .5rem;
+	list-style: none;
+	animation-timing-function: ease-in-out;
+	transition:sweep 1.5s ease;
+}
+summary {
+	display: flex;
+	list-style:none;
+	margin-bottom:.01em;
+	/* Pin the custom marker to the container */
+	content: "";
+	vertical-align:top;
+
+}
+summary::before {
+	content: "";
+	width:12px; height:12px;
+	background:url("./chevron-right.svg") no-repeat;
+	background-size:12px;
+	vertical-align:bottom;
+	margin-left:0.1em;
+	padding-left:0.1em;
+	padding-right:0.1em;
+	animation-timing-function: transform 2.4s ease-in-out;
+	transition:0.5s ease-in-out;
+}
+summary::-webkit-details-marker {
+	display:none;
+	animation-timing-function:ease-in-out;
+}
+details[open] summary ~ * {
+	animation:sweep 1.5s ease;
+}
+@keyframes sweep {
+	  0% {opacity: 0;}
+	 20% {opacity: 0;}
+	100% {opacity: 1;}
+}
+details[open] > summary::before {
+	transform:translateY(1.5px) rotate(90deg);
+	animation:rotator .5s ease-in-out;
+}
+@keyframes rotator {
+	  0% {transform:translateY(0) rotate(0deg);}
+	 50% {transform:translateY(3px) rotate(90deg);}
+	 60% {transform:translateY(-1.5px) rotate(90deg);}
+	100% {transform:translateY(1.5px) rotate(90deg);}
+}
