@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self' 'unsafe-inline' data:; img-src 'self' data:; style-src 'unsafe-inline'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Favicon Icons Package</title>
+<link rel="icon" href="./favicon.png" type="image/png">
+<style>
+@font-face {font-family:'DankMono-Italic';src:local('DankMono-Italic'),url('https://github.com/erichologist/assets/raw/refs/heads/main/fonts/dankmono/dank-mono-italic.woff2') format('woff2'),url('https://github.com/erichologist/assets/raw/refs/heads/main/fonts/dankmono/otf/dank-mono-italic.otf') format('otf');font-weight:normal;font-style:italic;font-display:swap;}
+@font-face {font-family:'DankMono-Regular';src:local('DankMono-Regular'),url('https://github.com/erichologist/assets/raw/refs/heads/main/fonts/dankmono/dank-mono-regular.woff2') format('woff2');font-weight:normal;font-style:normal;font-display:swap;}
+@font-face {font-family:'DankMono-Bold';src:local('DankMono-Bold'),url('https://github.com/erichologist/assets/raw/refs/heads/main/fonts/dankmono/dank-mono-bold.woff2') format('woff2');font-weight:bold;font-style:normal;font-display:swap;}
+/*.monotalic-narrow-light*/
+@font-face {font-family:'Monotalic Narrow';src:local('Monotalic Narrow Light'),local('Monotalic-NarrowLight'),local('Monotalic Narrow'),local('Monotalic-Narrow'),local('monotalic-narrow'),url('https://github.com/erichologist/assets/raw/refs/heads/main/fonts/monotalic/monotalic-light.woff2') format('woff2'),url('https://github.com/erichologist/assets/raw/refs/heads/main/fonts/monotalic/monotalic-light.woff') format('woff'),url('https://github.com/erichologist/assets/raw/refs/heads/main/fonts/monotalic/monotalic-light.svg#monotalic-narrow-light') format('svg'),url('https://github.com/erichologist/assets/raw/refs/heads/main/fonts/monotalic/monotalic-light.otf') format('opentype'),url('https://github.com/erichologist/assets/raw/refs/heads/main/fonts/monotalic/monotalic-light.ttf') format('truetype');font-weight:300;font-style:normal;font-display:swap;}
+/*.monotalic-narrow*/
+@font-face {font-family:'monotalic-narrow';src:local('Monotalic Narrow'),local('Monotalic-Narrow'),local('monotalic-narrow'),url('https://use.typekit.net/af/80fdef/00000000000000007735b6e1/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3') format('woff2'),url('https://use.typekit.net/af/80fdef/00000000000000007735b6e1/31/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3') format('woff'),url('https://github.com/erichologist/assets/raw/refs/heads/main/fonts/monotalic/monotalic-narrow.svg#monotalic-narrow') format('svg'),url('https://use.typekit.net/af/80fdef/00000000000000007735b6e1/31/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3') format('opentype'),url('https://github.com/erichologist/assets/raw/refs/heads/main/fonts/monotalic/monotalic-narrow.ttf') format('truetype');font-style:normal;font-weight:400;font-stretch:normal;font-display:swap;}
+/*.monotalic-light*/
+@font-face {font-family:'monotalic';font-family:'Monotalic';src:local('Monotalic Light'),local('Monotalic-Light'),local('Monotalic'),local('monotalic'),url('https://github.com/erichologist/assets/raw/refs/heads/main/fonts/monotalic/monotalic-light.woff2') format('woff2'),url('https://github.com/erichologist/assets/raw/refs/heads/main/fonts/monotalic/monotalic-light.woff') format('woff'),url('https://github.com/erichologist/assets/raw/refs/heads/main/fonts/monotalic/monotalic-light.svg#monotalic-light') format('svg'),url('https://github.com/erichologist/assets/raw/refs/heads/main/fonts/monotalic/monotalic-light.otf') format('opentype'),url('https://github.com/erichologist/assets/raw/refs/heads/main/fonts/monotalic/monotalic-light.ttf') format('truetype');font-style:normal;font-weight:300;font-stretch:normal;font-display:swap;}
+/*.monotalic-narrow-bold*/
+@font-face {font-family:'monotalic-narrow';src:src:local('Monotalic Narrow Bold'),local('Monotalic-Narrow Bold'),local('Monotalic Narrow'),local('Monotalic-Narrow'),local('monotalic-narrow'),url('https://use.typekit.net/af/4da7b9/00000000000000007735b6e9/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3') format('woff2'),url('https://use.typekit.net/af/4da7b9/00000000000000007735b6e9/31/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3') format('woff'),url('Monotalic-NarrowBold.svg#Monotalic-NarrowBold') format('svg'),url('https://use.typekit.net/af/4da7b9/00000000000000007735b6e9/31/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3') format('opentype'),url('Monotalic-NarrowBold.otf') format('opentype'),url('Monotalic-NarrowBold.ttf') format('truetype');font-style:normal;font-weight:bold;font-stretch:normal;font-display:swap;}
+/*.monotalic-narrow-medium*/
+@font-face {font-family:'Monotalic Narrow';src:local('Monotalic Narrow Medium'),local('Monotalic-NarrowMedium'),url('https://github.com/erichologist/assets/raw/refs/heads/main/fonts/monotalic/monotalic-narrow-medium.woff2') format('woff2'),url('Mhttps://github.com/erichologist/assets/raw/refs/heads/main/fonts/monotalic/monotalic-narrow-medium.woff') format('woff'),url('https://github.com/erichologist/assets/raw/refs/heads/main/fonts/monotalic/monotalic-narrow-medium.svg#monotalic-narrow-medium') format('svg'),url('https://github.com/erichologist/assets/raw/refs/heads/main/fonts/monotalic/monotalic-narrow-medium.otf') format('opentype'),url('https://github.com/erichologist/assets/raw/refs/heads/main/fonts/monotalic/monotalic-narrow-medium.ttf') format('truetype');font-weight:500;font-style:normal;font-display:swap;}
+.dank{font-family:'DankMono-Italic',monospace;font-weight:normal;font-style:italic;}
+.dankreg{font-family:'DankMono-Regular',monospace;font-weight:normal;font-style:normal;}
+.dankbold{font-family:'DankMono-Bold',monospace;font-weight:bold;font-style:italic;}
+.monotalic {font-family:'monotalic',monospace,sans-serif;font-display:swap;}
+.monotalic-narrow {font-family:'monotalic-narrow',monospace,sans-serif;font-display:swap;}
+.monotalic-narrow-bold{font-family:monotalic-narrow,monospace,sans-serif;font-style:normal;font-weight:700;}
+.monotalic-narrow-medium{font-family:monotalic-narrow,monospace,sans-serif;font-style:normal;font-weight:500;}
+.monotalic-narrow-normal{font-family:monotalic-narrow,monospace,sans-serif;font-style:normal;font-weight:400;}
+.monotalic-narrow-light{font-family:monotalic-narrow,monospace,sans-serif;font-style:normal;font-weight:300;}
+:root{--dr:'DankMono-Regular';--m:'ParitySansMonoRegular','ParitySansRegular';--f1:'Monotalic-NarrowLight','VictorMono-BoldItalic','SuburbanOT-Light';--dank:'DankMono-Italic','DankMonoNerdFontNerdFontCompleteM-Italic','DankMono-Regular','DicoMono-Script';}
+body{background-color:#222;font-size:1em;color:#aaa;font-family:'Helvetica Neue',Segoe UI,Roboto,Ubuntu,sans-serif;padding:1.5em;max-width:980px;margin:0 auto;line-height:1.45;white-space: pre-wrap;}
+main{width:100%;max-width:740px;margin:0 auto}
+pre{background-color:#0F0F0F; background-image:linear-gradient(0deg,#1b1b1bCC,#000); box-shadow:rgba(0,0,0,.24) 0 0 14px,rgba(0,0,0,.04) 0 0 10px,rgba(0,0,0,.25) 0 0 24px;font-size:82%;white-space:pre;padding:2.5em;border-radius:.95em;color:#AAA;text-shadow:0 0 0 #fff,0 0 1px #fff4,0 -1px 2px #fff4,0 1px 2px #fff4;padding:2.25rem;padding-right:1rem;padding-left:1.48rem;line-height:1.5;font-family:'monotalic-narrow','DankMono-Italic',monospace;font-weight:300;max-width:95vw;overflow-x:scroll;margin-bottom:0;}
+figcaption,figure,pre,code,p code{font-family:var(--f1);}
+pre,code,p code{font-family:'monotalic-narrow','DankMono-Italic',monospace;font-weight:300;white-space: pre-wrap;}
+pre#code{font-family:'monotalic-narrow','DankMono-Italic',monospace;font-weight:300;white-space: pre-line;margin-bottom:0.25em}
+.logo{height:2em;margin-bottom:0.75em}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(10em,1fr));gap:1em;margin:.75em 0}
+figure{margin:0;padding:.875em;border:none;border-left:none;border-bottom:none;border-right:none;border-top:none;outline:none;border:1px solid #000;background-color:#101010;box-shadow:2px -2px 10px hsla(223,10%,3%,.33),-3px -2px 7px hsla(223,10%,5%,.42);border-radius:.5em}
+figure:has(>img),figure{margin:0;padding:.875em;border:none;border-left:none;border-bottom:none;border-right:none;border-top:none;outline:none;border-left-color:#000 !important;border-bottom-color:#000 !important;border-right-color:#000 !important;border-top-color:#000 !important;border:.5px solid #000;border-color:#000 !important;background-color:#101010;box-shadow:2px -2px 10px hsla(223,10%,3%,.33),-3px -2px 7px hsla(223,10%,5%,.42);border-radius:.5em;font-size:82%;vertical-align:bottom;float:bottom;}
+figcaption{font-size:.875em;color:#aaa;margin-top:.375em}
+figure img{max-height:52px;max-width:52px;border:none;border-left:none;border-bottom:none;border-right:none;border-top:none;outline:none;}
+img{border-radius:7px;}
+button#copy,button{background:#18181A;color:#00D9E0CC;font-family:var(--m);border-color:none;border:none;outline:none;border-radius:.5em;font-size:.875em;padding:5.5em inherit !important;line-height:2;cursor:pointer;box-shadow: -.5px .5px 5px hsla(223,10%,3%,.53),0 2px 11px hsla(223,10%,5%,.52);text-shadow:0 0 0 #fff,0 1px 3px #0F07ff60,0 -1px 3px #00E95260,0 1px 4px #5E60CE60,0 -1px 4px #0F07ff60,0 1px 5px #3457D560,0 -1px 5px #00D9E060;margin-top:0;}
+button#copy:hover,button:hover{background:#090909;border-color:none;outline:none;font-size:.875em;border-radius:.5em;cursor:pointer;box-shadow:inset 0 0 9px hsla(223,10%,3%,.33),inset 2px -2px 5px hsla(223,10%,3%,.33),inset .52px -.52px 1.1em hsla(223,10%,74%,.1),inset -.52px .52px 1em hsla(223,10%,60%,.15) !important;}
+.t,code,p code{border:none;padding:.125em inherit;border-radius:.25em;background:#292929;color:#00D9E0CC;text-shadow:0 0 0 #fff,0 0 5px #0F07ff60,0 -.1px 3.5px #00E95260,0 0 8px #5E60CE60,0 -1px 9px #0F07ff60,0 1px 10px #3457D560,0 0 11px #00D9E060;font-family:'monotalic-narrow','DankMono-Italic',monospace;font-weight:300;}
+pre > code{background:none;font-family:'monotalic-narrow','DankMono-Italic',monospace;font-weight:300;white-space: pre-line;}
+.pnk, pre i{font-style:normal;color:#FF005E;text-shadow:0 0 1px #fff4,0 0 2px #0F07ff40,0 -.1px 3px #dc078e20,0 0 3px #FF057B40,0 -1px 4px #FF214E40,0 1px 4px #FF005E80;}
+.wh,.s,pre i{font-style:normal;color:#fff2;text-shadow:0 0 0 #FF005E,0 0 2px #0F07ff40,0 -.1px 3px #dc078e20,0 0 3px #FF057B40,0 -1px 4px #FF214E40,0 1px 4px #FF005E80;}
+.bl,pre b{text-decoration:none;font-weight:inherit;color:#00D9E0CC;text-shadow:0 0 0 #fff,0 1px 3px #0F07ff60,0 -1px 3px #00E95260,0 1px 4px #5E60CE60,0 -1px 4px #0F07ff60,0 1px 5px #3457D560,0 -1px 5px #00D9E060;font-family:inherit;}
+y{display:inherit;padding:inherit;margin:inherit;line-height:inherit;font-family:inherit;font-size:inherit;white-space:inherit;text-decoration:none;font-weight:inherit;color:#FE0C;text-shadow:0 0 0 #FFF,#FFBF0066 0 0 5px,#C5D02566 0 -.1px 3.5px,#E62E2E66 0 0 6px,#e0cb5266 0 -1px 5px,#DDFF0566 0 1px 7px,#00D9E066 0 0 11px;}
+figcaption{border:1px solid #0000;border-radius:.25em;color:#00D9E0CC;text-shadow:0 0 0 #fff,0 0 5px #0F07ff60,0 -.1px 3px #00E95260,0 0 4px #5E60CE60,0 -1px 4px #0F07ff60,0 1px 5px #3457D560,0 0 5px #00D9E060;font-size:.875em;margin-top:.375em;}
+.ok{color:#00d9e0}
+.bad{color:#11e3e3}
+a{color:#1070e7;}
+p:has(>button){margin-top:0;}
+#previewWarning{white-space:pre-wrap;border:1px solid #0000;padding:.75em;border-radius:.5em;background:rgba(55,50,45,0);color:#00D1C9;}
+h1:has(+h1,+h2,+h3,+h4,+h5,+h6) {border-bottom:none;/* border-top:solid 2px #aaaaaa66; */color:#e0e0e0; display:block; font-family:var(--bdy); font-size:115%; font-style:normal !important; font-variant:normal !important; font-weight:300 !important; hyphens:none; letter-spacing:1.1; line-height:1.3; margin-bottom:0.75rem; margin-top:1.4rem; opacity:100% !important; padding-top:0.65em; text-transform:none !important;}
+h1+:is(h1,h2,h3,h4,h5,h6),h2+:is(h1,h2,h3,h4,h5,h6){background-color:#18181800; background:#18181800; border-top:none; box-shadow:none; display:block; font-family:var(--bdy); font-size:110%; font-style:normal !important; font-variant:normal !important; font-weight:300 !important; hyphens:none; letter-spacing:.057em; margin-bottom:1rem; margin-top:-2% !important; opacity:100% !important; padding-top:-2% !important; text-transform:none !important;}
+h1:first-of-type:has(+h1,+h2,+h3,+h4,+h5,+h6),
+h2:first-of-type:has(+h1,+h2,+h3,+h4,+h5,+h6),
+h3{border-bottom:none; /*border-top:solid 2px #aaaaaa66; */color:#e0e0e0; display:block; font-family:var(--bdy); font-size:118%; font-style:normal !important; font-variant:normal !important; font-weight:300 !important; hyphens:none; letter-spacing:1.1; line-height:1.3; margin-bottom:0.5rem; margin-top:.5rem; padding-top:0.5em; text-transform:none !important;}
+h1:first-of-type:has(+h1,+h2,+h3,+h4,+h5,+h6),h3{font-size:124% !important;}
+h3{margin-top:.6rem;margin-bottom:.6rem;}
+hr{
+	content: "" !important;
+	display: block !important;
+	margin:2rem .1vw 0.5rem .1vw;
+	width:100% !important;
+	max-width: 100vw !important;
+	height:7px !important;
+	border-radius: 49px !important;
+	border:none !important;
+	background:rgba(255, 255, 255, 0.0125) !important;
+	backdrop-filter:blur(5px) !important;
+	-webkit-backdrop-filter:blur(5px) !important;
+	border:none !important;
+	box-shadow:inset -.2px .5px 4px rgba(255, 255, 255, 0.1),inset .2px -.25px 5px rgba(255, 255, 255, 0.1),0 4px 6px rgba(0,0,0,0.05) !important;
+}
+hr.blu{
+	color:#00D9E0CC;
+	text-shadow:0 0 0 #fff,0 1px 3px #0F07ff60,0 -1px 3px #00E95260,0 1px 4px #5E60CE60,0 -1px 4px #0F07ff60,0 1px 5px #3457D560,0 -1px 5px #00D9E060;
+	content: "";
+	display: block;
+	margin:1rem .1vw;
+	width:100%;
+	max-width: 100vw;
+	height:7px;
+	border-radius: 49px;
+	/* Style */
+	border:none;
+	background:#00D9E722;
+	backdrop-filter:blur(5px);
+	-webkit-backdrop-filter:blur(5px);
+	border:none;
+	box-shadow:inset -.2px .5px 4px rgba(255, 255, 255, 0.1),inset .2px -.25px 5px rgba(255, 255, 255, 0.1),inset 0 -.1px 3px #00AAFF66,0 .1px 4px #5E60CE66,0 .1px 3px #3457D560,-.2px -.1px 3px #00D9E066,0 0 6px rgba(0,0,0,0.05);
+}
+.small{font-size:90% !important;white-space: pre-wrap !important;}
+p {margin-bottom:-.50%;margin-top:-.50%}
+</style>
+</head>
+<body>
+<main><img class="logo" src="./favicon.svg" alt="">
+<hr><h1>favicons</h1>
+<h2>erichology assets</h2><p>Place all files into the <code>/assets/icons/</code> folder of your website. The provided HTML snippet and <code>site.webmanifest</code> already use this path.</p><hr>
+<h3>Preview</h3>
+<div class="grid">
+	<figure><img src="./favicon.png" alt="favicon" width="48" height="48"><figcaption>favicon.ico&nbsp;&<br/>favicon.png<br/>(48×48)</figcaption></figure>
+	<figure><img src="./favicon.svg" alt="favicon" width="72" height="72"><figcaption>favicon.svg<br/>(scalable)</figcaption></figure>
+	<figure><img src="./apple-touch-icon.png" alt="apple" width="90" height="90"><figcaption class="small">apple-touch-icon.png<br/>(180×180)</figcaption></figure>
+	<figure><img src="./icon-192.png" alt="192" width="96" height="96"><figcaption>icon-192.png (192×192)&nbsp;&amp;<br/>icon-512.png (512×512)</figcaption></figure>
+</div>
+	<p id="previewWarning">For full functionality, open this page in a web browser. Due to OS limitations, icons may not display outside the browser — on mobile devices, open them directly from the archive.</p><p>If you’ve set up a dark theme version of your SVG icon, viewing the dark or light variant depends on your device’s theme settings. To see how the icon looks in each mode, switch your device between light and dark themes as desired.</p>
+<h2>Insert into <code><b>&lt;head&gt;</b></code></h2><pre id="code"><code >&lt;<i>link&nbsp;rel</i><y>="</y><b>icon</b>" <i>type</i><y>="</y><b>image/x-icon</b><y>"</y><br>&nbsp;&nbsp;&nbsp;<i>href</i><y>="</y><b class="small">/assets/icons/favicon.ico</b><y>"</y>&gt;<br>&lt;<i>link&nbsp;rel</i><y>="</y><b>icon</b>" <i>type</i><y>="</y><b>image/png</b><y>"</y><br>&nbsp;&nbsp;&nbsp;<i>href</i><y>="</y><b class="small">/assets/icons/favicon.png</b><y>"</y>&gt;<br>&lt;<i>link&nbsp;rel</i><y>="</y><b>icon</b>" <i>type</i><y>="</y><b>image/svg+xml</b><y>"</y><br>&nbsp;&nbsp;&nbsp;<i>href</i><y>="</y><b class="small">/assets/icons/favicon.svg</b><y>"</y>&gt;<br>&lt;<i>link&nbsp;rel</i><y>="</y><b class="small">apple-touch-icon</b><y>"</y><br>&nbsp;&nbsp;&nbsp;<i>href</i><y>="</y><b class="small">/assets/icons/apple-touch-icon.png</b><y>"</y>&gt;<br>&lt;<i>link&nbsp;rel</i><y>="</y><b>manifest</b><y>"</y><br>&nbsp;&nbsp;&nbsp;<i>href</i><y>="</y><b class="small">/assets/icons/site.webmanifest</b><y>"</y>&gt;<br>&lt;<i>meta&nbsp;name</i><y>="</y><b class="small">apple-mobile-web-app-title</b><y>"</y><br>&nbsp;&nbsp;&nbsp;<i>content</i><y>="</y><b>erichology</b><y>"</y>&gt;<br></code>
+</pre>
+<p><button id="copy">Copy</button></p>
+    <h2>If you use a different folder for icons</h2>
+    <p>If you decide to use a dedicated folder for icons, move the files there and update the paths in <code>html_code.html</code>, <code>site.webmanifest</code> and in the HTML <code>&lt;head&gt;</code> snippet. Alternatively, set the path prefix in the generator.</p>
+    <p><em>Note: If some images are not displayed when viewing this file directly from the ZIP, try extracting the archive first and then open the file again.</em></p>
+    <a class="bl" href="./favicon.svg" target="_blank">erichologist-favicon</a>
+    </p>
+<hr>
+    <script>
+      const firstImage = document.querySelector("img");
+      if (firstImage.complete && firstImage.naturalWidth > 0) {
+        removeWarning();
+      }
+ else {
+        firstImage.addEventListener('load', removeWarning);
+      }
+      function removeWarning(){
+        const warningElem = document.querySelector("#previewWarning");
+        warningElem.style.display = "none";
+      }
+      async function copy(event) {
+        const button = event.target;
+        const el = document.querySelector('#code');
+        const text = el.textContent?.replace(/></g, '>\n<');
+        const oldText = button.innerText;
+        try {
+          if (navigator.clipboard && window.isSecureContext) {
+            await navigator.clipboard.writeText(text);
+          }
+ else {
+            const ta = document.createElement('textarea');
+            ta.value = text;
+            document.body.appendChild(ta);
+            ta.select();
+            document.execCommand('copy');
+            ta.remove();
+          }
+          button.innerText = 'Copied ✓';
+          button.classList.add("ok");
+        }
+ catch (e) {
+          button.innerText = 'Copy failed ✕';
+          button.classList.add("bad");
+        }
+ finally {
+          button.disabled = true;
+          setTimeout(()=>{
+            button.innerText = oldText;
+            button.disabled = false;
+            button.classList.remove("ok");
+            button.classList.remove("bad");
+          }
+, 3500);
+        }
+      }
+      const copyButton = document.querySelector('#copy');
+      copyButton.style.removeProperty("display");
+      copyButton.addEventListener('click', copy);
+    </script>
+  </main>
+</body>
+</html>
