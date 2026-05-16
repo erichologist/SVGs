@@ -106,5 +106,5 @@
      stroke="rgba(239,239,239,1)"
      stroke-width="2.9px"
      id="line2"
-     style="display:inline;mix-blend-mode:luminosity;stroke:url(#linearGradient3);stroke-width:22;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1137.93;stroke-dashoffset:0" />
+     style="display:inline;mix-blend-mode:lighten;stroke:url(#linearGradient3);stroke-width:22;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1137.93;stroke-dashoffset:0" />
 </svg>

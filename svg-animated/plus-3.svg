@@ -1,0 +1,41 @@
+<svg width="100%" height="100%" viewBox="0 0 100 100" fill="none" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="LG11" collect="always">
+<stop style="stop-color:#EEE;stop-opacity:.9;" offset="0" /><stop style="stop-color:#CCC;stop-opacity:.1;" offset=".5" /><stop style="stop-color:#CCC;stop-opacity:.9;" offset="1" />
+</linearGradient>
+<linearGradient id="LG2" collect="always">
+<stop style="stop-color:#FFF;stop-opacity:1;" offset="0" /><stop style="stop-color:#FFF;stop-opacity:0.76;" offset="0.65" /><stop style="stop-color:#FFF;stop-opacity:0.6;" offset="1" />
+</linearGradient>
+<linearGradient collect="always" xlink:href="#LG11" id="LG3" x1="7.6105247" y1="50.738228" x2="89.765045" y2="50.738228" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.2249907,0,0,1.2249907,-7.7463728,-12.153857)" />
+<linearGradient collect="always" xlink:href="#LG2" id="LG10" x1="50" y1="20.032318" x2="49.627979" y2="112.26526" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.037502,0,0,1.037502,-1.8751034,0.02061501)" />
+</defs>
+<style>
+.line-plus1-a {
+	animation-name:line-plus1-draw;
+	stroke-dasharray:931.034;
+	animation-duration:7s;
+	animation-iteration-count:infinite;
+	animation-direction:alternate;
+	animation-timing-function:ease-in-out;
+}
+.line-plus1-b {
+	animation-name:line-plus1-draw;
+	stroke-dasharray:931.034;
+	animation-duration:7s;
+	animation-iteration-count:infinite;
+	animation-direction:alternate;
+	animation-timing-function:ease-in-out;
+}
+@keyframes line-plus1-draw {
+   0%{stroke-dashoffset:931.034;}
+ 100%{stroke-dashoffset:0;}
+}
+@media (prefers-reduced-motion:reduce) {
+  .line-plus1-a, .line-plus1-b {animation:none;}
+}
+</style>
+<g style="stroke-width:18;stroke-linecap:round;stroke-linejoin:round;">
+	<line id="line1" class="line-plus1-a stroke1" x1="10" y1="50" x2="88.17305" y2="50" style="stroke:url(#LG3);stroke-dasharray:465.517;stroke-dashoffset:465.517;" />
+	<line id="line2" class="line-plus1-b stroke1" x1="50" y1="10" x2="50" y2="88.17305" style="mix-blend-mode:hard-light;fill:none;stroke:url(#LG10);stroke-dasharray:465.517;stroke-dashoffset:465.517;" />
+</g>
+</svg>
