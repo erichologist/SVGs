@@ -184,3 +184,6 @@ details[open] > summary::before {
 	 60% {transform:translateY(-1.5px) rotate(90deg);}
 	100% {transform:translateY(1.5px) rotate(90deg);}
 }
+
+.background--custom { background-color: #443E3C; position: absolute; width: 100%; height: 120%; z-index: -2; top: 0; left: 0; mix-blend-mode:difference; overflow: hidden; overflow-y:clip; }
+canvas#canvas { z-index: -1; position: absolute; min-height:100vh; max-height:100vh; left:-10%; top:-2%; transform:rotate(70deg) scale(1.6, 1.4); --gradient-color-1: #9E9E9EAA; --gradient-color-2: #4F4D4D; --gradient-color-3: #F6F3F3; --gradient-color-4: #746E6C; --gradient-speed: 0.00000584219999999999999998; mix-blend-mode:exclusion; overflow-y:clip; overflow-x:clip; }
