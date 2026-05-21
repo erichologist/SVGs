@@ -1,12 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24">
-<g id="Pause" fill="#87000c" stroke="#87000c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
-   <path id="pause-leftBar" d="M13 15L8 18L8 6L13 9L13 15">
-      <animate id="leftBar" fill="freeze" attributeName="d" begin="1s;leftBar2.end+0.9s" dur="0.4s" values="M13 15L8 18L8 6L13 9L13 15;M9 18L7 18L7 6L9 6L9 18" />
-      <animate id="leftBar2" fill="freeze" attributeName="d" begin="leftBar.end+0.9s" dur="0.4s" values="M13 15L8 18L8 6L13 9L13 15" />
-   </path>
-   <path id="Pause-rightBar" d="M13 9L18 12L18 12L13 15L13 9">
-      <animate id="rightBar" fill="freeze" attributeName="d" begin="1s;rightBar2.end+0.9s" dur="0.4s" values="M13 9L18 12L18 12L13 15L13 9;M15 6L17 6L17 18L15 18L15 6" />
-      <animate id="rightBar2" fill="freeze" attributeName="d" begin="rightBar.end+0.9s" dur="0.4s" values="M13 9L18 12L18 12L13 15L13 9" /> 
-   </path>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24"><g id="Pause" fill="#87000c" stroke="#87000c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path id="pause-leftBar" d="M13 15L8 18L8 6L13 9L13 15"><animate id="leftBar" fill="freeze" attributeName="d" begin="1s;leftBar2.end+0.9s" dur="0.4s" values="M13 15L8 18L8 6L13 9L13 15;M9 18L7 18L7 6L9 6L9 18"/><animate id="leftBar2" fill="freeze" attributeName="d" begin="leftBar.end+0.9s" dur="0.4s" values="M13 15L8 18L8 6L13 9L13 15"/></path><path id="Pause-rightBar" d="M13 9L18 12L18 12L13 15L13 9"><animate id="rightBar" fill="freeze" attributeName="d" begin="1s;rightBar2.end+0.9s" dur="0.4s" values="M13 9L18 12L18 12L13 15L13 9;M15 6L17 6L17 18L15 18L15 6"/><animate id="rightBar2" fill="freeze" attributeName="d" begin="rightBar.end+0.9s" dur="0.4s" values="M13 9L18 12L18 12L13 15L13 9"/></path></g></svg>
