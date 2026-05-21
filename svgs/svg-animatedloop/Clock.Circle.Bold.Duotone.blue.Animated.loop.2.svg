@@ -1,10 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24">
-<g id="circle">
-<path d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10z" stroke="#00FFFF" stroke-width="2.5" fill="blue" fill-opacity=".3"/>
-</g><rect width="2" height="7" x="11" y="6" fill="#ffffff" rx="1">
-<animateTransform attributeName="transform" dur="12s" repeatCount="indefinite" type="rotate" values="0 12 12;360 12 12"/>
-</rect>
-<rect width="2" height="9" x="11" y="11" fill="#ffffff" rx="1">
-<animateTransform attributeName="transform" dur="0.75s" repeatCount="indefinite" type="rotate" values="0 12 12;360 12 12"/>
-</rect>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24"><g id="circle"><path fill="#00f" fill-opacity=".3" stroke="#0FF" stroke-width="2.5" d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10z"/></g><rect width="2" height="7" x="11" y="6" fill="#fff" rx="1"><animateTransform attributeName="transform" dur="12s" repeatCount="indefinite" type="rotate" values="0 12 12;360 12 12"/></rect><rect width="2" height="9" x="11" y="11" fill="#fff" rx="1"><animateTransform attributeName="transform" dur="0.75s" repeatCount="indefinite" type="rotate" values="0 12 12;360 12 12"/></rect></svg>
