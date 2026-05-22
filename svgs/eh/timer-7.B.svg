@@ -1,11 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    version="1.1"
    id="svg1"
-   width="372"
-   height="376"
+   width="100%"
+   height="100%"
    viewBox="0 0 372 376"
    sodipodi:docname="timebgvcc@3x 2.png"
    inkscape:version="1.3.2 (091e20e, 2023-11-25)"
@@ -104,19 +101,6 @@
        y2="109.00626"
        gradientUnits="userSpaceOnUse" />
   </defs>
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#505050"
-     inkscape:zoom="2.1691089"
-     inkscape:cx="103.49872"
-     inkscape:cy="195.01096"
-     inkscape:current-layer="g1" />
   <g
      inkscape:groupmode="layer"
      inkscape:label="Image"
