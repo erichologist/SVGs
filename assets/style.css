@@ -17,7 +17,7 @@ body {
 	color:var(--txtalt);
 	display:block;
 	font-family:var(--snserif);
-	padding:5px;
+	padding:5px 13px;
 	vertical-align:baseline;
 	background:linear-gradient(120deg, transparent 30%, rgba(255,255,255,0.07) 50%, transparent 70%),radial-gradient(circle at 50% 50%, rgba(255,190,175,0.1), transparent 60%),radial-gradient(circle at 80% 80%, rgba(215,200,200,0.12), transparent 50%),linear-gradient(105deg, #1C1B1B, #3D3937, #262524);
 	background-size:300% 300%, 300% 300%, 200% 200%, 200% 200%;
