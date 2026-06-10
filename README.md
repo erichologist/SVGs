@@ -1,4 +1,4 @@
-### ***erichologist.github.io/SVGs/***
+### ***[erichologist.github.io/SVGs/](https://erichologist.github.io/SVGs/)***
 
 [***mosaic***](https://github.com/erichologist/SVGs/blob/main/mosaic.md)
 
