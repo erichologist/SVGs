@@ -47,9 +47,9 @@
 | ![image-two-tone-pink-2] | ![indent] | ![loader-currentcolor-elmnt] | ![loader] | ![magnifying-glass-search-gradient] | ![magnifying-glass-search] |
 | ![moon-twotone-waning-crescent] | ![mouse-scrolling] | ![mouse] | ![movie-reel] | ![music-blue] | ![music-bright-green] |
 | ![music-light-blue] | ![music-pink] | ![music-purple] | ![music-sheet-music-blue-2] | ![music-sheet-music-pink] | ![music-yellow] |
-| ![planets-circles-light-infini] | ![player-2] | ![player] | ![plus-2] | ![plus-4(001)] | ![plus-4(002)] |
-| ![plus-5(001)] | ![plus-5(002)] | ![plus-5(003)] | ![plus-5(004)] | ![plus-6] | ![plus-7] |
-| ![plus-8] | ![plus-9] | ![plus-10] | ![plus-pink-navigation] | ![plus-sign-light-blue] | ![plus-sign-yellow] |
+| ![planets-circles-light-infini] | ![player-2] | ![player] | ![plus-1] | ![plus-2] | ![plus-3] |
+| ![plus-4] | ![plus-5] | ![plus-6] | ![plus-7] | ![plus-8] | ![plus-9] |
+| ![plus-10] | ![plus-11] | ![plus-12] | ![plus-pink-navigation] | ![plus-sign-light-blue] | ![plus-sign-yellow] |
 | ![plus-sign] | ![plus] | ![printer.3d-printing] | ![reddit-alien-orange-2] | ![reddit-alien-orange-3] | ![reddit-alien-orange] |
 | ![reddit-yellow-blue] | ![reddit-yellow-green] | ![reddit-yellow-pink-2] | ![reddit-yellow-pink] | ![scissors-2] | ![scissors] |
 | ![scrolling-mouse-1] | ![scrolling-mouse-2] | ![scrolling-mouse-3] | ![scrolling-mouse-4] | ![scrolling-mouse-5] | ![scrolling-mouse-6] |
@@ -310,18 +310,18 @@
 [planets-circles-light-infini]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/planets-circles-light-infini.svg
 [player-2]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/player-2.svg
 [player]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/player.svg
+[plus-1]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/plus-1.svg
 [plus-2]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/plus-2.svg
-[plus-4(001)]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/plus-4(001).svg
-[plus-4(002)]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/plus-4(002).svg
-[plus-5(001)]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/plus-5(001).svg
-[plus-5(002)]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/plus-5(002).svg
-[plus-5(003)]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/plus-5(003).svg
-[plus-5(004)]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/plus-5(004).svg
+[plus-3]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/plus-3.svg
+[plus-4]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/plus-4.svg
+[plus-5]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/plus-5.svg
 [plus-6]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/plus-6.svg
 [plus-7]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/plus-7.svg
 [plus-8]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/plus-8.svg
 [plus-9]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/plus-9.svg
 [plus-10]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/plus-10.svg
+[plus-11]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/plus-11.svg
+[plus-12]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/plus-12.svg
 [plus-pink-navigation]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/plus-pink-navigation.svg
 [plus-sign-light-blue]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/plus-sign-light-blue.svg
 [plus-sign-yellow]:https://raw.githubusercontent.com/erichologist/SVGs/refs/heads/main/svg-animated/plus-sign-yellow.svg
