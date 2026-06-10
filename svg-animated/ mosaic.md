@@ -49,7 +49,7 @@
 | ![music-light-blue] | ![music-pink] | ![music-purple] | ![music-sheet-music-blue-2] | ![music-sheet-music-pink] | ![music-yellow] |
 | ![planets-circles-light-infini] | ![player-2] | ![player] | ![plus-1] | ![plus-2] | ![plus-3] |
 | ![plus-4] | ![plus-5] | ![plus-6] | ![plus-7] | ![plus-8] | ![plus-9] |
-| ![plus-10] | ![plus-11] | ![plus-12] | ![plus-pink-navigation] | ![plus-sign-light-blue] | ![plus-sign-yellow] |
+| ![plus-pink-navigation] | ![plus-sign-light-blue] | ![plus-sign-yellow] | ![plus-10] | ![plus-11] | ![plus-12] |
 | ![plus-sign] | ![plus] | ![printer.3d-printing] | ![reddit-alien-orange-2] | ![reddit-alien-orange-3] | ![reddit-alien-orange] |
 | ![reddit-yellow-blue] | ![reddit-yellow-green] | ![reddit-yellow-pink-2] | ![reddit-yellow-pink] | ![scissors-2] | ![scissors] |
 | ![scrolling-mouse-1] | ![scrolling-mouse-2] | ![scrolling-mouse-3] | ![scrolling-mouse-4] | ![scrolling-mouse-5] | ![scrolling-mouse-6] |
