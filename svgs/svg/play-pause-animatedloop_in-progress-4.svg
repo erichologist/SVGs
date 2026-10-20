@@ -1,15 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24">
-<g id="Play" fill="#87000c" stroke="#87000c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
-   <path id="Play-L" d="M9 6L9 18L7 18L7 6z">
-      <animate id="leftPlay" fill="freeze" attributeName="d" begin="1s;leftPlay2.end+0.4s" dur="0.4s" values="M9 18L7 18L7 6L9 6L9 18;M13 15L8 18L8 6L13 9L13 15" />
-      <animate id="leftPlay2" fill="freeze" attributeName="d" begin="leftPlay.end+2.4s" dur="0.9s" values="M9 6L9 18L7 18L7 6z" />
-   </path>
-   <path id="Play-R" d="M15 6L17 6L17 18L15 18L15 6">
-      <animate id="rightPlay" fill="freeze" attributeName="d" begin="1s;rightPlay5.end+0.4s" dur="0.4s" values="M15 6L17 6L17 18L15 18L15 6;M13 9L18 12L18 12L13 15L13 9" />
-      <animate id="rightPlay2" fill="freeze" attributeName="d" begin="rightPlay.end+2.4s" dur="0.9s" values="M15 6L17 6L17 18L15 18L15 6" />
-      <animate id="rightPlay3" fill="freeze" attributeName="d" begin="rightPlay2.end+2.4s" dur="0.9s" values="M15 6L17 6L17 18L15 18L15 6;M13 9L18 12L18 12L13 15L13 9" />
-      <animate id="rightPlay4" fill="freeze" attributeName="d" begin="rightPlay3.end+2.4s" dur="0.9s" values="M15 6L17 6L17 18L15 18L15 6" />
-      <animate id="rightPlay5" fill="freeze" attributeName="d" begin="rightPlay4.end+2.4s" dur="0.9s" values="M15 6L17 6L17 18L15 18L15 6;M13 9L18 12L18 12L13 15L13 9" /> 
-   </path>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24"><g id="Play" fill="#87000c" stroke="#87000c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path id="Play-L" d="M9 6L9 18L7 18L7 6z"><animate id="leftPlay" fill="freeze" attributeName="d" begin="1s;leftPlay2.end+0.4s" dur="0.4s" values="M9 18L7 18L7 6L9 6L9 18;M13 15L8 18L8 6L13 9L13 15"/><animate id="leftPlay2" fill="freeze" attributeName="d" begin="leftPlay.end+2.4s" dur="0.9s" values="M9 6L9 18L7 18L7 6z"/></path><path id="Play-R" d="M15 6L17 6L17 18L15 18L15 6"><animate id="rightPlay" fill="freeze" attributeName="d" begin="1s;rightPlay5.end+0.4s" dur="0.4s" values="M15 6L17 6L17 18L15 18L15 6;M13 9L18 12L18 12L13 15L13 9"/><animate id="rightPlay2" fill="freeze" attributeName="d" begin="rightPlay.end+2.4s" dur="0.9s" values="M15 6L17 6L17 18L15 18L15 6"/><animate id="rightPlay3" fill="freeze" attributeName="d" begin="rightPlay2.end+2.4s" dur="0.9s" values="M15 6L17 6L17 18L15 18L15 6;M13 9L18 12L18 12L13 15L13 9"/><animate id="rightPlay4" fill="freeze" attributeName="d" begin="rightPlay3.end+2.4s" dur="0.9s" values="M15 6L17 6L17 18L15 18L15 6"/><animate id="rightPlay5" fill="freeze" attributeName="d" begin="rightPlay4.end+2.4s" dur="0.9s" values="M15 6L17 6L17 18L15 18L15 6;M13 9L18 12L18 12L13 15L13 9"/></path></g></svg>
